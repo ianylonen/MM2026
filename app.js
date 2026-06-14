@@ -79,8 +79,8 @@ async function main() {
   
   document.getElementById("updated").textContent = d(data.generatedAt);
   document.getElementById("completed").textContent = `${data.completedMatches}/${data.totalMatches}`;
-  document.getElementById("leader").textContent = data.standings?.[0]?.name || "–";
-  document.getElementById("leaderPoints").textContent = n(data.standings?.[0]?.total);
+  document.getElementById("leader").textContent = leader?.name || "–";
+  document.getElementById("leaderPoints").textContent = n(leader?.total);
 
   const tbody = document.querySelector("#standingsTable tbody");
   tbody.innerHTML = competitors.map(row => `<tr>
