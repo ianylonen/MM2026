@@ -87,8 +87,8 @@ async function main() {
 
   const indexBody = document.querySelector("#indexTable tbody");
   indexBody.innerHTML = comparisonIndexes.map(row => `<tr>
-    <td class="name">${row.name}</td><td>${n(row.matchPoints)}</td><td class="negative">${n(row.penaltyPoints)}</td><td class="total">${n(row.total)}</td><td>${row.gapFromLeader === 0 ? "–" : n(row.gapFromLeader)}</td>
-  </tr>`).join("") || `<tr><td colspan="5" class="empty">Vertailuindeksejä ei löydy.</td></tr>`;
+    <td class="name">${row.name}</td><td class="total">${n(row.total)}</td><td>${row.gapFromLeader === 0 ? "–" : n(row.gapFromLeader)}</td>
+  </tr>`).join("") || `<tr><td colspan="3" class="empty">Vertailuindeksejä ei löydy.</td></tr>`;
 
   document.getElementById("recentMatches").innerHTML = (data.recentMatches || []).map(m => matchCard(m, false)).join("") || `<p class="empty">Ei pelattuja otteluita.</p>`;
   document.getElementById("upcomingMatches").innerHTML = (data.upcomingMatches || []).map(m => matchCard(m, true)).join("") || `<p class="empty">Ei tulevia otteluita.</p>`;
