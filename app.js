@@ -71,14 +71,16 @@ function matchCard(match, showPredictions=false) {
 
 async function main() {
   const data = await fetch("data.json", { cache: "no-store" }).then(r => r.json());
-  document.getElementById("updated").textContent = d(data.generatedAt);
-  document.getElementById("completed").textContent = `${data.completedMatches}/${data.totalMatches}`;
-  document.getElementById("leader").textContent = data.standings?.[0]?.name || "–";
-  document.getElementById("leaderPoints").textContent = n(data.standings?.[0]?.total);
 
   const allStandings = data.standings || [];
   const competitors = addDisplayRanks(allStandings.filter(row => !isNonCompetitor(row.name)));
   const comparisonIndexes = allStandings.filter(row => isNonCompetitor(row.name));
+  const leader = competitors[0];
+  
+  document.getElementById("updated").textContent = d(data.generatedAt);
+  document.getElementById("completed").textContent = `${data.completedMatches}/${data.totalMatches}`;
+  document.getElementById("leader").textContent = data.standings?.[0]?.name || "–";
+  document.getElementById("leaderPoints").textContent = n(data.standings?.[0]?.total);
 
   const tbody = document.querySelector("#standingsTable tbody");
   tbody.innerHTML = competitors.map(row => `<tr>
