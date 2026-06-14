@@ -70,7 +70,7 @@ function matchCard(match, showPredictions=false) {
 }
 
 async function main() {
-  const data = await fetch("data.json", { cache: "no-store" }).then(r => r.json());
+  const data = await fetch(`data.json?v=${Date.now()}`, { cache: "no-store" }).then(r => r.json());
 
   const allStandings = data.standings || [];
   const competitors = addDisplayRanks(allStandings.filter(row => !isNonCompetitor(row.name)));
