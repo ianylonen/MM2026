@@ -50,1964 +50,22 @@
       "silver": "Senegal"
     },
     "Ykkösrivi": {
-      "gold": "-",
-      "silver": "-"
+      "gold": "",
+      "silver": ""
     },
     "Ristirivi": {
-      "gold": "-",
-      "silver": "-"
+      "gold": "",
+      "silver": ""
     },
     "Kakkosrivi": {
-      "gold": "-",
-      "silver": "-"
+      "gold": "",
+      "silver": ""
     }
   },
-  "matches": [
-    {
-      "id": 1,
-      "group": "A",
-      "date": "2026-06-11T22:00",
-      "match": "Meksiko - Etelä-Afrikka",
-      "odds": {
-        "1": 1.45,
-        "X": 4.35,
-        "2": 8.07
-      },
-      "maxOdds": 8.07,
-      "minOdds": 1.45,
-      "initialResult": "1",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "X",
-        "JP": "2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 2,
-      "group": "A",
-      "date": "2026-06-12T05:00",
-      "match": "Etelä-Korea - Tsekki",
-      "odds": {
-        "1": 2.7,
-        "X": 3.2,
-        "2": 2.8
-      },
-      "maxOdds": 3.2,
-      "minOdds": 2.7,
-      "initialResult": "1",
-      "predictions": {
-        "ChatGPT": "1, X",
-        "Valtsu": "X, 2",
-        "Tupe": "X, 2",
-        "Ian": "X",
-        "Masa": "X, 2",
-        "Tomi": "X",
-        "Aksu": "X, 2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 3,
-      "group": "B",
-      "date": "2026-06-12T22:00",
-      "match": "Kanada - Bosnia-Hertsegovina",
-      "odds": {
-        "1": 1.82,
-        "X": 3.63,
-        "2": 4.58
-      },
-      "maxOdds": 4.58,
-      "minOdds": 1.82,
-      "initialResult": "X",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1, 2",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "X",
-        "JP": "2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 4,
-      "group": "D",
-      "date": "2026-06-13T04:00",
-      "match": "Yhdysvallat - Paraguay",
-      "odds": {
-        "1": 2.01,
-        "X": 3.37,
-        "2": 4
-      },
-      "maxOdds": 4,
-      "minOdds": 2.01,
-      "initialResult": "1",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "X",
-        "Tupe": "1, 2",
-        "Ian": "X",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 5,
-      "group": "B",
-      "date": "2026-06-13T22:00",
-      "match": "Qatar - Sveitsi",
-      "odds": {
-        "1": 10,
-        "X": 5.6,
-        "2": 1.28
-      },
-      "maxOdds": 10,
-      "minOdds": 1.28,
-      "initialResult": "X",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "2",
-        "Masa": "X",
-        "Tomi": "2",
-        "Aksu": "X, 2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 6,
-      "group": "C",
-      "date": "2026-06-14T01:00",
-      "match": "Brasilia - Marokko",
-      "odds": {
-        "1": 1.66,
-        "X": 3.87,
-        "2": 5.68
-      },
-      "maxOdds": 5.68,
-      "minOdds": 1.66,
-      "initialResult": "X",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 7,
-      "group": "C",
-      "date": "2026-06-14T04:00",
-      "match": "Haiti - Skotlanti",
-      "odds": {
-        "1": 7.67,
-        "X": 4.6,
-        "2": 1.44
-      },
-      "maxOdds": 7.67,
-      "minOdds": 1.44,
-      "initialResult": "2",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "X",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "X",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 8,
-      "group": "D",
-      "date": "2026-06-14T07:00",
-      "match": "Australia - Turkki",
-      "odds": {
-        "1": 4.8,
-        "X": 3.62,
-        "2": 1.79
-      },
-      "maxOdds": 4.8,
-      "minOdds": 1.79,
-      "initialResult": "1",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "X, 2",
-        "Masa": "X",
-        "Tomi": "1, X",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 9,
-      "group": "E",
-      "date": "2026-06-14T20:00",
-      "match": "Saksa - Curacao",
-      "odds": {
-        "1": 1.04,
-        "X": 16.33,
-        "2": 24.5
-      },
-      "maxOdds": 24.5,
-      "minOdds": 1.04,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1, X",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 10,
-      "group": "F",
-      "date": "2026-06-14T23:00",
-      "match": "Hollanti - Japani",
-      "odds": {
-        "1": 2,
-        "X": 3.63,
-        "2": 3.7
-      },
-      "maxOdds": 3.7,
-      "minOdds": 2,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1, X",
-        "Valtsu": "1, 2",
-        "Tupe": "1, X",
-        "Ian": "X",
-        "Masa": "1, X",
-        "Tomi": "X",
-        "Aksu": "1, X",
-        "JP": "X",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 11,
-      "group": "E",
-      "date": "2026-06-15T02:00",
-      "match": "Norsunluurannikko - Ecuador",
-      "odds": {
-        "1": 3.6,
-        "X": 2.95,
-        "2": 2.35
-      },
-      "maxOdds": 3.6,
-      "minOdds": 2.35,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "X, 2",
-        "Valtsu": "1, 2",
-        "Tupe": "2",
-        "Ian": "X",
-        "Masa": "X, 2",
-        "Tomi": "X",
-        "Aksu": "X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 12,
-      "group": "F",
-      "date": "2026-06-15T05:00",
-      "match": "Ruotsi - Tunisia",
-      "odds": {
-        "1": 1.97,
-        "X": 3.42,
-        "2": 4.17
-      },
-      "maxOdds": 4.17,
-      "minOdds": 1.97,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1, X",
-        "Masa": "X",
-        "Tomi": "X, 2",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 13,
-      "group": "H",
-      "date": "2026-06-15T19:00",
-      "match": "Espanja - Kap Verde",
-      "odds": {
-        "1": 1.1,
-        "X": 10.03,
-        "2": 15.05
-      },
-      "maxOdds": 15.05,
-      "minOdds": 1.1,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1, X",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 14,
-      "group": "G",
-      "date": "2026-06-15T22:00",
-      "match": "Belgia - Egypti",
-      "odds": {
-        "1": 1.66,
-        "X": 4.1,
-        "2": 5.1
-      },
-      "maxOdds": 5.1,
-      "minOdds": 1.66,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1, X",
-        "Ian": "1",
-        "Masa": "2",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 15,
-      "group": "H",
-      "date": "2026-06-16T01:00",
-      "match": "Saudi-Arabia - Uruguay",
-      "odds": {
-        "1": 7.53,
-        "X": 4.2,
-        "2": 1.5
-      },
-      "maxOdds": 7.53,
-      "minOdds": 1.5,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "1, 2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 16,
-      "group": "G",
-      "date": "2026-06-16T04:00",
-      "match": "Iran - Uusi-Seelanti",
-      "odds": {
-        "1": 1.9,
-        "X": 3.5,
-        "2": 4.3
-      },
-      "maxOdds": 4.3,
-      "minOdds": 1.9,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "X",
-        "Tupe": "1",
-        "Ian": "X",
-        "Masa": "X",
-        "Tomi": "1, 2",
-        "Aksu": "X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 17,
-      "group": "I",
-      "date": "2026-06-16T22:00",
-      "match": "Ranska - Senegal",
-      "odds": {
-        "1": 1.45,
-        "X": 4.53,
-        "2": 7.5
-      },
-      "maxOdds": 7.5,
-      "minOdds": 1.45,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 18,
-      "group": "I",
-      "date": "2026-06-17T01:00",
-      "match": "Irak - Norja",
-      "odds": {
-        "1": 10,
-        "X": 6.03,
-        "2": 1.24
-      },
-      "maxOdds": 10,
-      "minOdds": 1.24,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "X, 2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 19,
-      "group": "J",
-      "date": "2026-06-17T04:00",
-      "match": "Argentiina - Algeria",
-      "odds": {
-        "1": 1.43,
-        "X": 4.4,
-        "2": 8.77
-      },
-      "maxOdds": 8.77,
-      "minOdds": 1.43,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 20,
-      "group": "J",
-      "date": "2026-06-17T07:00",
-      "match": "Itävalta - Jordania",
-      "odds": {
-        "1": 1.34,
-        "X": 5.2,
-        "2": 9.53
-      },
-      "maxOdds": 9.53,
-      "minOdds": 1.34,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "X",
-        "Masa": "X",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 21,
-      "group": "K",
-      "date": "2026-06-17T20:00",
-      "match": "Portugali - Kongo",
-      "odds": {
-        "1": 1.29,
-        "X": 5.5,
-        "2": 10
-      },
-      "maxOdds": 10,
-      "minOdds": 1.29,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 22,
-      "group": "L",
-      "date": "2026-06-17T23:00",
-      "match": "Englanti - Kroatia",
-      "odds": {
-        "1": 1.77,
-        "X": 3.73,
-        "2": 4.83
-      },
-      "maxOdds": 4.83,
-      "minOdds": 1.77,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1, X",
-        "Tupe": "1, X",
-        "Ian": "1, X",
-        "Masa": "X, 2",
-        "Tomi": "X, 2",
-        "Aksu": "1, X",
-        "JP": "1, 2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 23,
-      "group": "L",
-      "date": "2026-06-18T02:00",
-      "match": "Ghana - Panama",
-      "odds": {
-        "1": 2.02,
-        "X": 3.52,
-        "2": 3.78
-      },
-      "maxOdds": 3.78,
-      "minOdds": 2.02,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1, X",
-        "Valtsu": "X",
-        "Tupe": "X",
-        "Ian": "1",
-        "Masa": "2",
-        "Tomi": "1",
-        "Aksu": "X",
-        "JP": "X",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 24,
-      "group": "K",
-      "date": "2026-06-18T05:00",
-      "match": "Uzbekistan - Kolumbia",
-      "odds": {
-        "1": 2.03,
-        "X": 3.3,
-        "2": 4.07
-      },
-      "maxOdds": 4.07,
-      "minOdds": 2.03,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1, X",
-        "Valtsu": "X",
-        "Tupe": "2",
-        "Ian": "X",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 25,
-      "group": "A",
-      "date": "2026-06-18T19:00",
-      "match": "Tsekki - Etelä-Afrikka",
-      "odds": {
-        "1": 2.03,
-        "X": 3.3,
-        "2": 4.07
-      },
-      "maxOdds": 4.07,
-      "minOdds": 2.03,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1, X",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1, X",
-        "Masa": "X",
-        "Tomi": "1",
-        "Aksu": "X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 26,
-      "group": "B",
-      "date": "2026-06-18T22:00",
-      "match": "Sveitsi - Bosnia-Hertsegovina",
-      "odds": {
-        "1": 1.59,
-        "X": 4.03,
-        "2": 6.07
-      },
-      "maxOdds": 6.07,
-      "minOdds": 1.59,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "X",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 27,
-      "group": "B",
-      "date": "2026-06-19T01:00",
-      "match": "Kanada - Qatar",
-      "odds": {
-        "1": 1.35,
-        "X": 4.8,
-        "2": 10
-      },
-      "maxOdds": 10,
-      "minOdds": 1.35,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 28,
-      "group": "A",
-      "date": "2026-06-19T04:00",
-      "match": "Meksiko - Etelä-Korea",
-      "odds": {
-        "1": 1.8,
-        "X": 3.6,
-        "2": 4.8
-      },
-      "maxOdds": 4.8,
-      "minOdds": 1.8,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1, 2",
-        "Aksu": "X",
-        "JP": "1, 2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 29,
-      "group": "D",
-      "date": "2026-06-19T22:00",
-      "match": "Yhdysvallat - Australia",
-      "odds": {
-        "1": 1.75,
-        "X": 3.73,
-        "2": 4.9
-      },
-      "maxOdds": 4.9,
-      "minOdds": 1.75,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1, 2",
-        "Masa": "1",
-        "Tomi": "X, 2",
-        "Aksu": "1, X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 30,
-      "group": "C",
-      "date": "2026-06-20T01:00",
-      "match": "Skotlanti - Marokko",
-      "odds": {
-        "1": 3.92,
-        "X": 3.23,
-        "2": 2.1
-      },
-      "maxOdds": 3.92,
-      "minOdds": 2.1,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "X, 2",
-        "Valtsu": "2",
-        "Tupe": "X",
-        "Ian": "X",
-        "Masa": "1",
-        "Tomi": "X, 2",
-        "Aksu": "1, 2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 31,
-      "group": "C",
-      "date": "2026-06-20T03:30",
-      "match": "Brasilia - Haiti",
-      "odds": {
-        "1": 1.05,
-        "X": 14.33,
-        "2": 21.5
-      },
-      "maxOdds": 21.5,
-      "minOdds": 1.05,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1, X",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 32,
-      "group": "D",
-      "date": "2026-06-20T06:00",
-      "match": "Turkki - Paraguay",
-      "odds": {
-        "1": 2.3,
-        "X": 3.17,
-        "2": 3.4
-      },
-      "maxOdds": 3.4,
-      "minOdds": 2.3,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "X",
-        "Tupe": "X, 2",
-        "Ian": "1, X",
-        "Masa": "1, X",
-        "Tomi": "X",
-        "Aksu": "X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 33,
-      "group": "F",
-      "date": "2026-06-20T20:00",
-      "match": "Hollanti - Ruotsi",
-      "odds": {
-        "1": 1.69,
-        "X": 3.87,
-        "2": 5.15
-      },
-      "maxOdds": 5.15,
-      "minOdds": 1.69,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "2",
-        "Tupe": "X",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 34,
-      "group": "E",
-      "date": "2026-06-20T23:00",
-      "match": "Saksa - Norsunluurannikko",
-      "odds": {
-        "1": 1.55,
-        "X": 4.32,
-        "2": 5.97
-      },
-      "maxOdds": 5.97,
-      "minOdds": 1.55,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 35,
-      "group": "E",
-      "date": "2026-06-21T03:00",
-      "match": "Ecuador - Curacao",
-      "odds": {
-        "1": 1.28,
-        "X": 5.63,
-        "2": 10
-      },
-      "maxOdds": 10,
-      "minOdds": 1.28,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "X",
-        "JP": "2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 36,
-      "group": "F",
-      "date": "2026-06-21T07:00",
-      "match": "Tunisia - Japani",
-      "odds": {
-        "1": 4.52,
-        "X": 3.35,
-        "2": 1.92
-      },
-      "maxOdds": 4.52,
-      "minOdds": 1.92,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "X, 2",
-        "Ian": "X",
-        "Masa": "X",
-        "Tomi": "X, 2",
-        "Aksu": "X, 2",
-        "JP": "1, 2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 37,
-      "group": "H",
-      "date": "2026-06-21T19:00",
-      "match": "Espanja - Saudi-Arabia",
-      "odds": {
-        "1": 1.13,
-        "X": 8.53,
-        "2": 12.8
-      },
-      "maxOdds": 12.8,
-      "minOdds": 1.13,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 38,
-      "group": "G",
-      "date": "2026-06-21T22:00",
-      "match": "Belgia - Iran",
-      "odds": {
-        "1": 1.44,
-        "X": 4.5,
-        "2": 8.17
-      },
-      "maxOdds": 8.17,
-      "minOdds": 1.44,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 39,
-      "group": "H",
-      "date": "2026-06-22T01:00",
-      "match": "Uruguay - Kap Verde",
-      "odds": {
-        "1": 1.46,
-        "X": 4.5,
-        "2": 7.2
-      },
-      "maxOdds": 7.2,
-      "minOdds": 1.46,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 40,
-      "group": "G",
-      "date": "2026-06-22T04:00",
-      "match": "Uusi-Seelanti - Egypti",
-      "odds": {
-        "1": 5.17,
-        "X": 3.67,
-        "2": 1.73
-      },
-      "maxOdds": 5.17,
-      "minOdds": 1.73,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "X, 2",
-        "Ian": "2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "X",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 41,
-      "group": "J",
-      "date": "2026-06-22T20:00",
-      "match": "Argentiina - Itävalta",
-      "odds": {
-        "1": 1.68,
-        "X": 3.78,
-        "2": 5.4
-      },
-      "maxOdds": 5.4,
-      "minOdds": 1.68,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "X",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 42,
-      "group": "I",
-      "date": "2026-06-23T00:00",
-      "match": "Ranska - Irak",
-      "odds": {
-        "1": 1.14,
-        "X": 7.8,
-        "2": 11.7
-      },
-      "maxOdds": 11.7,
-      "minOdds": 1.14,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 43,
-      "group": "I",
-      "date": "2026-06-23T03:00",
-      "match": "Norja - Senegal",
-      "odds": {
-        "1": 2.15,
-        "X": 3.45,
-        "2": 3.5
-      },
-      "maxOdds": 3.5,
-      "minOdds": 2.15,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1, X",
-        "Valtsu": "1, 2",
-        "Tupe": "1, X",
-        "Ian": "X",
-        "Masa": "1, X",
-        "Tomi": "1",
-        "Aksu": "X",
-        "JP": "2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 44,
-      "group": "J",
-      "date": "2026-06-23T06:00",
-      "match": "Jordania - Algeria",
-      "odds": {
-        "1": 5.47,
-        "X": 3.9,
-        "2": 1.65
-      },
-      "maxOdds": 5.47,
-      "minOdds": 1.65,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "2",
-        "Masa": "X",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 45,
-      "group": "K",
-      "date": "2026-06-23T20:00",
-      "match": "Portugali - Uzbekistan",
-      "odds": {
-        "1": 1.26,
-        "X": 6.13,
-        "2": 10
-      },
-      "maxOdds": 10,
-      "minOdds": 1.26,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1, 2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 46,
-      "group": "L",
-      "date": "2026-06-23T23:00",
-      "match": "Englanti - Ghana",
-      "odds": {
-        "1": 1.34,
-        "X": 5.03,
-        "2": 10
-      },
-      "maxOdds": 10,
-      "minOdds": 1.34,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1, X",
-        "Aksu": "1, X",
-        "JP": "X",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 47,
-      "group": "L",
-      "date": "2026-06-24T02:00",
-      "match": "Panama - Kroatia",
-      "odds": {
-        "1": 7.07,
-        "X": 3.9,
-        "2": 1.55
-      },
-      "maxOdds": 7.07,
-      "minOdds": 1.55,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "X, 2",
-        "Ian": "2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 48,
-      "group": "K",
-      "date": "2026-06-24T05:00",
-      "match": "Kolumbia - Kongo",
-      "odds": {
-        "1": 1.5,
-        "X": 4.13,
-        "2": 7.57
-      },
-      "maxOdds": 7.57,
-      "minOdds": 1.5,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 49,
-      "group": "B",
-      "date": "2026-06-24T22:00",
-      "match": "Sveitsi - Kanada",
-      "odds": {
-        "1": 2.07,
-        "X": 3.37,
-        "2": 3.77
-      },
-      "maxOdds": 3.77,
-      "minOdds": 2.07,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1, X",
-        "Valtsu": "1, X",
-        "Tupe": "X",
-        "Ian": "X",
-        "Masa": "1",
-        "Tomi": "X",
-        "Aksu": "X",
-        "JP": "1, 2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 50,
-      "group": "B",
-      "date": "2026-06-24T22:00",
-      "match": "Bosnia-Hertsegovina - Qatar",
-      "odds": {
-        "1": 1.69,
-        "X": 3.73,
-        "2": 5.58
-      },
-      "maxOdds": 5.58,
-      "minOdds": 1.69,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 51,
-      "group": "C",
-      "date": "2026-06-25T01:00",
-      "match": "Marokko - Haiti",
-      "odds": {
-        "1": 1.34,
-        "X": 5.05,
-        "2": 10
-      },
-      "maxOdds": 10,
-      "minOdds": 1.34,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 52,
-      "group": "C",
-      "date": "2026-06-25T01:00",
-      "match": "Skotlanti - Brasilia",
-      "odds": {
-        "1": 8.6,
-        "X": 4.67,
-        "2": 1.4
-      },
-      "maxOdds": 8.6,
-      "minOdds": 1.4,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 53,
-      "group": "A",
-      "date": "2026-06-25T04:00",
-      "match": "Etelä-Afrikka - Etelä-Korea",
-      "odds": {
-        "1": 3.83,
-        "X": 3.38,
-        "2": 2.04
-      },
-      "maxOdds": 3.83,
-      "minOdds": 2.04,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "X, 2",
-        "Valtsu": "2",
-        "Tupe": "1",
-        "Ian": "2",
-        "Masa": "X",
-        "Tomi": "X, 2",
-        "Aksu": "1, 2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 54,
-      "group": "A",
-      "date": "2026-06-25T04:00",
-      "match": "Tsekki - Meksiko",
-      "odds": {
-        "1": 3.92,
-        "X": 3.4,
-        "2": 2.01
-      },
-      "maxOdds": 3.92,
-      "minOdds": 2.01,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "X, 2",
-        "Valtsu": "1, 2",
-        "Tupe": "2",
-        "Ian": "2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 55,
-      "group": "E",
-      "date": "2026-06-25T23:00",
-      "match": "Curacao - Norsunluurannikko",
-      "odds": {
-        "1": 10,
-        "X": 4.97,
-        "2": 1.33
-      },
-      "maxOdds": 10,
-      "minOdds": 1.33,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 56,
-      "group": "E",
-      "date": "2026-06-25T23:00",
-      "match": "Ecuador - Saksa",
-      "odds": {
-        "1": 5.2,
-        "X": 3.82,
-        "2": 1.69
-      },
-      "maxOdds": 5.2,
-      "minOdds": 1.69,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 57,
-      "group": "F",
-      "date": "2026-06-26T02:00",
-      "match": "Tunisia - Hollanti",
-      "odds": {
-        "1": 6.2,
-        "X": 4.07,
-        "2": 1.56
-      },
-      "maxOdds": 6.2,
-      "minOdds": 1.56,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "X, 2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 58,
-      "group": "F",
-      "date": "2026-06-26T02:00",
-      "match": "Japani - Ruotsi",
-      "odds": {
-        "1": 2.07,
-        "X": 3.45,
-        "2": 3.6
-      },
-      "maxOdds": 3.6,
-      "minOdds": 2.07,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "X, 2",
-        "Tupe": "X",
-        "Ian": "1,  X",
-        "Masa": "X, 2",
-        "Tomi": "1",
-        "Aksu": "X",
-        "JP": "X, 2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 59,
-      "group": "D",
-      "date": "2026-06-26T05:00",
-      "match": "Turkki - Yhdysvallat",
-      "odds": {
-        "1": 2.75,
-        "X": 3.43,
-        "2": 2.55
-      },
-      "maxOdds": 3.43,
-      "minOdds": 2.55,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "X, 2",
-        "Valtsu": "1, X",
-        "Tupe": "1, X",
-        "Ian": "X, 2",
-        "Masa": "1, 2",
-        "Tomi": "X",
-        "Aksu": "X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 60,
-      "group": "D",
-      "date": "2026-06-26T05:00",
-      "match": "Paraguay - Australia",
-      "odds": {
-        "1": 2.21,
-        "X": 3.23,
-        "2": 3.5
-      },
-      "maxOdds": 3.5,
-      "minOdds": 2.21,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "X",
-        "Masa": "1, X",
-        "Tomi": "X",
-        "Aksu": "X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 61,
-      "group": "I",
-      "date": "2026-06-26T22:00",
-      "match": "Norja - Ranska",
-      "odds": {
-        "1": 4.97,
-        "X": 3.73,
-        "2": 1.73
-      },
-      "maxOdds": 4.97,
-      "minOdds": 1.73,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "X",
-        "Ian": "X, 2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "X",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 62,
-      "group": "I",
-      "date": "2026-06-26T22:00",
-      "match": "Senegal - Irak",
-      "odds": {
-        "1": 1.48,
-        "X": 4.27,
-        "2": 7.27
-      },
-      "maxOdds": 7.27,
-      "minOdds": 1.48,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "X",
-        "Tomi": "1",
-        "Aksu": "X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 63,
-      "group": "H",
-      "date": "2026-06-27T03:00",
-      "match": "Kap Verde - Saudi-Arabia",
-      "odds": {
-        "1": 2.8,
-        "X": 3.43,
-        "2": 2.53
-      },
-      "maxOdds": 3.43,
-      "minOdds": 2.53,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "X, 2",
-        "Tupe": "X",
-        "Ian": "X",
-        "Masa": "1",
-        "Tomi": "X",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 64,
-      "group": "H",
-      "date": "2026-06-27T03:00",
-      "match": "Uruguay - Espanja",
-      "odds": {
-        "1": 5.3,
-        "X": 3.93,
-        "2": 1.64
-      },
-      "maxOdds": 5.3,
-      "minOdds": 1.64,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "X, 2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 65,
-      "group": "G",
-      "date": "2026-06-27T06:00",
-      "match": "Egypti - Iran",
-      "odds": {
-        "1": 2.33,
-        "X": 3.03,
-        "2": 3.47
-      },
-      "maxOdds": 3.47,
-      "minOdds": 2.33,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1, X",
-        "Tomi": "X",
-        "Aksu": "1",
-        "JP": "2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 66,
-      "group": "G",
-      "date": "2026-06-27T06:00",
-      "match": "Uusi-Seelanti - Belgia",
-      "odds": {
-        "1": 10,
-        "X": 5.7,
-        "2": 1.29
-      },
-      "maxOdds": 10,
-      "minOdds": 1.29,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "X, 2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 67,
-      "group": "L",
-      "date": "2026-06-28T00:00",
-      "match": "Kroatia - Ghana",
-      "odds": {
-        "1": 1.75,
-        "X": 3.67,
-        "2": 5
-      },
-      "maxOdds": 5,
-      "minOdds": 1.75,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1, X",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1, 2",
-        "Aksu": "1",
-        "JP": "1, 2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 68,
-      "group": "L",
-      "date": "2026-06-28T02:30",
-      "match": "Panama - Englanti",
-      "odds": {
-        "1": 10,
-        "X": 6.13,
-        "2": 1.25
-      },
-      "maxOdds": 10,
-      "minOdds": 1.25,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 69,
-      "group": "K",
-      "date": "2026-06-28T02:30",
-      "match": "Kolumbia - Portugali",
-      "odds": {
-        "1": 3.43,
-        "X": 3.28,
-        "2": 2.21
-      },
-      "maxOdds": 3.43,
-      "minOdds": 2.21,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "X, 2",
-        "Tupe": "2",
-        "Ian": "X, 2",
-        "Masa": "X, 2",
-        "Tomi": "X, 2",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 70,
-      "group": "K",
-      "date": "2026-06-28T02:30",
-      "match": "Kongo - Uzbekistan",
-      "odds": {
-        "1": 2.55,
-        "X": 3.33,
-        "2": 2.83
-      },
-      "maxOdds": 3.33,
-      "minOdds": 2.55,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "X",
-        "Tupe": "X",
-        "Ian": "X",
-        "Masa": "1, X",
-        "Tomi": "X",
-        "Aksu": "X, 2",
-        "JP": "2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 71,
-      "group": "J",
-      "date": "2026-06-28T05:00",
-      "match": "Algeria - Itävalta",
-      "odds": {
-        "1": 3.53,
-        "X": 3.28,
-        "2": 2.17
-      },
-      "maxOdds": 3.53,
-      "minOdds": 2.17,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "X",
-        "Tupe": "2",
-        "Ian": "X",
-        "Masa": "2",
-        "Tomi": "X",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    },
-    {
-      "id": 72,
-      "group": "J",
-      "date": "2026-06-28T05:00",
-      "match": "Jordania - Argentiina",
-      "odds": {
-        "1": 10.46,
-        "X": 6.97,
-        "2": 1.18
-      },
-      "maxOdds": 10.46,
-      "minOdds": 1.18,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "X, 2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "1, 2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      }
-    }
-  ],
+  "finalResult": {
+    "gold": "",
+    "silver": ""
+  },
   "teamTranslations": {
     "Mexico": "Meksiko",
     "South Africa": "Etelä-Afrikka",
@@ -2032,7 +90,6 @@
     "Curaçao": "Curacao",
     "Ivory Coast": "Norsunluurannikko",
     "Côte d’Ivoire": "Norsunluurannikko",
-    "Cote d'Ivoire": "Norsunluurannikko",
     "Ecuador": "Ecuador",
     "Netherlands": "Hollanti",
     "Japan": "Japani",
@@ -2064,8 +121,2144 @@
     "Ghana": "Ghana",
     "Panama": "Panama"
   },
-  "notes": [
-    "Tämä konfiguraatio on muodostettu Excelistä MM2026Seuranta.xlsx.",
-    "GitHub Actions voi hakea tulokset football-data.orgista ja muodostaa data.json-tiedoston."
+  "teamFlags": {
+    "Meksiko": "https://flagcdn.com/w80/mx.png",
+    "Etelä-Afrikka": "https://flagcdn.com/w80/za.png",
+    "Etelä-Korea": "https://flagcdn.com/w80/kr.png",
+    "Tsekki": "https://flagcdn.com/w80/cz.png",
+    "Kanada": "https://flagcdn.com/w80/ca.png",
+    "Bosnia-Hertsegovina": "https://flagcdn.com/w80/ba.png",
+    "Qatar": "https://flagcdn.com/w80/qa.png",
+    "Sveitsi": "https://flagcdn.com/w80/ch.png",
+    "Brasilia": "https://flagcdn.com/w80/br.png",
+    "Marokko": "https://flagcdn.com/w80/ma.png",
+    "Haiti": "https://flagcdn.com/w80/ht.png",
+    "Skotlanti": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
+    "Yhdysvallat": "https://flagcdn.com/w80/us.png",
+    "Paraguay": "https://flagcdn.com/w80/py.png",
+    "Australia": "https://flagcdn.com/w80/au.png",
+    "Turkki": "https://flagcdn.com/w80/tr.png",
+    "Saksa": "https://flagcdn.com/w80/de.png",
+    "Curacao": "https://flagcdn.com/w80/cw.png",
+    "Norsunluurannikko": "https://flagcdn.com/w80/ci.png",
+    "Ecuador": "https://flagcdn.com/w80/ec.png",
+    "Hollanti": "https://flagcdn.com/w80/nl.png",
+    "Japani": "https://flagcdn.com/w80/jp.png",
+    "Ruotsi": "https://flagcdn.com/w80/se.png",
+    "Tunisia": "https://flagcdn.com/w80/tn.png",
+    "Belgia": "https://flagcdn.com/w80/be.png",
+    "Egypti": "https://flagcdn.com/w80/eg.png",
+    "Iran": "https://flagcdn.com/w80/ir.png",
+    "Uusi-Seelanti": "https://flagcdn.com/w80/nz.png",
+    "Espanja": "https://flagcdn.com/w80/es.png",
+    "Kap Verde": "https://flagcdn.com/w80/cv.png",
+    "Saudi-Arabia": "https://flagcdn.com/w80/sa.png",
+    "Uruguay": "https://flagcdn.com/w80/uy.png",
+    "Ranska": "https://flagcdn.com/w80/fr.png",
+    "Senegal": "https://flagcdn.com/w80/sn.png",
+    "Irak": "https://flagcdn.com/w80/iq.png",
+    "Norja": "https://flagcdn.com/w80/no.png",
+    "Argentiina": "https://flagcdn.com/w80/ar.png",
+    "Algeria": "https://flagcdn.com/w80/dz.png",
+    "Itävalta": "https://flagcdn.com/w80/at.png",
+    "Jordania": "https://flagcdn.com/w80/jo.png",
+    "Portugali": "https://flagcdn.com/w80/pt.png",
+    "Kongo": "https://flagcdn.com/w80/cd.png",
+    "Uzbekistan": "https://flagcdn.com/w80/uz.png",
+    "Kolumbia": "https://flagcdn.com/w80/co.png",
+    "Englanti": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+    "Kroatia": "https://flagcdn.com/w80/hr.png",
+    "Ghana": "https://flagcdn.com/w80/gh.png",
+    "Panama": "https://flagcdn.com/w80/pa.png"
+  },
+  "matches": [
+    {
+      "id": 1,
+      "group": "A",
+      "date": "2026-06-11T22:00:00",
+      "match": "Meksiko - Etelä-Afrikka",
+      "home": "Meksiko",
+      "away": "Etelä-Afrikka",
+      "odds": {
+        "1": 1.45,
+        "X": 4.35,
+        "2": 8.07
+      },
+      "maxOdds": 8.07,
+      "minOdds": 1.45,
+      "initialResult": "1",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 2,
+      "group": "A",
+      "date": "2026-06-12T05:00:00",
+      "match": "Etelä-Korea - Tsekki",
+      "home": "Etelä-Korea",
+      "away": "Tsekki",
+      "odds": {
+        "1": 2.7,
+        "X": 3.2,
+        "2": 2.8
+      },
+      "maxOdds": 3.2,
+      "minOdds": 2.7,
+      "initialResult": "1",
+      "predictions": {
+        "ChatGPT": "1, X",
+        "Valtsu": "X, 2",
+        "Tupe": "X, 2",
+        "Ian": "X",
+        "Masa": "X, 2",
+        "Tomi": "X",
+        "Aksu": "X, 2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 3,
+      "group": "B",
+      "date": "2026-06-12T22:00:00",
+      "match": "Kanada - Bosnia-Hertsegovina",
+      "home": "Kanada",
+      "away": "Bosnia-Hertsegovina",
+      "odds": {
+        "1": 1.82,
+        "X": 3.63,
+        "2": 4.58
+      },
+      "maxOdds": 4.58,
+      "minOdds": 1.82,
+      "initialResult": "X",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1, 2",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 4,
+      "group": "D",
+      "date": "2026-06-13T04:00:00",
+      "match": "Yhdysvallat - Paraguay",
+      "home": "Yhdysvallat",
+      "away": "Paraguay",
+      "odds": {
+        "1": 2.01,
+        "X": 3.37,
+        "2": 4
+      },
+      "maxOdds": 4,
+      "minOdds": 2.01,
+      "initialResult": "1",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "X",
+        "Tupe": "1, 2",
+        "Ian": "X",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 5,
+      "group": "B",
+      "date": "2026-06-13T22:00:00",
+      "match": "Qatar - Sveitsi",
+      "home": "Qatar",
+      "away": "Sveitsi",
+      "odds": {
+        "1": 10,
+        "X": 5.6,
+        "2": 1.28
+      },
+      "maxOdds": 10,
+      "minOdds": 1.28,
+      "initialResult": "X",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "X",
+        "Tomi": "2",
+        "Aksu": "X, 2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 6,
+      "group": "C",
+      "date": "2026-06-14T01:00:00",
+      "match": "Brasilia - Marokko",
+      "home": "Brasilia",
+      "away": "Marokko",
+      "odds": {
+        "1": 1.66,
+        "X": 3.87,
+        "2": 5.68
+      },
+      "maxOdds": 5.68,
+      "minOdds": 1.66,
+      "initialResult": "X",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 7,
+      "group": "C",
+      "date": "2026-06-14T04:00:00",
+      "match": "Haiti - Skotlanti",
+      "home": "Haiti",
+      "away": "Skotlanti",
+      "odds": {
+        "1": 7.67,
+        "X": 4.6,
+        "2": 1.44
+      },
+      "maxOdds": 7.67,
+      "minOdds": 1.44,
+      "initialResult": "2",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "X",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 8,
+      "group": "D",
+      "date": "2026-06-14T07:00:00",
+      "match": "Australia - Turkki",
+      "home": "Australia",
+      "away": "Turkki",
+      "odds": {
+        "1": 4.8,
+        "X": 3.62,
+        "2": 1.79
+      },
+      "maxOdds": 4.8,
+      "minOdds": 1.79,
+      "initialResult": "1",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "X, 2",
+        "Masa": "X",
+        "Tomi": "1, X",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 9,
+      "group": "E",
+      "date": "2026-06-14T20:00:00",
+      "match": "Saksa - Curacao",
+      "home": "Saksa",
+      "away": "Curacao",
+      "odds": {
+        "1": 1.04,
+        "X": 16.33,
+        "2": 24.5
+      },
+      "maxOdds": 24.5,
+      "minOdds": 1.04,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1, X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 10,
+      "group": "F",
+      "date": "2026-06-14T23:00:00",
+      "match": "Hollanti - Japani",
+      "home": "Hollanti",
+      "away": "Japani",
+      "odds": {
+        "1": 2,
+        "X": 3.63,
+        "2": 3.7
+      },
+      "maxOdds": 3.7,
+      "minOdds": 2,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1, X",
+        "Valtsu": "1, 2",
+        "Tupe": "1, X",
+        "Ian": "X",
+        "Masa": "1, X",
+        "Tomi": "X",
+        "Aksu": "1, X",
+        "JP": "X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 11,
+      "group": "E",
+      "date": "2026-06-15T02:00:00",
+      "match": "Norsunluurannikko - Ecuador",
+      "home": "Norsunluurannikko",
+      "away": "Ecuador",
+      "odds": {
+        "1": 3.6,
+        "X": 2.95,
+        "2": 2.35
+      },
+      "maxOdds": 3.6,
+      "minOdds": 2.35,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "X, 2",
+        "Valtsu": "1, 2",
+        "Tupe": "2",
+        "Ian": "X",
+        "Masa": "X, 2",
+        "Tomi": "X",
+        "Aksu": "X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 12,
+      "group": "F",
+      "date": "2026-06-15T05:00:00",
+      "match": "Ruotsi - Tunisia",
+      "home": "Ruotsi",
+      "away": "Tunisia",
+      "odds": {
+        "1": 1.97,
+        "X": 3.42,
+        "2": 4.17
+      },
+      "maxOdds": 4.17,
+      "minOdds": 1.97,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1, X",
+        "Masa": "X",
+        "Tomi": "X, 2",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 13,
+      "group": "H",
+      "date": "2026-06-15T19:00:00",
+      "match": "Espanja - Kap Verde",
+      "home": "Espanja",
+      "away": "Kap Verde",
+      "odds": {
+        "1": 1.1,
+        "X": 10.03,
+        "2": 15.05
+      },
+      "maxOdds": 15.05,
+      "minOdds": 1.1,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1, X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 14,
+      "group": "G",
+      "date": "2026-06-15T22:00:00",
+      "match": "Belgia - Egypti",
+      "home": "Belgia",
+      "away": "Egypti",
+      "odds": {
+        "1": 1.66,
+        "X": 4.1,
+        "2": 5.1
+      },
+      "maxOdds": 5.1,
+      "minOdds": 1.66,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1, X",
+        "Ian": "1",
+        "Masa": "2",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 15,
+      "group": "H",
+      "date": "2026-06-16T01:00:00",
+      "match": "Saudi-Arabia - Uruguay",
+      "home": "Saudi-Arabia",
+      "away": "Uruguay",
+      "odds": {
+        "1": 7.53,
+        "X": 4.2,
+        "2": 1.5
+      },
+      "maxOdds": 7.53,
+      "minOdds": 1.5,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1, 2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 16,
+      "group": "G",
+      "date": "2026-06-16T04:00:00",
+      "match": "Iran - Uusi-Seelanti",
+      "home": "Iran",
+      "away": "Uusi-Seelanti",
+      "odds": {
+        "1": 1.9,
+        "X": 3.5,
+        "2": 4.3
+      },
+      "maxOdds": 4.3,
+      "minOdds": 1.9,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "X",
+        "Tupe": "1",
+        "Ian": "X",
+        "Masa": "X",
+        "Tomi": "1, 2",
+        "Aksu": "X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 17,
+      "group": "I",
+      "date": "2026-06-16T22:00:00",
+      "match": "Ranska - Senegal",
+      "home": "Ranska",
+      "away": "Senegal",
+      "odds": {
+        "1": 1.45,
+        "X": 4.53,
+        "2": 7.5
+      },
+      "maxOdds": 7.5,
+      "minOdds": 1.45,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 18,
+      "group": "I",
+      "date": "2026-06-17T01:00:00",
+      "match": "Irak - Norja",
+      "home": "Irak",
+      "away": "Norja",
+      "odds": {
+        "1": 10,
+        "X": 6.03,
+        "2": 1.24
+      },
+      "maxOdds": 10,
+      "minOdds": 1.24,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "X, 2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 19,
+      "group": "J",
+      "date": "2026-06-17T04:00:00",
+      "match": "Argentiina - Algeria",
+      "home": "Argentiina",
+      "away": "Algeria",
+      "odds": {
+        "1": 1.43,
+        "X": 4.4,
+        "2": 8.77
+      },
+      "maxOdds": 8.77,
+      "minOdds": 1.43,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 20,
+      "group": "J",
+      "date": "2026-06-17T07:00:00",
+      "match": "Itävalta - Jordania",
+      "home": "Itävalta",
+      "away": "Jordania",
+      "odds": {
+        "1": 1.34,
+        "X": 5.2,
+        "2": 9.53
+      },
+      "maxOdds": 9.53,
+      "minOdds": 1.34,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "X",
+        "Masa": "X",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 21,
+      "group": "K",
+      "date": "2026-06-17T20:00:00",
+      "match": "Portugali - Kongo",
+      "home": "Portugali",
+      "away": "Kongo",
+      "odds": {
+        "1": 1.29,
+        "X": 5.5,
+        "2": 10
+      },
+      "maxOdds": 10,
+      "minOdds": 1.29,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 22,
+      "group": "L",
+      "date": "2026-06-17T23:00:00",
+      "match": "Englanti - Kroatia",
+      "home": "Englanti",
+      "away": "Kroatia",
+      "odds": {
+        "1": 1.77,
+        "X": 3.73,
+        "2": 4.83
+      },
+      "maxOdds": 4.83,
+      "minOdds": 1.77,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1, X",
+        "Tupe": "1, X",
+        "Ian": "1, X",
+        "Masa": "X, 2",
+        "Tomi": "X, 2",
+        "Aksu": "1, X",
+        "JP": "1, 2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 23,
+      "group": "L",
+      "date": "2026-06-18T02:00:00",
+      "match": "Ghana - Panama",
+      "home": "Ghana",
+      "away": "Panama",
+      "odds": {
+        "1": 2.02,
+        "X": 3.52,
+        "2": 3.78
+      },
+      "maxOdds": 3.78,
+      "minOdds": 2.02,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1, X",
+        "Valtsu": "X",
+        "Tupe": "X",
+        "Ian": "1",
+        "Masa": "2",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 24,
+      "group": "K",
+      "date": "2026-06-18T05:00:00",
+      "match": "Uzbekistan - Kolumbia",
+      "home": "Uzbekistan",
+      "away": "Kolumbia",
+      "odds": {
+        "1": 2.03,
+        "X": 3.3,
+        "2": 4.07
+      },
+      "maxOdds": 4.07,
+      "minOdds": 2.03,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1, X",
+        "Valtsu": "X",
+        "Tupe": "2",
+        "Ian": "X",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 25,
+      "group": "A",
+      "date": "2026-06-18T19:00:00",
+      "match": "Tsekki - Etelä-Afrikka",
+      "home": "Tsekki",
+      "away": "Etelä-Afrikka",
+      "odds": {
+        "1": 2.03,
+        "X": 3.3,
+        "2": 4.07
+      },
+      "maxOdds": 4.07,
+      "minOdds": 2.03,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1, X",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1, X",
+        "Masa": "X",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 26,
+      "group": "B",
+      "date": "2026-06-18T22:00:00",
+      "match": "Sveitsi - Bosnia-Hertsegovina",
+      "home": "Sveitsi",
+      "away": "Bosnia-Hertsegovina",
+      "odds": {
+        "1": 1.59,
+        "X": 4.03,
+        "2": 6.07
+      },
+      "maxOdds": 6.07,
+      "minOdds": 1.59,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 27,
+      "group": "B",
+      "date": "2026-06-19T01:00:00",
+      "match": "Kanada - Qatar",
+      "home": "Kanada",
+      "away": "Qatar",
+      "odds": {
+        "1": 1.35,
+        "X": 4.8,
+        "2": 10
+      },
+      "maxOdds": 10,
+      "minOdds": 1.35,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 28,
+      "group": "A",
+      "date": "2026-06-19T04:00:00",
+      "match": "Meksiko - Etelä-Korea",
+      "home": "Meksiko",
+      "away": "Etelä-Korea",
+      "odds": {
+        "1": 1.8,
+        "X": 3.6,
+        "2": 4.8
+      },
+      "maxOdds": 4.8,
+      "minOdds": 1.8,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1, 2",
+        "Aksu": "X",
+        "JP": "1, 2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 29,
+      "group": "D",
+      "date": "2026-06-19T22:00:00",
+      "match": "Yhdysvallat - Australia",
+      "home": "Yhdysvallat",
+      "away": "Australia",
+      "odds": {
+        "1": 1.75,
+        "X": 3.73,
+        "2": 4.9
+      },
+      "maxOdds": 4.9,
+      "minOdds": 1.75,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1, 2",
+        "Masa": "1",
+        "Tomi": "X, 2",
+        "Aksu": "1, X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 30,
+      "group": "C",
+      "date": "2026-06-20T01:00:00",
+      "match": "Skotlanti - Marokko",
+      "home": "Skotlanti",
+      "away": "Marokko",
+      "odds": {
+        "1": 3.92,
+        "X": 3.23,
+        "2": 2.1
+      },
+      "maxOdds": 3.92,
+      "minOdds": 2.1,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "X, 2",
+        "Valtsu": "2",
+        "Tupe": "X",
+        "Ian": "X",
+        "Masa": "1",
+        "Tomi": "X, 2",
+        "Aksu": "1, 2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 31,
+      "group": "C",
+      "date": "2026-06-20T03:30:00",
+      "match": "Brasilia - Haiti",
+      "home": "Brasilia",
+      "away": "Haiti",
+      "odds": {
+        "1": 1.05,
+        "X": 14.33,
+        "2": 21.5
+      },
+      "maxOdds": 21.5,
+      "minOdds": 1.05,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1, X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 32,
+      "group": "D",
+      "date": "2026-06-20T06:00:00",
+      "match": "Turkki - Paraguay",
+      "home": "Turkki",
+      "away": "Paraguay",
+      "odds": {
+        "1": 2.3,
+        "X": 3.17,
+        "2": 3.4
+      },
+      "maxOdds": 3.4,
+      "minOdds": 2.3,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "X",
+        "Tupe": "X, 2",
+        "Ian": "1, X",
+        "Masa": "1, X",
+        "Tomi": "X",
+        "Aksu": "X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 33,
+      "group": "F",
+      "date": "2026-06-20T20:00:00",
+      "match": "Hollanti - Ruotsi",
+      "home": "Hollanti",
+      "away": "Ruotsi",
+      "odds": {
+        "1": 1.69,
+        "X": 3.87,
+        "2": 5.15
+      },
+      "maxOdds": 5.15,
+      "minOdds": 1.69,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "2",
+        "Tupe": "X",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 34,
+      "group": "E",
+      "date": "2026-06-20T23:00:00",
+      "match": "Saksa - Norsunluurannikko",
+      "home": "Saksa",
+      "away": "Norsunluurannikko",
+      "odds": {
+        "1": 1.55,
+        "X": 4.32,
+        "2": 5.97
+      },
+      "maxOdds": 5.97,
+      "minOdds": 1.55,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 35,
+      "group": "E",
+      "date": "2026-06-21T03:00:00",
+      "match": "Ecuador - Curacao",
+      "home": "Ecuador",
+      "away": "Curacao",
+      "odds": {
+        "1": 1.28,
+        "X": 5.63,
+        "2": 10
+      },
+      "maxOdds": 10,
+      "minOdds": 1.28,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 36,
+      "group": "F",
+      "date": "2026-06-21T07:00:00",
+      "match": "Tunisia - Japani",
+      "home": "Tunisia",
+      "away": "Japani",
+      "odds": {
+        "1": 4.52,
+        "X": 3.35,
+        "2": 1.92
+      },
+      "maxOdds": 4.52,
+      "minOdds": 1.92,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "X, 2",
+        "Ian": "X",
+        "Masa": "X",
+        "Tomi": "X, 2",
+        "Aksu": "X, 2",
+        "JP": "1, 2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 37,
+      "group": "H",
+      "date": "2026-06-21T19:00:00",
+      "match": "Espanja - Saudi-Arabia",
+      "home": "Espanja",
+      "away": "Saudi-Arabia",
+      "odds": {
+        "1": 1.13,
+        "X": 8.53,
+        "2": 12.8
+      },
+      "maxOdds": 12.8,
+      "minOdds": 1.13,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 38,
+      "group": "G",
+      "date": "2026-06-21T22:00:00",
+      "match": "Belgia - Iran",
+      "home": "Belgia",
+      "away": "Iran",
+      "odds": {
+        "1": 1.44,
+        "X": 4.5,
+        "2": 8.17
+      },
+      "maxOdds": 8.17,
+      "minOdds": 1.44,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 39,
+      "group": "H",
+      "date": "2026-06-22T01:00:00",
+      "match": "Uruguay - Kap Verde",
+      "home": "Uruguay",
+      "away": "Kap Verde",
+      "odds": {
+        "1": 1.46,
+        "X": 4.5,
+        "2": 7.2
+      },
+      "maxOdds": 7.2,
+      "minOdds": 1.46,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 40,
+      "group": "G",
+      "date": "2026-06-22T04:00:00",
+      "match": "Uusi-Seelanti - Egypti",
+      "home": "Uusi-Seelanti",
+      "away": "Egypti",
+      "odds": {
+        "1": 5.17,
+        "X": 3.67,
+        "2": 1.73
+      },
+      "maxOdds": 5.17,
+      "minOdds": 1.73,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "X, 2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 41,
+      "group": "J",
+      "date": "2026-06-22T20:00:00",
+      "match": "Argentiina - Itävalta",
+      "home": "Argentiina",
+      "away": "Itävalta",
+      "odds": {
+        "1": 1.68,
+        "X": 3.78,
+        "2": 5.4
+      },
+      "maxOdds": 5.4,
+      "minOdds": 1.68,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "X",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 42,
+      "group": "I",
+      "date": "2026-06-23T00:00:00",
+      "match": "Ranska - Irak",
+      "home": "Ranska",
+      "away": "Irak",
+      "odds": {
+        "1": 1.14,
+        "X": 7.8,
+        "2": 11.7
+      },
+      "maxOdds": 11.7,
+      "minOdds": 1.14,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 43,
+      "group": "I",
+      "date": "2026-06-23T03:00:00",
+      "match": "Norja - Senegal",
+      "home": "Norja",
+      "away": "Senegal",
+      "odds": {
+        "1": 2.15,
+        "X": 3.45,
+        "2": 3.5
+      },
+      "maxOdds": 3.5,
+      "minOdds": 2.15,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1, X",
+        "Valtsu": "1, 2",
+        "Tupe": "1, X",
+        "Ian": "X",
+        "Masa": "1, X",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 44,
+      "group": "J",
+      "date": "2026-06-23T06:00:00",
+      "match": "Jordania - Algeria",
+      "home": "Jordania",
+      "away": "Algeria",
+      "odds": {
+        "1": 5.47,
+        "X": 3.9,
+        "2": 1.65
+      },
+      "maxOdds": 5.47,
+      "minOdds": 1.65,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "X",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 45,
+      "group": "K",
+      "date": "2026-06-23T20:00:00",
+      "match": "Portugali - Uzbekistan",
+      "home": "Portugali",
+      "away": "Uzbekistan",
+      "odds": {
+        "1": 1.26,
+        "X": 6.13,
+        "2": 10
+      },
+      "maxOdds": 10,
+      "minOdds": 1.26,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1, 2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 46,
+      "group": "L",
+      "date": "2026-06-23T23:00:00",
+      "match": "Englanti - Ghana",
+      "home": "Englanti",
+      "away": "Ghana",
+      "odds": {
+        "1": 1.34,
+        "X": 5.03,
+        "2": 10
+      },
+      "maxOdds": 10,
+      "minOdds": 1.34,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1, X",
+        "Aksu": "1, X",
+        "JP": "X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 47,
+      "group": "L",
+      "date": "2026-06-24T02:00:00",
+      "match": "Panama - Kroatia",
+      "home": "Panama",
+      "away": "Kroatia",
+      "odds": {
+        "1": 7.07,
+        "X": 3.9,
+        "2": 1.55
+      },
+      "maxOdds": 7.07,
+      "minOdds": 1.55,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "X, 2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 48,
+      "group": "K",
+      "date": "2026-06-24T05:00:00",
+      "match": "Kolumbia - Kongo",
+      "home": "Kolumbia",
+      "away": "Kongo",
+      "odds": {
+        "1": 1.5,
+        "X": 4.13,
+        "2": 7.57
+      },
+      "maxOdds": 7.57,
+      "minOdds": 1.5,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 49,
+      "group": "B",
+      "date": "2026-06-24T22:00:00",
+      "match": "Sveitsi - Kanada",
+      "home": "Sveitsi",
+      "away": "Kanada",
+      "odds": {
+        "1": 2.07,
+        "X": 3.37,
+        "2": 3.77
+      },
+      "maxOdds": 3.77,
+      "minOdds": 2.07,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1, X",
+        "Valtsu": "1, X",
+        "Tupe": "X",
+        "Ian": "X",
+        "Masa": "1",
+        "Tomi": "X",
+        "Aksu": "X",
+        "JP": "1, 2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 50,
+      "group": "B",
+      "date": "2026-06-24T22:00:00",
+      "match": "Bosnia-Hertsegovina - Qatar",
+      "home": "Bosnia-Hertsegovina",
+      "away": "Qatar",
+      "odds": {
+        "1": 1.69,
+        "X": 3.73,
+        "2": 5.58
+      },
+      "maxOdds": 5.58,
+      "minOdds": 1.69,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 51,
+      "group": "C",
+      "date": "2026-06-25T01:00:00",
+      "match": "Marokko - Haiti",
+      "home": "Marokko",
+      "away": "Haiti",
+      "odds": {
+        "1": 1.34,
+        "X": 5.05,
+        "2": 10
+      },
+      "maxOdds": 10,
+      "minOdds": 1.34,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 52,
+      "group": "C",
+      "date": "2026-06-25T01:00:00",
+      "match": "Skotlanti - Brasilia",
+      "home": "Skotlanti",
+      "away": "Brasilia",
+      "odds": {
+        "1": 8.6,
+        "X": 4.67,
+        "2": 1.4
+      },
+      "maxOdds": 8.6,
+      "minOdds": 1.4,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 53,
+      "group": "A",
+      "date": "2026-06-25T04:00:00",
+      "match": "Etelä-Afrikka - Etelä-Korea",
+      "home": "Etelä-Afrikka",
+      "away": "Etelä-Korea",
+      "odds": {
+        "1": 3.83,
+        "X": 3.38,
+        "2": 2.04
+      },
+      "maxOdds": 3.83,
+      "minOdds": 2.04,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "X, 2",
+        "Valtsu": "2",
+        "Tupe": "1",
+        "Ian": "2",
+        "Masa": "X",
+        "Tomi": "X, 2",
+        "Aksu": "1, 2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 54,
+      "group": "A",
+      "date": "2026-06-25T04:00:00",
+      "match": "Tsekki - Meksiko",
+      "home": "Tsekki",
+      "away": "Meksiko",
+      "odds": {
+        "1": 3.92,
+        "X": 3.4,
+        "2": 2.01
+      },
+      "maxOdds": 3.92,
+      "minOdds": 2.01,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "X, 2",
+        "Valtsu": "1, 2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 55,
+      "group": "E",
+      "date": "2026-06-25T23:00:00",
+      "match": "Curacao - Norsunluurannikko",
+      "home": "Curacao",
+      "away": "Norsunluurannikko",
+      "odds": {
+        "1": 10,
+        "X": 4.97,
+        "2": 1.33
+      },
+      "maxOdds": 10,
+      "minOdds": 1.33,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 56,
+      "group": "E",
+      "date": "2026-06-25T23:00:00",
+      "match": "Ecuador - Saksa",
+      "home": "Ecuador",
+      "away": "Saksa",
+      "odds": {
+        "1": 5.2,
+        "X": 3.82,
+        "2": 1.69
+      },
+      "maxOdds": 5.2,
+      "minOdds": 1.69,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 57,
+      "group": "F",
+      "date": "2026-06-26T02:00:00",
+      "match": "Tunisia - Hollanti",
+      "home": "Tunisia",
+      "away": "Hollanti",
+      "odds": {
+        "1": 6.2,
+        "X": 4.07,
+        "2": 1.56
+      },
+      "maxOdds": 6.2,
+      "minOdds": 1.56,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "X, 2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 58,
+      "group": "F",
+      "date": "2026-06-26T02:00:00",
+      "match": "Japani - Ruotsi",
+      "home": "Japani",
+      "away": "Ruotsi",
+      "odds": {
+        "1": 2.07,
+        "X": 3.45,
+        "2": 3.6
+      },
+      "maxOdds": 3.6,
+      "minOdds": 2.07,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "X, 2",
+        "Tupe": "X",
+        "Ian": "1,  X",
+        "Masa": "X, 2",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "X, 2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 59,
+      "group": "D",
+      "date": "2026-06-26T05:00:00",
+      "match": "Turkki - Yhdysvallat",
+      "home": "Turkki",
+      "away": "Yhdysvallat",
+      "odds": {
+        "1": 2.75,
+        "X": 3.43,
+        "2": 2.55
+      },
+      "maxOdds": 3.43,
+      "minOdds": 2.55,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "X, 2",
+        "Valtsu": "1, X",
+        "Tupe": "1, X",
+        "Ian": "X, 2",
+        "Masa": "1, 2",
+        "Tomi": "X",
+        "Aksu": "X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 60,
+      "group": "D",
+      "date": "2026-06-26T05:00:00",
+      "match": "Paraguay - Australia",
+      "home": "Paraguay",
+      "away": "Australia",
+      "odds": {
+        "1": 2.21,
+        "X": 3.23,
+        "2": 3.5
+      },
+      "maxOdds": 3.5,
+      "minOdds": 2.21,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "X",
+        "Masa": "1, X",
+        "Tomi": "X",
+        "Aksu": "X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 61,
+      "group": "I",
+      "date": "2026-06-26T22:00:00",
+      "match": "Norja - Ranska",
+      "home": "Norja",
+      "away": "Ranska",
+      "odds": {
+        "1": 4.97,
+        "X": 3.73,
+        "2": 1.73
+      },
+      "maxOdds": 4.97,
+      "minOdds": 1.73,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "X",
+        "Ian": "X, 2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 62,
+      "group": "I",
+      "date": "2026-06-26T22:00:00",
+      "match": "Senegal - Irak",
+      "home": "Senegal",
+      "away": "Irak",
+      "odds": {
+        "1": 1.48,
+        "X": 4.27,
+        "2": 7.27
+      },
+      "maxOdds": 7.27,
+      "minOdds": 1.48,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "X",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 63,
+      "group": "H",
+      "date": "2026-06-27T03:00:00",
+      "match": "Kap Verde - Saudi-Arabia",
+      "home": "Kap Verde",
+      "away": "Saudi-Arabia",
+      "odds": {
+        "1": 2.8,
+        "X": 3.43,
+        "2": 2.53
+      },
+      "maxOdds": 3.43,
+      "minOdds": 2.53,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "X, 2",
+        "Tupe": "X",
+        "Ian": "X",
+        "Masa": "1",
+        "Tomi": "X",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 64,
+      "group": "H",
+      "date": "2026-06-27T03:00:00",
+      "match": "Uruguay - Espanja",
+      "home": "Uruguay",
+      "away": "Espanja",
+      "odds": {
+        "1": 5.3,
+        "X": 3.93,
+        "2": 1.64
+      },
+      "maxOdds": 5.3,
+      "minOdds": 1.64,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "X, 2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 65,
+      "group": "G",
+      "date": "2026-06-27T06:00:00",
+      "match": "Egypti - Iran",
+      "home": "Egypti",
+      "away": "Iran",
+      "odds": {
+        "1": 2.33,
+        "X": 3.03,
+        "2": 3.47
+      },
+      "maxOdds": 3.47,
+      "minOdds": 2.33,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1, X",
+        "Tomi": "X",
+        "Aksu": "1",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 66,
+      "group": "G",
+      "date": "2026-06-27T06:00:00",
+      "match": "Uusi-Seelanti - Belgia",
+      "home": "Uusi-Seelanti",
+      "away": "Belgia",
+      "odds": {
+        "1": 10,
+        "X": 5.7,
+        "2": 1.29
+      },
+      "maxOdds": 10,
+      "minOdds": 1.29,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "X, 2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 67,
+      "group": "L",
+      "date": "2026-06-28T00:00:00",
+      "match": "Kroatia - Ghana",
+      "home": "Kroatia",
+      "away": "Ghana",
+      "odds": {
+        "1": 1.75,
+        "X": 3.67,
+        "2": 5
+      },
+      "maxOdds": 5,
+      "minOdds": 1.75,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1, X",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1, 2",
+        "Aksu": "1",
+        "JP": "1, 2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 68,
+      "group": "L",
+      "date": "2026-06-28T02:30:00",
+      "match": "Panama - Englanti",
+      "home": "Panama",
+      "away": "Englanti",
+      "odds": {
+        "1": 10,
+        "X": 6.13,
+        "2": 1.25
+      },
+      "maxOdds": 10,
+      "minOdds": 1.25,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 69,
+      "group": "K",
+      "date": "2026-06-28T02:30:00",
+      "match": "Kolumbia - Portugali",
+      "home": "Kolumbia",
+      "away": "Portugali",
+      "odds": {
+        "1": 3.43,
+        "X": 3.28,
+        "2": 2.21
+      },
+      "maxOdds": 3.43,
+      "minOdds": 2.21,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "X, 2",
+        "Tupe": "2",
+        "Ian": "X, 2",
+        "Masa": "X, 2",
+        "Tomi": "X, 2",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 70,
+      "group": "K",
+      "date": "2026-06-28T02:30:00",
+      "match": "Kongo - Uzbekistan",
+      "home": "Kongo",
+      "away": "Uzbekistan",
+      "odds": {
+        "1": 2.55,
+        "X": 3.33,
+        "2": 2.83
+      },
+      "maxOdds": 3.33,
+      "minOdds": 2.55,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "X",
+        "Tupe": "X",
+        "Ian": "X",
+        "Masa": "1, X",
+        "Tomi": "X",
+        "Aksu": "X, 2",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 71,
+      "group": "J",
+      "date": "2026-06-28T05:00:00",
+      "match": "Algeria - Itävalta",
+      "home": "Algeria",
+      "away": "Itävalta",
+      "odds": {
+        "1": 3.53,
+        "X": 3.28,
+        "2": 2.17
+      },
+      "maxOdds": 3.53,
+      "minOdds": 2.17,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "X",
+        "Tupe": "2",
+        "Ian": "X",
+        "Masa": "2",
+        "Tomi": "X",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    },
+    {
+      "id": 72,
+      "group": "J",
+      "date": "2026-06-28T05:00:00",
+      "match": "Jordania - Argentiina",
+      "home": "Jordania",
+      "away": "Argentiina",
+      "odds": {
+        "1": 10.46,
+        "X": 6.97,
+        "2": 1.18
+      },
+      "maxOdds": 10.46,
+      "minOdds": 1.18,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "X, 2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1, 2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      }
+    }
   ]
 }

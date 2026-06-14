@@ -1,132 +1,710 @@
 {
   "title": "MM 2026 - Vedonlyöntikilpailu",
-  "generatedAt": "2026-06-14T11:27:35+00:00",
+  "generatedAt": "2026-06-14T13:26:57.938Z",
   "completedMatches": 8,
   "totalMatches": 72,
+  "players": [
+    "ChatGPT",
+    "Valtsu",
+    "Tupe",
+    "Ian",
+    "Masa",
+    "Tomi",
+    "Aksu",
+    "JP",
+    "Ykkösrivi",
+    "Ristirivi",
+    "Kakkosrivi"
+  ],
   "standings": [
     {
+      "rank": 1,
+      "gapFromLeader": 0,
       "name": "Ristirivi",
       "matchPoints": 13.1,
-      "penaltyPoints": 0.0,
+      "penaltyPoints": 0,
       "finalPoints": 0,
       "total": 13.1,
-      "gold": "-",
-      "silver": "-",
-      "rank": 1
+      "gold": "",
+      "silver": ""
     },
     {
+      "rank": 2,
+      "gapFromLeader": 2.14,
       "name": "Ykkösrivi",
       "matchPoints": 10.96,
-      "penaltyPoints": 0.0,
+      "penaltyPoints": 0,
       "finalPoints": 0,
       "total": 10.96,
-      "gold": "-",
-      "silver": "-",
-      "rank": 2
+      "gold": "",
+      "silver": ""
     },
     {
+      "rank": 3,
+      "gapFromLeader": 2.43,
       "name": "Aksu",
       "matchPoints": 10.67,
-      "penaltyPoints": 0.0,
+      "penaltyPoints": 0,
       "finalPoints": 0,
       "total": 10.67,
       "gold": "Ranska",
-      "silver": "Brasilia",
-      "rank": 3
+      "silver": "Brasilia"
     },
     {
+      "rank": 4,
+      "gapFromLeader": 2.6,
       "name": "Masa",
       "matchPoints": 10.5,
-      "penaltyPoints": 0.0,
+      "penaltyPoints": 0,
       "finalPoints": 0,
       "total": 10.5,
       "gold": "Espanja",
-      "silver": "Ranska",
-      "rank": 4
+      "silver": "Ranska"
     },
     {
+      "rank": 5,
+      "gapFromLeader": 3.4,
       "name": "Tomi",
       "matchPoints": 9.7,
-      "penaltyPoints": 0.0,
+      "penaltyPoints": 0,
       "finalPoints": 0,
       "total": 9.7,
       "gold": "Espanja",
-      "silver": "Brasilia",
-      "rank": 5
+      "silver": "Brasilia"
     },
     {
+      "rank": 6,
+      "gapFromLeader": 3.59,
       "name": "JP",
       "matchPoints": 9.51,
-      "penaltyPoints": 0.0,
+      "penaltyPoints": 0,
       "finalPoints": 0,
       "total": 9.51,
       "gold": "Kanada",
-      "silver": "Senegal",
-      "rank": 6
+      "silver": "Senegal"
     },
     {
+      "rank": 7,
+      "gapFromLeader": 5.5,
       "name": "ChatGPT",
       "matchPoints": 7.6,
-      "penaltyPoints": 0.0,
+      "penaltyPoints": 0,
       "finalPoints": 0,
       "total": 7.6,
       "gold": "Espanja",
-      "silver": "Ranska",
-      "rank": 7
+      "silver": "Ranska"
     },
     {
+      "rank": 8,
+      "gapFromLeader": 8.2,
       "name": "Tupe",
       "matchPoints": 4.9,
-      "penaltyPoints": 0.0,
+      "penaltyPoints": 0,
       "finalPoints": 0,
       "total": 4.9,
       "gold": "Espanja",
-      "silver": "Saksa",
-      "rank": 8
+      "silver": "Saksa"
     },
     {
+      "rank": 9,
+      "gapFromLeader": 10.21,
       "name": "Valtsu",
       "matchPoints": 2.89,
-      "penaltyPoints": 0.0,
+      "penaltyPoints": 0,
       "finalPoints": 0,
       "total": 2.89,
       "gold": "Portugali",
-      "silver": "Espanja",
-      "rank": 9
+      "silver": "Espanja"
     },
     {
+      "rank": 10,
+      "gapFromLeader": 11.65,
       "name": "Ian",
       "matchPoints": 1.45,
-      "penaltyPoints": 0.0,
+      "penaltyPoints": 0,
       "finalPoints": 0,
       "total": 1.45,
       "gold": "Ranska",
-      "silver": "Brasilia",
-      "rank": 10
+      "silver": "Brasilia"
     },
     {
+      "rank": 11,
+      "gapFromLeader": 11.66,
       "name": "Kakkosrivi",
       "matchPoints": 1.44,
-      "penaltyPoints": 0.0,
+      "penaltyPoints": 0,
       "finalPoints": 0,
       "total": 1.44,
-      "gold": "-",
-      "silver": "-",
-      "rank": 11
+      "gold": "",
+      "silver": ""
+    }
+  ],
+  "recentMatches": [
+    {
+      "id": 8,
+      "group": "D",
+      "date": "2026-06-14T07:00:00",
+      "match": "Australia - Turkki",
+      "home": "Australia",
+      "away": "Turkki",
+      "odds": {
+        "1": 4.8,
+        "2": 1.79,
+        "X": 3.62
+      },
+      "maxOdds": 4.8,
+      "minOdds": 1.79,
+      "initialResult": "1",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "X, 2",
+        "Masa": "X",
+        "Tomi": "1, X",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "1",
+      "apiStatus": "FINISHED",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/au.png",
+      "awayFlag": "https://flagcdn.com/w80/tr.png"
+    },
+    {
+      "id": 7,
+      "group": "C",
+      "date": "2026-06-14T04:00:00",
+      "match": "Haiti - Skotlanti",
+      "home": "Haiti",
+      "away": "Skotlanti",
+      "odds": {
+        "1": 7.67,
+        "2": 1.44,
+        "X": 4.6
+      },
+      "maxOdds": 7.67,
+      "minOdds": 1.44,
+      "initialResult": "2",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "X",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "2",
+      "apiStatus": "FINISHED",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/ht.png",
+      "awayFlag": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg"
+    },
+    {
+      "id": 6,
+      "group": "C",
+      "date": "2026-06-14T01:00:00",
+      "match": "Brasilia - Marokko",
+      "home": "Brasilia",
+      "away": "Marokko",
+      "odds": {
+        "1": 1.66,
+        "2": 5.68,
+        "X": 3.87
+      },
+      "maxOdds": 5.68,
+      "minOdds": 1.66,
+      "initialResult": "X",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "X",
+      "apiStatus": "FINISHED",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/br.png",
+      "awayFlag": "https://flagcdn.com/w80/ma.png"
+    },
+    {
+      "id": 5,
+      "group": "B",
+      "date": "2026-06-13T22:00:00",
+      "match": "Qatar - Sveitsi",
+      "home": "Qatar",
+      "away": "Sveitsi",
+      "odds": {
+        "1": 10,
+        "2": 1.28,
+        "X": 5.6
+      },
+      "maxOdds": 10,
+      "minOdds": 1.28,
+      "initialResult": "X",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "X",
+        "Tomi": "2",
+        "Aksu": "X, 2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "X",
+      "apiStatus": "FINISHED",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/qa.png",
+      "awayFlag": "https://flagcdn.com/w80/ch.png"
+    },
+    {
+      "id": 4,
+      "group": "D",
+      "date": "2026-06-13T04:00:00",
+      "match": "Yhdysvallat - Paraguay",
+      "home": "Yhdysvallat",
+      "away": "Paraguay",
+      "odds": {
+        "1": 2.01,
+        "2": 4,
+        "X": 3.37
+      },
+      "maxOdds": 4,
+      "minOdds": 2.01,
+      "initialResult": "1",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "X",
+        "Tupe": "1, 2",
+        "Ian": "X",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "1",
+      "apiStatus": "FINISHED",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/us.png",
+      "awayFlag": "https://flagcdn.com/w80/py.png"
+    },
+    {
+      "id": 3,
+      "group": "B",
+      "date": "2026-06-12T22:00:00",
+      "match": "Kanada - Bosnia-Hertsegovina",
+      "home": "Kanada",
+      "away": "Bosnia-Hertsegovina",
+      "odds": {
+        "1": 1.82,
+        "2": 4.58,
+        "X": 3.63
+      },
+      "maxOdds": 4.58,
+      "minOdds": 1.82,
+      "initialResult": "X",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1, 2",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "X",
+      "apiStatus": "FINISHED",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/ca.png",
+      "awayFlag": "https://flagcdn.com/w80/ba.png"
+    },
+    {
+      "id": 2,
+      "group": "A",
+      "date": "2026-06-12T05:00:00",
+      "match": "Etelä-Korea - Tsekki",
+      "home": "Etelä-Korea",
+      "away": "Tsekki",
+      "odds": {
+        "1": 2.7,
+        "2": 2.8,
+        "X": 3.2
+      },
+      "maxOdds": 3.2,
+      "minOdds": 2.7,
+      "initialResult": "1",
+      "predictions": {
+        "ChatGPT": "1, X",
+        "Valtsu": "X, 2",
+        "Tupe": "X, 2",
+        "Ian": "X",
+        "Masa": "X, 2",
+        "Tomi": "X",
+        "Aksu": "X, 2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "1",
+      "apiStatus": "FINISHED",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/kr.png",
+      "awayFlag": "https://flagcdn.com/w80/cz.png"
+    },
+    {
+      "id": 1,
+      "group": "A",
+      "date": "2026-06-11T22:00:00",
+      "match": "Meksiko - Etelä-Afrikka",
+      "home": "Meksiko",
+      "away": "Etelä-Afrikka",
+      "odds": {
+        "1": 1.45,
+        "2": 8.07,
+        "X": 4.35
+      },
+      "maxOdds": 8.07,
+      "minOdds": 1.45,
+      "initialResult": "1",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "1",
+      "apiStatus": "FINISHED",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/mx.png",
+      "awayFlag": "https://flagcdn.com/w80/za.png"
+    }
+  ],
+  "upcomingMatches": [
+    {
+      "id": 9,
+      "group": "E",
+      "date": "2026-06-14T20:00:00",
+      "match": "Saksa - Curacao",
+      "home": "Saksa",
+      "away": "Curacao",
+      "odds": {
+        "1": 1.04,
+        "2": 24.5,
+        "X": 16.33
+      },
+      "maxOdds": 24.5,
+      "minOdds": 1.04,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1, X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/de.png",
+      "awayFlag": "https://flagcdn.com/w80/cw.png"
+    },
+    {
+      "id": 10,
+      "group": "F",
+      "date": "2026-06-14T23:00:00",
+      "match": "Hollanti - Japani",
+      "home": "Hollanti",
+      "away": "Japani",
+      "odds": {
+        "1": 2,
+        "2": 3.7,
+        "X": 3.63
+      },
+      "maxOdds": 3.7,
+      "minOdds": 2,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1, X",
+        "Valtsu": "1, 2",
+        "Tupe": "1, X",
+        "Ian": "X",
+        "Masa": "1, X",
+        "Tomi": "X",
+        "Aksu": "1, X",
+        "JP": "X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/nl.png",
+      "awayFlag": "https://flagcdn.com/w80/jp.png"
+    },
+    {
+      "id": 11,
+      "group": "E",
+      "date": "2026-06-15T02:00:00",
+      "match": "Norsunluurannikko - Ecuador",
+      "home": "Norsunluurannikko",
+      "away": "Ecuador",
+      "odds": {
+        "1": 3.6,
+        "2": 2.35,
+        "X": 2.95
+      },
+      "maxOdds": 3.6,
+      "minOdds": 2.35,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "X, 2",
+        "Valtsu": "1, 2",
+        "Tupe": "2",
+        "Ian": "X",
+        "Masa": "X, 2",
+        "Tomi": "X",
+        "Aksu": "X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/ci.png",
+      "awayFlag": "https://flagcdn.com/w80/ec.png"
+    },
+    {
+      "id": 12,
+      "group": "F",
+      "date": "2026-06-15T05:00:00",
+      "match": "Ruotsi - Tunisia",
+      "home": "Ruotsi",
+      "away": "Tunisia",
+      "odds": {
+        "1": 1.97,
+        "2": 4.17,
+        "X": 3.42
+      },
+      "maxOdds": 4.17,
+      "minOdds": 1.97,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1, X",
+        "Masa": "X",
+        "Tomi": "X, 2",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/se.png",
+      "awayFlag": "https://flagcdn.com/w80/tn.png"
+    },
+    {
+      "id": 13,
+      "group": "H",
+      "date": "2026-06-15T19:00:00",
+      "match": "Espanja - Kap Verde",
+      "home": "Espanja",
+      "away": "Kap Verde",
+      "odds": {
+        "1": 1.1,
+        "2": 15.05,
+        "X": 10.03
+      },
+      "maxOdds": 15.05,
+      "minOdds": 1.1,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1, X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/es.png",
+      "awayFlag": "https://flagcdn.com/w80/cv.png"
+    },
+    {
+      "id": 14,
+      "group": "G",
+      "date": "2026-06-15T22:00:00",
+      "match": "Belgia - Egypti",
+      "home": "Belgia",
+      "away": "Egypti",
+      "odds": {
+        "1": 1.66,
+        "2": 5.1,
+        "X": 4.1
+      },
+      "maxOdds": 5.1,
+      "minOdds": 1.66,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1, X",
+        "Ian": "1",
+        "Masa": "2",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/be.png",
+      "awayFlag": "https://flagcdn.com/w80/eg.png"
+    },
+    {
+      "id": 15,
+      "group": "H",
+      "date": "2026-06-16T01:00:00",
+      "match": "Saudi-Arabia - Uruguay",
+      "home": "Saudi-Arabia",
+      "away": "Uruguay",
+      "odds": {
+        "1": 7.53,
+        "2": 1.5,
+        "X": 4.2
+      },
+      "maxOdds": 7.53,
+      "minOdds": 1.5,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1, 2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/sa.png",
+      "awayFlag": "https://flagcdn.com/w80/uy.png"
+    },
+    {
+      "id": 16,
+      "group": "G",
+      "date": "2026-06-16T04:00:00",
+      "match": "Iran - Uusi-Seelanti",
+      "home": "Iran",
+      "away": "Uusi-Seelanti",
+      "odds": {
+        "1": 1.9,
+        "2": 4.3,
+        "X": 3.5
+      },
+      "maxOdds": 4.3,
+      "minOdds": 1.9,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "X",
+        "Tupe": "1",
+        "Ian": "X",
+        "Masa": "X",
+        "Tomi": "1, 2",
+        "Aksu": "X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "",
+      "score": "",
+      "homeFlag": "https://flagcdn.com/w80/ir.png",
+      "awayFlag": "https://flagcdn.com/w80/nz.png"
     }
   ],
   "matches": [
     {
       "id": 1,
       "group": "A",
-      "date": "2026-06-11T22:00",
+      "date": "2026-06-11T22:00:00",
       "match": "Meksiko - Etelä-Afrikka",
+      "home": "Meksiko",
+      "away": "Etelä-Afrikka",
+      "homeFlag": "https://flagcdn.com/w80/mx.png",
+      "awayFlag": "https://flagcdn.com/w80/za.png",
       "odds": {
         "1": 1.45,
-        "X": 4.35,
-        "2": 8.07
+        "2": 8.07,
+        "X": 4.35
       },
       "result": "1",
+      "score": "",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -144,14 +722,20 @@
     {
       "id": 2,
       "group": "A",
-      "date": "2026-06-12T05:00",
+      "date": "2026-06-12T05:00:00",
       "match": "Etelä-Korea - Tsekki",
+      "home": "Etelä-Korea",
+      "away": "Tsekki",
+      "homeFlag": "https://flagcdn.com/w80/kr.png",
+      "awayFlag": "https://flagcdn.com/w80/cz.png",
       "odds": {
         "1": 2.7,
-        "X": 3.2,
-        "2": 2.8
+        "2": 2.8,
+        "X": 3.2
       },
       "result": "1",
+      "score": "",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "1, X",
         "Valtsu": "X, 2",
@@ -169,14 +753,20 @@
     {
       "id": 3,
       "group": "B",
-      "date": "2026-06-12T22:00",
+      "date": "2026-06-12T22:00:00",
       "match": "Kanada - Bosnia-Hertsegovina",
+      "home": "Kanada",
+      "away": "Bosnia-Hertsegovina",
+      "homeFlag": "https://flagcdn.com/w80/ca.png",
+      "awayFlag": "https://flagcdn.com/w80/ba.png",
       "odds": {
         "1": 1.82,
-        "X": 3.63,
-        "2": 4.58
+        "2": 4.58,
+        "X": 3.63
       },
       "result": "X",
+      "score": "",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1, 2",
@@ -194,14 +784,20 @@
     {
       "id": 4,
       "group": "D",
-      "date": "2026-06-13T04:00",
+      "date": "2026-06-13T04:00:00",
       "match": "Yhdysvallat - Paraguay",
+      "home": "Yhdysvallat",
+      "away": "Paraguay",
+      "homeFlag": "https://flagcdn.com/w80/us.png",
+      "awayFlag": "https://flagcdn.com/w80/py.png",
       "odds": {
         "1": 2.01,
-        "X": 3.37,
-        "2": 4
+        "2": 4,
+        "X": 3.37
       },
       "result": "1",
+      "score": "",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "X",
@@ -219,14 +815,20 @@
     {
       "id": 5,
       "group": "B",
-      "date": "2026-06-13T22:00",
+      "date": "2026-06-13T22:00:00",
       "match": "Qatar - Sveitsi",
+      "home": "Qatar",
+      "away": "Sveitsi",
+      "homeFlag": "https://flagcdn.com/w80/qa.png",
+      "awayFlag": "https://flagcdn.com/w80/ch.png",
       "odds": {
         "1": 10,
-        "X": 5.6,
-        "2": 1.28
+        "2": 1.28,
+        "X": 5.6
       },
       "result": "X",
+      "score": "",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -244,14 +846,20 @@
     {
       "id": 6,
       "group": "C",
-      "date": "2026-06-14T01:00",
+      "date": "2026-06-14T01:00:00",
       "match": "Brasilia - Marokko",
+      "home": "Brasilia",
+      "away": "Marokko",
+      "homeFlag": "https://flagcdn.com/w80/br.png",
+      "awayFlag": "https://flagcdn.com/w80/ma.png",
       "odds": {
         "1": 1.66,
-        "X": 3.87,
-        "2": 5.68
+        "2": 5.68,
+        "X": 3.87
       },
       "result": "X",
+      "score": "",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -269,14 +877,20 @@
     {
       "id": 7,
       "group": "C",
-      "date": "2026-06-14T04:00",
+      "date": "2026-06-14T04:00:00",
       "match": "Haiti - Skotlanti",
+      "home": "Haiti",
+      "away": "Skotlanti",
+      "homeFlag": "https://flagcdn.com/w80/ht.png",
+      "awayFlag": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
       "odds": {
         "1": 7.67,
-        "X": 4.6,
-        "2": 1.44
+        "2": 1.44,
+        "X": 4.6
       },
       "result": "2",
+      "score": "",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -294,14 +908,20 @@
     {
       "id": 8,
       "group": "D",
-      "date": "2026-06-14T07:00",
+      "date": "2026-06-14T07:00:00",
       "match": "Australia - Turkki",
+      "home": "Australia",
+      "away": "Turkki",
+      "homeFlag": "https://flagcdn.com/w80/au.png",
+      "awayFlag": "https://flagcdn.com/w80/tr.png",
       "odds": {
         "1": 4.8,
-        "X": 3.62,
-        "2": 1.79
+        "2": 1.79,
+        "X": 3.62
       },
       "result": "1",
+      "score": "",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -319,14 +939,20 @@
     {
       "id": 9,
       "group": "E",
-      "date": "2026-06-14T20:00",
+      "date": "2026-06-14T20:00:00",
       "match": "Saksa - Curacao",
+      "home": "Saksa",
+      "away": "Curacao",
+      "homeFlag": "https://flagcdn.com/w80/de.png",
+      "awayFlag": "https://flagcdn.com/w80/cw.png",
       "odds": {
         "1": 1.04,
-        "X": 16.33,
-        "2": 24.5
+        "2": 24.5,
+        "X": 16.33
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -344,14 +970,20 @@
     {
       "id": 10,
       "group": "F",
-      "date": "2026-06-14T23:00",
+      "date": "2026-06-14T23:00:00",
       "match": "Hollanti - Japani",
+      "home": "Hollanti",
+      "away": "Japani",
+      "homeFlag": "https://flagcdn.com/w80/nl.png",
+      "awayFlag": "https://flagcdn.com/w80/jp.png",
       "odds": {
         "1": 2,
-        "X": 3.63,
-        "2": 3.7
+        "2": 3.7,
+        "X": 3.63
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1, X",
         "Valtsu": "1, 2",
@@ -369,14 +1001,20 @@
     {
       "id": 11,
       "group": "E",
-      "date": "2026-06-15T02:00",
+      "date": "2026-06-15T02:00:00",
       "match": "Norsunluurannikko - Ecuador",
+      "home": "Norsunluurannikko",
+      "away": "Ecuador",
+      "homeFlag": "https://flagcdn.com/w80/ci.png",
+      "awayFlag": "https://flagcdn.com/w80/ec.png",
       "odds": {
         "1": 3.6,
-        "X": 2.95,
-        "2": 2.35
+        "2": 2.35,
+        "X": 2.95
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "X, 2",
         "Valtsu": "1, 2",
@@ -394,14 +1032,20 @@
     {
       "id": 12,
       "group": "F",
-      "date": "2026-06-15T05:00",
+      "date": "2026-06-15T05:00:00",
       "match": "Ruotsi - Tunisia",
+      "home": "Ruotsi",
+      "away": "Tunisia",
+      "homeFlag": "https://flagcdn.com/w80/se.png",
+      "awayFlag": "https://flagcdn.com/w80/tn.png",
       "odds": {
         "1": 1.97,
-        "X": 3.42,
-        "2": 4.17
+        "2": 4.17,
+        "X": 3.42
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -419,14 +1063,20 @@
     {
       "id": 13,
       "group": "H",
-      "date": "2026-06-15T19:00",
+      "date": "2026-06-15T19:00:00",
       "match": "Espanja - Kap Verde",
+      "home": "Espanja",
+      "away": "Kap Verde",
+      "homeFlag": "https://flagcdn.com/w80/es.png",
+      "awayFlag": "https://flagcdn.com/w80/cv.png",
       "odds": {
         "1": 1.1,
-        "X": 10.03,
-        "2": 15.05
+        "2": 15.05,
+        "X": 10.03
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -444,14 +1094,20 @@
     {
       "id": 14,
       "group": "G",
-      "date": "2026-06-15T22:00",
+      "date": "2026-06-15T22:00:00",
       "match": "Belgia - Egypti",
+      "home": "Belgia",
+      "away": "Egypti",
+      "homeFlag": "https://flagcdn.com/w80/be.png",
+      "awayFlag": "https://flagcdn.com/w80/eg.png",
       "odds": {
         "1": 1.66,
-        "X": 4.1,
-        "2": 5.1
+        "2": 5.1,
+        "X": 4.1
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -469,14 +1125,20 @@
     {
       "id": 15,
       "group": "H",
-      "date": "2026-06-16T01:00",
+      "date": "2026-06-16T01:00:00",
       "match": "Saudi-Arabia - Uruguay",
+      "home": "Saudi-Arabia",
+      "away": "Uruguay",
+      "homeFlag": "https://flagcdn.com/w80/sa.png",
+      "awayFlag": "https://flagcdn.com/w80/uy.png",
       "odds": {
         "1": 7.53,
-        "X": 4.2,
-        "2": 1.5
+        "2": 1.5,
+        "X": 4.2
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -494,14 +1156,20 @@
     {
       "id": 16,
       "group": "G",
-      "date": "2026-06-16T04:00",
+      "date": "2026-06-16T04:00:00",
       "match": "Iran - Uusi-Seelanti",
+      "home": "Iran",
+      "away": "Uusi-Seelanti",
+      "homeFlag": "https://flagcdn.com/w80/ir.png",
+      "awayFlag": "https://flagcdn.com/w80/nz.png",
       "odds": {
         "1": 1.9,
-        "X": 3.5,
-        "2": 4.3
+        "2": 4.3,
+        "X": 3.5
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "X",
@@ -519,14 +1187,20 @@
     {
       "id": 17,
       "group": "I",
-      "date": "2026-06-16T22:00",
+      "date": "2026-06-16T22:00:00",
       "match": "Ranska - Senegal",
+      "home": "Ranska",
+      "away": "Senegal",
+      "homeFlag": "https://flagcdn.com/w80/fr.png",
+      "awayFlag": "https://flagcdn.com/w80/sn.png",
       "odds": {
         "1": 1.45,
-        "X": 4.53,
-        "2": 7.5
+        "2": 7.5,
+        "X": 4.53
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -544,14 +1218,20 @@
     {
       "id": 18,
       "group": "I",
-      "date": "2026-06-17T01:00",
+      "date": "2026-06-17T01:00:00",
       "match": "Irak - Norja",
+      "home": "Irak",
+      "away": "Norja",
+      "homeFlag": "https://flagcdn.com/w80/iq.png",
+      "awayFlag": "https://flagcdn.com/w80/no.png",
       "odds": {
         "1": 10,
-        "X": 6.03,
-        "2": 1.24
+        "2": 1.24,
+        "X": 6.03
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -569,14 +1249,20 @@
     {
       "id": 19,
       "group": "J",
-      "date": "2026-06-17T04:00",
+      "date": "2026-06-17T04:00:00",
       "match": "Argentiina - Algeria",
+      "home": "Argentiina",
+      "away": "Algeria",
+      "homeFlag": "https://flagcdn.com/w80/ar.png",
+      "awayFlag": "https://flagcdn.com/w80/dz.png",
       "odds": {
         "1": 1.43,
-        "X": 4.4,
-        "2": 8.77
+        "2": 8.77,
+        "X": 4.4
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -594,14 +1280,20 @@
     {
       "id": 20,
       "group": "J",
-      "date": "2026-06-17T07:00",
+      "date": "2026-06-17T07:00:00",
       "match": "Itävalta - Jordania",
+      "home": "Itävalta",
+      "away": "Jordania",
+      "homeFlag": "https://flagcdn.com/w80/at.png",
+      "awayFlag": "https://flagcdn.com/w80/jo.png",
       "odds": {
         "1": 1.34,
-        "X": 5.2,
-        "2": 9.53
+        "2": 9.53,
+        "X": 5.2
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -619,14 +1311,20 @@
     {
       "id": 21,
       "group": "K",
-      "date": "2026-06-17T20:00",
+      "date": "2026-06-17T20:00:00",
       "match": "Portugali - Kongo",
+      "home": "Portugali",
+      "away": "Kongo",
+      "homeFlag": "https://flagcdn.com/w80/pt.png",
+      "awayFlag": "https://flagcdn.com/w80/cd.png",
       "odds": {
         "1": 1.29,
-        "X": 5.5,
-        "2": 10
+        "2": 10,
+        "X": 5.5
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -644,14 +1342,20 @@
     {
       "id": 22,
       "group": "L",
-      "date": "2026-06-17T23:00",
+      "date": "2026-06-17T23:00:00",
       "match": "Englanti - Kroatia",
+      "home": "Englanti",
+      "away": "Kroatia",
+      "homeFlag": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+      "awayFlag": "https://flagcdn.com/w80/hr.png",
       "odds": {
         "1": 1.77,
-        "X": 3.73,
-        "2": 4.83
+        "2": 4.83,
+        "X": 3.73
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1, X",
@@ -669,14 +1373,20 @@
     {
       "id": 23,
       "group": "L",
-      "date": "2026-06-18T02:00",
+      "date": "2026-06-18T02:00:00",
       "match": "Ghana - Panama",
+      "home": "Ghana",
+      "away": "Panama",
+      "homeFlag": "https://flagcdn.com/w80/gh.png",
+      "awayFlag": "https://flagcdn.com/w80/pa.png",
       "odds": {
         "1": 2.02,
-        "X": 3.52,
-        "2": 3.78
+        "2": 3.78,
+        "X": 3.52
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1, X",
         "Valtsu": "X",
@@ -694,14 +1404,20 @@
     {
       "id": 24,
       "group": "K",
-      "date": "2026-06-18T05:00",
+      "date": "2026-06-18T05:00:00",
       "match": "Uzbekistan - Kolumbia",
+      "home": "Uzbekistan",
+      "away": "Kolumbia",
+      "homeFlag": "https://flagcdn.com/w80/uz.png",
+      "awayFlag": "https://flagcdn.com/w80/co.png",
       "odds": {
         "1": 2.03,
-        "X": 3.3,
-        "2": 4.07
+        "2": 4.07,
+        "X": 3.3
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1, X",
         "Valtsu": "X",
@@ -719,14 +1435,20 @@
     {
       "id": 25,
       "group": "A",
-      "date": "2026-06-18T19:00",
+      "date": "2026-06-18T19:00:00",
       "match": "Tsekki - Etelä-Afrikka",
+      "home": "Tsekki",
+      "away": "Etelä-Afrikka",
+      "homeFlag": "https://flagcdn.com/w80/cz.png",
+      "awayFlag": "https://flagcdn.com/w80/za.png",
       "odds": {
         "1": 2.03,
-        "X": 3.3,
-        "2": 4.07
+        "2": 4.07,
+        "X": 3.3
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1, X",
         "Valtsu": "1",
@@ -744,14 +1466,20 @@
     {
       "id": 26,
       "group": "B",
-      "date": "2026-06-18T22:00",
+      "date": "2026-06-18T22:00:00",
       "match": "Sveitsi - Bosnia-Hertsegovina",
+      "home": "Sveitsi",
+      "away": "Bosnia-Hertsegovina",
+      "homeFlag": "https://flagcdn.com/w80/ch.png",
+      "awayFlag": "https://flagcdn.com/w80/ba.png",
       "odds": {
         "1": 1.59,
-        "X": 4.03,
-        "2": 6.07
+        "2": 6.07,
+        "X": 4.03
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -769,14 +1497,20 @@
     {
       "id": 27,
       "group": "B",
-      "date": "2026-06-19T01:00",
+      "date": "2026-06-19T01:00:00",
       "match": "Kanada - Qatar",
+      "home": "Kanada",
+      "away": "Qatar",
+      "homeFlag": "https://flagcdn.com/w80/ca.png",
+      "awayFlag": "https://flagcdn.com/w80/qa.png",
       "odds": {
         "1": 1.35,
-        "X": 4.8,
-        "2": 10
+        "2": 10,
+        "X": 4.8
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -794,14 +1528,20 @@
     {
       "id": 28,
       "group": "A",
-      "date": "2026-06-19T04:00",
+      "date": "2026-06-19T04:00:00",
       "match": "Meksiko - Etelä-Korea",
+      "home": "Meksiko",
+      "away": "Etelä-Korea",
+      "homeFlag": "https://flagcdn.com/w80/mx.png",
+      "awayFlag": "https://flagcdn.com/w80/kr.png",
       "odds": {
         "1": 1.8,
-        "X": 3.6,
-        "2": 4.8
+        "2": 4.8,
+        "X": 3.6
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -819,14 +1559,20 @@
     {
       "id": 29,
       "group": "D",
-      "date": "2026-06-19T22:00",
+      "date": "2026-06-19T22:00:00",
       "match": "Yhdysvallat - Australia",
+      "home": "Yhdysvallat",
+      "away": "Australia",
+      "homeFlag": "https://flagcdn.com/w80/us.png",
+      "awayFlag": "https://flagcdn.com/w80/au.png",
       "odds": {
         "1": 1.75,
-        "X": 3.73,
-        "2": 4.9
+        "2": 4.9,
+        "X": 3.73
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -844,14 +1590,20 @@
     {
       "id": 30,
       "group": "C",
-      "date": "2026-06-20T01:00",
+      "date": "2026-06-20T01:00:00",
       "match": "Skotlanti - Marokko",
+      "home": "Skotlanti",
+      "away": "Marokko",
+      "homeFlag": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
+      "awayFlag": "https://flagcdn.com/w80/ma.png",
       "odds": {
         "1": 3.92,
-        "X": 3.23,
-        "2": 2.1
+        "2": 2.1,
+        "X": 3.23
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "X, 2",
         "Valtsu": "2",
@@ -869,14 +1621,20 @@
     {
       "id": 31,
       "group": "C",
-      "date": "2026-06-20T03:30",
+      "date": "2026-06-20T03:30:00",
       "match": "Brasilia - Haiti",
+      "home": "Brasilia",
+      "away": "Haiti",
+      "homeFlag": "https://flagcdn.com/w80/br.png",
+      "awayFlag": "https://flagcdn.com/w80/ht.png",
       "odds": {
         "1": 1.05,
-        "X": 14.33,
-        "2": 21.5
+        "2": 21.5,
+        "X": 14.33
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -894,14 +1652,20 @@
     {
       "id": 32,
       "group": "D",
-      "date": "2026-06-20T06:00",
+      "date": "2026-06-20T06:00:00",
       "match": "Turkki - Paraguay",
+      "home": "Turkki",
+      "away": "Paraguay",
+      "homeFlag": "https://flagcdn.com/w80/tr.png",
+      "awayFlag": "https://flagcdn.com/w80/py.png",
       "odds": {
         "1": 2.3,
-        "X": 3.17,
-        "2": 3.4
+        "2": 3.4,
+        "X": 3.17
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "X",
@@ -919,14 +1683,20 @@
     {
       "id": 33,
       "group": "F",
-      "date": "2026-06-20T20:00",
+      "date": "2026-06-20T20:00:00",
       "match": "Hollanti - Ruotsi",
+      "home": "Hollanti",
+      "away": "Ruotsi",
+      "homeFlag": "https://flagcdn.com/w80/nl.png",
+      "awayFlag": "https://flagcdn.com/w80/se.png",
       "odds": {
         "1": 1.69,
-        "X": 3.87,
-        "2": 5.15
+        "2": 5.15,
+        "X": 3.87
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "2",
@@ -944,14 +1714,20 @@
     {
       "id": 34,
       "group": "E",
-      "date": "2026-06-20T23:00",
+      "date": "2026-06-20T23:00:00",
       "match": "Saksa - Norsunluurannikko",
+      "home": "Saksa",
+      "away": "Norsunluurannikko",
+      "homeFlag": "https://flagcdn.com/w80/de.png",
+      "awayFlag": "https://flagcdn.com/w80/ci.png",
       "odds": {
         "1": 1.55,
-        "X": 4.32,
-        "2": 5.97
+        "2": 5.97,
+        "X": 4.32
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -969,14 +1745,20 @@
     {
       "id": 35,
       "group": "E",
-      "date": "2026-06-21T03:00",
+      "date": "2026-06-21T03:00:00",
       "match": "Ecuador - Curacao",
+      "home": "Ecuador",
+      "away": "Curacao",
+      "homeFlag": "https://flagcdn.com/w80/ec.png",
+      "awayFlag": "https://flagcdn.com/w80/cw.png",
       "odds": {
         "1": 1.28,
-        "X": 5.63,
-        "2": 10
+        "2": 10,
+        "X": 5.63
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -994,14 +1776,20 @@
     {
       "id": 36,
       "group": "F",
-      "date": "2026-06-21T07:00",
+      "date": "2026-06-21T07:00:00",
       "match": "Tunisia - Japani",
+      "home": "Tunisia",
+      "away": "Japani",
+      "homeFlag": "https://flagcdn.com/w80/tn.png",
+      "awayFlag": "https://flagcdn.com/w80/jp.png",
       "odds": {
         "1": 4.52,
-        "X": 3.35,
-        "2": 1.92
+        "2": 1.92,
+        "X": 3.35
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -1019,14 +1807,20 @@
     {
       "id": 37,
       "group": "H",
-      "date": "2026-06-21T19:00",
+      "date": "2026-06-21T19:00:00",
       "match": "Espanja - Saudi-Arabia",
+      "home": "Espanja",
+      "away": "Saudi-Arabia",
+      "homeFlag": "https://flagcdn.com/w80/es.png",
+      "awayFlag": "https://flagcdn.com/w80/sa.png",
       "odds": {
         "1": 1.13,
-        "X": 8.53,
-        "2": 12.8
+        "2": 12.8,
+        "X": 8.53
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -1044,14 +1838,20 @@
     {
       "id": 38,
       "group": "G",
-      "date": "2026-06-21T22:00",
+      "date": "2026-06-21T22:00:00",
       "match": "Belgia - Iran",
+      "home": "Belgia",
+      "away": "Iran",
+      "homeFlag": "https://flagcdn.com/w80/be.png",
+      "awayFlag": "https://flagcdn.com/w80/ir.png",
       "odds": {
         "1": 1.44,
-        "X": 4.5,
-        "2": 8.17
+        "2": 8.17,
+        "X": 4.5
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -1069,14 +1869,20 @@
     {
       "id": 39,
       "group": "H",
-      "date": "2026-06-22T01:00",
+      "date": "2026-06-22T01:00:00",
       "match": "Uruguay - Kap Verde",
+      "home": "Uruguay",
+      "away": "Kap Verde",
+      "homeFlag": "https://flagcdn.com/w80/uy.png",
+      "awayFlag": "https://flagcdn.com/w80/cv.png",
       "odds": {
         "1": 1.46,
-        "X": 4.5,
-        "2": 7.2
+        "2": 7.2,
+        "X": 4.5
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -1094,14 +1900,20 @@
     {
       "id": 40,
       "group": "G",
-      "date": "2026-06-22T04:00",
+      "date": "2026-06-22T04:00:00",
       "match": "Uusi-Seelanti - Egypti",
+      "home": "Uusi-Seelanti",
+      "away": "Egypti",
+      "homeFlag": "https://flagcdn.com/w80/nz.png",
+      "awayFlag": "https://flagcdn.com/w80/eg.png",
       "odds": {
         "1": 5.17,
-        "X": 3.67,
-        "2": 1.73
+        "2": 1.73,
+        "X": 3.67
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -1119,14 +1931,20 @@
     {
       "id": 41,
       "group": "J",
-      "date": "2026-06-22T20:00",
+      "date": "2026-06-22T20:00:00",
       "match": "Argentiina - Itävalta",
+      "home": "Argentiina",
+      "away": "Itävalta",
+      "homeFlag": "https://flagcdn.com/w80/ar.png",
+      "awayFlag": "https://flagcdn.com/w80/at.png",
       "odds": {
         "1": 1.68,
-        "X": 3.78,
-        "2": 5.4
+        "2": 5.4,
+        "X": 3.78
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "X",
@@ -1144,14 +1962,20 @@
     {
       "id": 42,
       "group": "I",
-      "date": "2026-06-23T00:00",
+      "date": "2026-06-23T00:00:00",
       "match": "Ranska - Irak",
+      "home": "Ranska",
+      "away": "Irak",
+      "homeFlag": "https://flagcdn.com/w80/fr.png",
+      "awayFlag": "https://flagcdn.com/w80/iq.png",
       "odds": {
         "1": 1.14,
-        "X": 7.8,
-        "2": 11.7
+        "2": 11.7,
+        "X": 7.8
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -1169,14 +1993,20 @@
     {
       "id": 43,
       "group": "I",
-      "date": "2026-06-23T03:00",
+      "date": "2026-06-23T03:00:00",
       "match": "Norja - Senegal",
+      "home": "Norja",
+      "away": "Senegal",
+      "homeFlag": "https://flagcdn.com/w80/no.png",
+      "awayFlag": "https://flagcdn.com/w80/sn.png",
       "odds": {
         "1": 2.15,
-        "X": 3.45,
-        "2": 3.5
+        "2": 3.5,
+        "X": 3.45
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1, X",
         "Valtsu": "1, 2",
@@ -1194,14 +2024,20 @@
     {
       "id": 44,
       "group": "J",
-      "date": "2026-06-23T06:00",
+      "date": "2026-06-23T06:00:00",
       "match": "Jordania - Algeria",
+      "home": "Jordania",
+      "away": "Algeria",
+      "homeFlag": "https://flagcdn.com/w80/jo.png",
+      "awayFlag": "https://flagcdn.com/w80/dz.png",
       "odds": {
         "1": 5.47,
-        "X": 3.9,
-        "2": 1.65
+        "2": 1.65,
+        "X": 3.9
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -1219,14 +2055,20 @@
     {
       "id": 45,
       "group": "K",
-      "date": "2026-06-23T20:00",
+      "date": "2026-06-23T20:00:00",
       "match": "Portugali - Uzbekistan",
+      "home": "Portugali",
+      "away": "Uzbekistan",
+      "homeFlag": "https://flagcdn.com/w80/pt.png",
+      "awayFlag": "https://flagcdn.com/w80/uz.png",
       "odds": {
         "1": 1.26,
-        "X": 6.13,
-        "2": 10
+        "2": 10,
+        "X": 6.13
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -1244,14 +2086,20 @@
     {
       "id": 46,
       "group": "L",
-      "date": "2026-06-23T23:00",
+      "date": "2026-06-23T23:00:00",
       "match": "Englanti - Ghana",
+      "home": "Englanti",
+      "away": "Ghana",
+      "homeFlag": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+      "awayFlag": "https://flagcdn.com/w80/gh.png",
       "odds": {
         "1": 1.34,
-        "X": 5.03,
-        "2": 10
+        "2": 10,
+        "X": 5.03
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -1269,14 +2117,20 @@
     {
       "id": 47,
       "group": "L",
-      "date": "2026-06-24T02:00",
+      "date": "2026-06-24T02:00:00",
       "match": "Panama - Kroatia",
+      "home": "Panama",
+      "away": "Kroatia",
+      "homeFlag": "https://flagcdn.com/w80/pa.png",
+      "awayFlag": "https://flagcdn.com/w80/hr.png",
       "odds": {
         "1": 7.07,
-        "X": 3.9,
-        "2": 1.55
+        "2": 1.55,
+        "X": 3.9
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -1294,14 +2148,20 @@
     {
       "id": 48,
       "group": "K",
-      "date": "2026-06-24T05:00",
+      "date": "2026-06-24T05:00:00",
       "match": "Kolumbia - Kongo",
+      "home": "Kolumbia",
+      "away": "Kongo",
+      "homeFlag": "https://flagcdn.com/w80/co.png",
+      "awayFlag": "https://flagcdn.com/w80/cd.png",
       "odds": {
         "1": 1.5,
-        "X": 4.13,
-        "2": 7.57
+        "2": 7.57,
+        "X": 4.13
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -1319,14 +2179,20 @@
     {
       "id": 49,
       "group": "B",
-      "date": "2026-06-24T22:00",
+      "date": "2026-06-24T22:00:00",
       "match": "Sveitsi - Kanada",
+      "home": "Sveitsi",
+      "away": "Kanada",
+      "homeFlag": "https://flagcdn.com/w80/ch.png",
+      "awayFlag": "https://flagcdn.com/w80/ca.png",
       "odds": {
         "1": 2.07,
-        "X": 3.37,
-        "2": 3.77
+        "2": 3.77,
+        "X": 3.37
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1, X",
         "Valtsu": "1, X",
@@ -1344,14 +2210,20 @@
     {
       "id": 50,
       "group": "B",
-      "date": "2026-06-24T22:00",
+      "date": "2026-06-24T22:00:00",
       "match": "Bosnia-Hertsegovina - Qatar",
+      "home": "Bosnia-Hertsegovina",
+      "away": "Qatar",
+      "homeFlag": "https://flagcdn.com/w80/ba.png",
+      "awayFlag": "https://flagcdn.com/w80/qa.png",
       "odds": {
         "1": 1.69,
-        "X": 3.73,
-        "2": 5.58
+        "2": 5.58,
+        "X": 3.73
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -1369,14 +2241,20 @@
     {
       "id": 51,
       "group": "C",
-      "date": "2026-06-25T01:00",
+      "date": "2026-06-25T01:00:00",
       "match": "Marokko - Haiti",
+      "home": "Marokko",
+      "away": "Haiti",
+      "homeFlag": "https://flagcdn.com/w80/ma.png",
+      "awayFlag": "https://flagcdn.com/w80/ht.png",
       "odds": {
         "1": 1.34,
-        "X": 5.05,
-        "2": 10
+        "2": 10,
+        "X": 5.05
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -1394,14 +2272,20 @@
     {
       "id": 52,
       "group": "C",
-      "date": "2026-06-25T01:00",
+      "date": "2026-06-25T01:00:00",
       "match": "Skotlanti - Brasilia",
+      "home": "Skotlanti",
+      "away": "Brasilia",
+      "homeFlag": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
+      "awayFlag": "https://flagcdn.com/w80/br.png",
       "odds": {
         "1": 8.6,
-        "X": 4.67,
-        "2": 1.4
+        "2": 1.4,
+        "X": 4.67
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -1419,14 +2303,20 @@
     {
       "id": 53,
       "group": "A",
-      "date": "2026-06-25T04:00",
+      "date": "2026-06-25T04:00:00",
       "match": "Etelä-Afrikka - Etelä-Korea",
+      "home": "Etelä-Afrikka",
+      "away": "Etelä-Korea",
+      "homeFlag": "https://flagcdn.com/w80/za.png",
+      "awayFlag": "https://flagcdn.com/w80/kr.png",
       "odds": {
         "1": 3.83,
-        "X": 3.38,
-        "2": 2.04
+        "2": 2.04,
+        "X": 3.38
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "X, 2",
         "Valtsu": "2",
@@ -1444,14 +2334,20 @@
     {
       "id": 54,
       "group": "A",
-      "date": "2026-06-25T04:00",
+      "date": "2026-06-25T04:00:00",
       "match": "Tsekki - Meksiko",
+      "home": "Tsekki",
+      "away": "Meksiko",
+      "homeFlag": "https://flagcdn.com/w80/cz.png",
+      "awayFlag": "https://flagcdn.com/w80/mx.png",
       "odds": {
         "1": 3.92,
-        "X": 3.4,
-        "2": 2.01
+        "2": 2.01,
+        "X": 3.4
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "X, 2",
         "Valtsu": "1, 2",
@@ -1469,14 +2365,20 @@
     {
       "id": 55,
       "group": "E",
-      "date": "2026-06-25T23:00",
+      "date": "2026-06-25T23:00:00",
       "match": "Curacao - Norsunluurannikko",
+      "home": "Curacao",
+      "away": "Norsunluurannikko",
+      "homeFlag": "https://flagcdn.com/w80/cw.png",
+      "awayFlag": "https://flagcdn.com/w80/ci.png",
       "odds": {
         "1": 10,
-        "X": 4.97,
-        "2": 1.33
+        "2": 1.33,
+        "X": 4.97
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -1494,14 +2396,20 @@
     {
       "id": 56,
       "group": "E",
-      "date": "2026-06-25T23:00",
+      "date": "2026-06-25T23:00:00",
       "match": "Ecuador - Saksa",
+      "home": "Ecuador",
+      "away": "Saksa",
+      "homeFlag": "https://flagcdn.com/w80/ec.png",
+      "awayFlag": "https://flagcdn.com/w80/de.png",
       "odds": {
         "1": 5.2,
-        "X": 3.82,
-        "2": 1.69
+        "2": 1.69,
+        "X": 3.82
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -1519,14 +2427,20 @@
     {
       "id": 57,
       "group": "F",
-      "date": "2026-06-26T02:00",
+      "date": "2026-06-26T02:00:00",
       "match": "Tunisia - Hollanti",
+      "home": "Tunisia",
+      "away": "Hollanti",
+      "homeFlag": "https://flagcdn.com/w80/tn.png",
+      "awayFlag": "https://flagcdn.com/w80/nl.png",
       "odds": {
         "1": 6.2,
-        "X": 4.07,
-        "2": 1.56
+        "2": 1.56,
+        "X": 4.07
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -1544,14 +2458,20 @@
     {
       "id": 58,
       "group": "F",
-      "date": "2026-06-26T02:00",
+      "date": "2026-06-26T02:00:00",
       "match": "Japani - Ruotsi",
+      "home": "Japani",
+      "away": "Ruotsi",
+      "homeFlag": "https://flagcdn.com/w80/jp.png",
+      "awayFlag": "https://flagcdn.com/w80/se.png",
       "odds": {
         "1": 2.07,
-        "X": 3.45,
-        "2": 3.6
+        "2": 3.6,
+        "X": 3.45
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "X, 2",
@@ -1569,14 +2489,20 @@
     {
       "id": 59,
       "group": "D",
-      "date": "2026-06-26T05:00",
+      "date": "2026-06-26T05:00:00",
       "match": "Turkki - Yhdysvallat",
+      "home": "Turkki",
+      "away": "Yhdysvallat",
+      "homeFlag": "https://flagcdn.com/w80/tr.png",
+      "awayFlag": "https://flagcdn.com/w80/us.png",
       "odds": {
         "1": 2.75,
-        "X": 3.43,
-        "2": 2.55
+        "2": 2.55,
+        "X": 3.43
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "X, 2",
         "Valtsu": "1, X",
@@ -1594,14 +2520,20 @@
     {
       "id": 60,
       "group": "D",
-      "date": "2026-06-26T05:00",
+      "date": "2026-06-26T05:00:00",
       "match": "Paraguay - Australia",
+      "home": "Paraguay",
+      "away": "Australia",
+      "homeFlag": "https://flagcdn.com/w80/py.png",
+      "awayFlag": "https://flagcdn.com/w80/au.png",
       "odds": {
         "1": 2.21,
-        "X": 3.23,
-        "2": 3.5
+        "2": 3.5,
+        "X": 3.23
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -1619,14 +2551,20 @@
     {
       "id": 61,
       "group": "I",
-      "date": "2026-06-26T22:00",
+      "date": "2026-06-26T22:00:00",
       "match": "Norja - Ranska",
+      "home": "Norja",
+      "away": "Ranska",
+      "homeFlag": "https://flagcdn.com/w80/no.png",
+      "awayFlag": "https://flagcdn.com/w80/fr.png",
       "odds": {
         "1": 4.97,
-        "X": 3.73,
-        "2": 1.73
+        "2": 1.73,
+        "X": 3.73
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -1644,14 +2582,20 @@
     {
       "id": 62,
       "group": "I",
-      "date": "2026-06-26T22:00",
+      "date": "2026-06-26T22:00:00",
       "match": "Senegal - Irak",
+      "home": "Senegal",
+      "away": "Irak",
+      "homeFlag": "https://flagcdn.com/w80/sn.png",
+      "awayFlag": "https://flagcdn.com/w80/iq.png",
       "odds": {
         "1": 1.48,
-        "X": 4.27,
-        "2": 7.27
+        "2": 7.27,
+        "X": 4.27
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -1669,14 +2613,20 @@
     {
       "id": 63,
       "group": "H",
-      "date": "2026-06-27T03:00",
+      "date": "2026-06-27T03:00:00",
       "match": "Kap Verde - Saudi-Arabia",
+      "home": "Kap Verde",
+      "away": "Saudi-Arabia",
+      "homeFlag": "https://flagcdn.com/w80/cv.png",
+      "awayFlag": "https://flagcdn.com/w80/sa.png",
       "odds": {
         "1": 2.8,
-        "X": 3.43,
-        "2": 2.53
+        "2": 2.53,
+        "X": 3.43
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "X, 2",
@@ -1694,14 +2644,20 @@
     {
       "id": 64,
       "group": "H",
-      "date": "2026-06-27T03:00",
+      "date": "2026-06-27T03:00:00",
       "match": "Uruguay - Espanja",
+      "home": "Uruguay",
+      "away": "Espanja",
+      "homeFlag": "https://flagcdn.com/w80/uy.png",
+      "awayFlag": "https://flagcdn.com/w80/es.png",
       "odds": {
         "1": 5.3,
-        "X": 3.93,
-        "2": 1.64
+        "2": 1.64,
+        "X": 3.93
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "2",
@@ -1719,14 +2675,20 @@
     {
       "id": 65,
       "group": "G",
-      "date": "2026-06-27T06:00",
+      "date": "2026-06-27T06:00:00",
       "match": "Egypti - Iran",
+      "home": "Egypti",
+      "away": "Iran",
+      "homeFlag": "https://flagcdn.com/w80/eg.png",
+      "awayFlag": "https://flagcdn.com/w80/ir.png",
       "odds": {
         "1": 2.33,
-        "X": 3.03,
-        "2": 3.47
+        "2": 3.47,
+        "X": 3.03
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -1744,14 +2706,20 @@
     {
       "id": 66,
       "group": "G",
-      "date": "2026-06-27T06:00",
+      "date": "2026-06-27T06:00:00",
       "match": "Uusi-Seelanti - Belgia",
+      "home": "Uusi-Seelanti",
+      "away": "Belgia",
+      "homeFlag": "https://flagcdn.com/w80/nz.png",
+      "awayFlag": "https://flagcdn.com/w80/be.png",
       "odds": {
         "1": 10,
-        "X": 5.7,
-        "2": 1.29
+        "2": 1.29,
+        "X": 5.7
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -1769,14 +2737,20 @@
     {
       "id": 67,
       "group": "L",
-      "date": "2026-06-28T00:00",
+      "date": "2026-06-28T00:00:00",
       "match": "Kroatia - Ghana",
+      "home": "Kroatia",
+      "away": "Ghana",
+      "homeFlag": "https://flagcdn.com/w80/hr.png",
+      "awayFlag": "https://flagcdn.com/w80/gh.png",
       "odds": {
         "1": 1.75,
-        "X": 3.67,
-        "2": 5
+        "2": 5,
+        "X": 3.67
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -1794,14 +2768,20 @@
     {
       "id": 68,
       "group": "L",
-      "date": "2026-06-28T02:30",
+      "date": "2026-06-28T02:30:00",
       "match": "Panama - Englanti",
+      "home": "Panama",
+      "away": "Englanti",
+      "homeFlag": "https://flagcdn.com/w80/pa.png",
+      "awayFlag": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
       "odds": {
         "1": 10,
-        "X": 6.13,
-        "2": 1.25
+        "2": 1.25,
+        "X": 6.13
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -1819,14 +2799,20 @@
     {
       "id": 69,
       "group": "K",
-      "date": "2026-06-28T02:30",
+      "date": "2026-06-28T02:30:00",
       "match": "Kolumbia - Portugali",
+      "home": "Kolumbia",
+      "away": "Portugali",
+      "homeFlag": "https://flagcdn.com/w80/co.png",
+      "awayFlag": "https://flagcdn.com/w80/pt.png",
       "odds": {
         "1": 3.43,
-        "X": 3.28,
-        "2": 2.21
+        "2": 2.21,
+        "X": 3.28
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "X, 2",
@@ -1844,14 +2830,20 @@
     {
       "id": 70,
       "group": "K",
-      "date": "2026-06-28T02:30",
+      "date": "2026-06-28T02:30:00",
       "match": "Kongo - Uzbekistan",
+      "home": "Kongo",
+      "away": "Uzbekistan",
+      "homeFlag": "https://flagcdn.com/w80/cd.png",
+      "awayFlag": "https://flagcdn.com/w80/uz.png",
       "odds": {
         "1": 2.55,
-        "X": 3.33,
-        "2": 2.83
+        "2": 2.83,
+        "X": 3.33
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "X",
@@ -1869,14 +2861,20 @@
     {
       "id": 71,
       "group": "J",
-      "date": "2026-06-28T05:00",
+      "date": "2026-06-28T05:00:00",
       "match": "Algeria - Itävalta",
+      "home": "Algeria",
+      "away": "Itävalta",
+      "homeFlag": "https://flagcdn.com/w80/dz.png",
+      "awayFlag": "https://flagcdn.com/w80/at.png",
       "odds": {
         "1": 3.53,
-        "X": 3.28,
-        "2": 2.17
+        "2": 2.17,
+        "X": 3.28
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "X",
@@ -1894,14 +2892,20 @@
     {
       "id": 72,
       "group": "J",
-      "date": "2026-06-28T05:00",
+      "date": "2026-06-28T05:00:00",
       "match": "Jordania - Argentiina",
+      "home": "Jordania",
+      "away": "Argentiina",
+      "homeFlag": "https://flagcdn.com/w80/jo.png",
+      "awayFlag": "https://flagcdn.com/w80/ar.png",
       "odds": {
         "1": 10.46,
-        "X": 6.97,
-        "2": 1.18
+        "2": 1.18,
+        "X": 6.97
       },
       "result": "",
+      "score": "",
+      "apiStatus": "",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",

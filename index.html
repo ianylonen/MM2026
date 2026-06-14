@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>MM 2026 - Veikkaus</title>
+  <title>MM 2026 - EUMAM-veikkaus</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -11,68 +11,31 @@
     <div>
       <p class="eyebrow">MM 2026</p>
       <h1>Seuranta</h1>
-      <p class="sub">Automaattisesti päivittyvä pistetaulukko, ottelutulokset ja finaaliveikkaukset.</p>
+      <p class="sub">Pistetilanne, viimeisimmät tulokset, finaaliveikkaukset ja seuraavien otteluiden veikkaukset.</p>
     </div>
-    <div class="update-card">
-      <span>Viimeksi päivitetty</span>
-      <strong id="updated">–</strong>
-    </div>
+    <div class="update-card"><span>Viimeksi päivitetty</span><strong id="updated">–</strong></div>
   </header>
-
   <main>
     <section class="kpis" aria-label="Yhteenveto">
       <article><span>Pelattuja otteluita</span><strong id="completed">–</strong></article>
       <article><span>Kärjessä</span><strong id="leader">–</strong></article>
       <article><span>Kärjen pisteet</span><strong id="leaderPoints">–</strong></article>
     </section>
-
     <section class="panel">
-      <div class="panel-head">
-        <h2>Tilanne</h2>
-        <p>Pelaajat järjestetään automaattisesti yhteispisteiden mukaan.</p>
-      </div>
+      <div class="panel-head"><h2>Tilanne</h2><p>Pelaajat järjestetään automaattisesti yhteispisteiden mukaan.</p></div>
       <div class="table-wrap">
         <table id="standingsTable">
-          <thead>
-            <tr>
-              <th>Sija</th>
-              <th>Nimi</th>
-              <th>Ottelupisteet</th>
-              <th>Miinukset</th>
-              <th>Finaali</th>
-              <th>Yhteensä</th>
-              <th>Kulta</th>
-              <th>Hopea</th>
-            </tr>
-          </thead>
+          <thead><tr><th>Sija</th><th>Nimi</th><th>Ottelupisteet</th><th>Miinukset</th><th>Finaali</th><th>Yhteensä</th><th>Ero kärjestä</th><th>Kulta</th><th>Hopea</th></tr></thead>
           <tbody></tbody>
         </table>
       </div>
     </section>
-
     <section class="grid">
-      <article class="panel">
-        <div class="panel-head">
-          <h2>Viimeisimmät tulokset</h2>
-          <p>Pelatut ottelut uusimmasta vanhimpaan.</p>
-        </div>
-        <div id="recentMatches" class="match-list"></div>
-      </article>
-
-      <article class="panel">
-        <div class="panel-head">
-          <h2>Seuraavat ottelut</h2>
-          <p>Ottelut ilman tulosta.</p>
-        </div>
-        <div id="upcomingMatches" class="match-list"></div>
-      </article>
+      <article class="panel"><div class="panel-head"><h2>Viimeisimmät tulokset</h2><p>Pelatut ottelut uusimmasta vanhimpaan.</p></div><div id="recentMatches" class="match-list"></div></article>
+      <article class="panel"><div class="panel-head"><h2>Seuraavat ottelut</h2><p>Mukana pelaajien veikkaukset.</p></div><div id="upcomingMatches" class="match-list"></div></article>
     </section>
   </main>
-
-  <footer>
-    Data: oma Excel + football-data.org API.
-  </footer>
-
+  <footer>Data: football-data.org API.</footer>
   <script src="app.js"></script>
 </body>
 </html>

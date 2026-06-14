@@ -1,83 +1,44 @@
 const fmt = new Intl.NumberFormat("fi-FI", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const dtf = new Intl.DateTimeFormat("fi-FI", { dateStyle: "short", timeStyle: "short" });
 
-function formatDate(value) {
-  if (!value) return "–";
-  const d = new Date(value);
-  if (Number.isNaN(d.getTime())) return value;
-  return new Intl.DateTimeFormat("fi-FI", {
-    dateStyle: "short",
-    timeStyle: "short"
-  }).format(d);
+function n(value) { return fmt.format(Number(value || 0)); }
+function d(value) { return value ? dtf.format(new Date(value)) : "–"; }
+function flag(src, alt) { return src ? `<img class="flag" src="${src}" alt="${alt}">` : ""; }
+function resultText(m) { return m.score ? `${m.score} · ${m.result}` : (m.result || "–"); }
+function predClass(pred, result) {
+  const clean = String(pred ?? "").replace(/\s/g, "");
+  if (!result) return "";
+  return clean.includes(result) ? " hit" : " miss";
 }
-
-function points(value) {
-  return fmt.format(Number(value || 0));
+function predictionChips(match, compact=false) {
+  const entries = Object.entries(match.predictions || {});
+  return `<div class="chips ${compact ? "compact" : ""}">${entries.map(([name, pred]) => `<span class="chip${predClass(pred, match.result)}"><b>${name}</b> ${pred || "–"}</span>`).join("")}</div>`;
 }
-
-async function loadData() {
-  const response = await fetch("data.json", { cache: "no-store" });
-  if (!response.ok) throw new Error("data.json ei latautunut");
-  return await response.json();
-}
-
-function renderStandings(rows) {
-  const tbody = document.querySelector("#standingsTable tbody");
-  tbody.innerHTML = "";
-  rows.forEach(row => {
-    const tr = document.createElement("tr");
-    tr.innerHTML = `
-      <td class="rank">${row.rank}</td>
-      <td><strong>${row.name}</strong></td>
-      <td class="num">${points(row.matchPoints)}</td>
-      <td class="num negative">${points(row.penaltyPoints)}</td>
-      <td class="num">${points(row.finalPoints)}</td>
-      <td class="num total">${points(row.total)}</td>
-      <td>${row.gold || "–"}</td>
-      <td>${row.silver || "–"}</td>
-    `;
-    tbody.appendChild(tr);
-  });
-}
-
-function renderMatches(data) {
-  const recent = data.matches
-    .filter(m => m.result)
-    .slice()
-    .sort((a,b) => new Date(b.date) - new Date(a.date))
-    .slice(0, 8);
-
-  const upcoming = data.matches
-    .filter(m => !m.result)
-    .slice()
-    .sort((a,b) => new Date(a.date) - new Date(b.date))
-    .slice(0, 8);
-
-  const recentEl = document.getElementById("recentMatches");
-  recentEl.innerHTML = recent.map(m => `
-    <div class="match">
-      <div><small>${formatDate(m.date)} · Lohko ${m.group}</small><strong>${m.match}</strong></div>
-      <span class="badge done">${m.result}</span>
+function matchCard(match, showPredictions=false) {
+  return `<article class="match-card">
+    <div class="match-main">
+      <div class="teams"><span>${flag(match.homeFlag, match.home)}${match.home}</span><small>–</small><span>${flag(match.awayFlag, match.away)}${match.away}</span></div>
+      <div class="score">${resultText(match)}</div>
     </div>
-  `).join("") || `<p class="sub">Ei pelattuja otteluita.</p>`;
-
-  const upcomingEl = document.getElementById("upcomingMatches");
-  upcomingEl.innerHTML = upcoming.map(m => `
-    <div class="match">
-      <div><small>${formatDate(m.date)} · Lohko ${m.group}</small><strong>${m.match}</strong></div>
-      <span class="badge">–</span>
-    </div>
-  `).join("") || `<p class="sub">Ei tulevia otteluita.</p>`;
+    <div class="match-meta"><span>Lohko ${match.group || ""}</span><span>${d(match.date)}</span></div>
+    ${showPredictions ? predictionChips(match, true) : ""}
+  </article>`;
 }
 
-loadData().then(data => {
+async function main() {
+  const data = await fetch("data.json", { cache: "no-store" }).then(r => r.json());
   document.title = data.title || document.title;
-  document.getElementById("updated").textContent = formatDate(data.generatedAt);
-  document.getElementById("completed").textContent = `${data.completedMatches} / ${data.totalMatches}`;
-  const leader = data.standings[0];
-  document.getElementById("leader").textContent = leader ? leader.name : "–";
-  document.getElementById("leaderPoints").textContent = leader ? points(leader.total) : "–";
-  renderStandings(data.standings);
-  renderMatches(data);
-}).catch(err => {
-  document.body.insertAdjacentHTML("afterbegin", `<div style="background:#7f1d1d;color:white;padding:12px 20px">Virhe: ${err.message}</div>`);
-});
+  document.getElementById("updated").textContent = d(data.generatedAt);
+  document.getElementById("completed").textContent = `${data.completedMatches}/${data.totalMatches}`;
+  document.getElementById("leader").textContent = data.standings?.[0]?.name || "–";
+  document.getElementById("leaderPoints").textContent = n(data.standings?.[0]?.total);
+
+  const tbody = document.querySelector("#standingsTable tbody");
+  tbody.innerHTML = (data.standings || []).map(row => `<tr>
+    <td class="rank">${row.rank}</td><td class="name">${row.name}</td><td>${n(row.matchPoints)}</td><td class="negative">${n(row.penaltyPoints)}</td><td>${n(row.finalPoints)}</td><td class="total">${n(row.total)}</td><td>${row.gapFromLeader === 0 ? "–" : n(row.gapFromLeader)}</td><td>${row.gold || ""}</td><td>${row.silver || ""}</td>
+  </tr>`).join("");
+
+  document.getElementById("recentMatches").innerHTML = (data.recentMatches || []).map(m => matchCard(m, false)).join("") || `<p class="empty">Ei pelattuja otteluita.</p>`;
+  document.getElementById("upcomingMatches").innerHTML = (data.upcomingMatches || []).map(m => matchCard(m, true)).join("") || `<p class="empty">Ei tulevia otteluita.</p>`;
+}
+main().catch(err => { document.body.insertAdjacentHTML("beforeend", `<pre class="error">${err.message}</pre>`); });
