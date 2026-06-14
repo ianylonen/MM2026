@@ -10,9 +10,37 @@ function predClass(pred, result) {
   if (!result) return "";
   return clean.includes(result) ? " hit" : " miss";
 }
+const NON_COMPETITOR_NAMES = new Set(["Ykkösrivi", "Ristirivi", "Kakkosrivi"]);
+
+function visiblePredictionEntries(match) {
+  return Object.entries(match.predictions || {})
+    .filter(([name]) => !NON_COMPETITOR_NAMES.has(name));
+}
+
+function predictionGroups(entries) {
+  const groups = { "1": [], "X": [], "2": [] };
+  for (const [name, pred] of entries) {
+    const clean = String(pred || "").replace(/\s/g, "");
+    if (clean.includes("1")) groups["1"].push(name);
+    if (clean.includes("X")) groups["X"].push(name);
+    if (clean.includes("2")) groups["2"].push(name);
+  }
+  return groups;
+}
+
 function predictionChips(match, compact=false) {
-  const entries = Object.entries(match.predictions || {});
-  return `<div class="chips ${compact ? "compact" : ""}">${entries.map(([name, pred]) => `<span class="chip${predClass(pred, match.result)}"><b>${name}</b> ${pred || "–"}</span>`).join("")}</div>`;
+  const entries = visiblePredictionEntries(match);
+  const groups = predictionGroups(entries);
+  const rows = ["1", "X", "2"].map(mark => {
+    const names = groups[mark];
+    const label = `${mark} (${names.length})`;
+    const nameList = names.length ? names.join(", ") : "–";
+    return `<div class="prediction-group-row">
+      <span class="prediction-mark">${label}</span>
+      <span class="prediction-names">${nameList}</span>
+    </div>`;
+  }).join("");
+  return `<div class="prediction-block prediction-groups" aria-label="Veikkausjakauma pelaajittain">${rows}</div>`;
 }
 function matchCard(match, showPredictions=false) {
   return `<article class="match-card">
