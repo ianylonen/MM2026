@@ -12,9 +12,25 @@ function predClass(pred, result) {
 }
 const NON_COMPETITOR_NAMES = new Set(["Ykkösrivi", "Ristirivi", "Kakkosrivi"]);
 
+function isNonCompetitor(name) {
+  return NON_COMPETITOR_NAMES.has(String(name || ""));
+}
+
+function addDisplayRanks(rows) {
+  let previousTotal = null;
+  let previousRank = 0;
+  return rows.map((row, index) => {
+    const total = Number(row.total || 0);
+    const rank = previousTotal !== null && total === previousTotal ? previousRank : index + 1;
+    previousTotal = total;
+    previousRank = rank;
+    return { ...row, displayRank: rank };
+  });
+}
+
 function visiblePredictionEntries(match) {
   return Object.entries(match.predictions || {})
-    .filter(([name]) => !NON_COMPETITOR_NAMES.has(name));
+    .filter(([name]) => !isNonCompetitor(name));
 }
 
 function predictionGroups(entries) {
@@ -55,16 +71,24 @@ function matchCard(match, showPredictions=false) {
 
 async function main() {
   const data = await fetch("data.json", { cache: "no-store" }).then(r => r.json());
-  document.title = data.title || document.title;
   document.getElementById("updated").textContent = d(data.generatedAt);
   document.getElementById("completed").textContent = `${data.completedMatches}/${data.totalMatches}`;
   document.getElementById("leader").textContent = data.standings?.[0]?.name || "–";
   document.getElementById("leaderPoints").textContent = n(data.standings?.[0]?.total);
 
+  const allStandings = data.standings || [];
+  const competitors = addDisplayRanks(allStandings.filter(row => !isNonCompetitor(row.name)));
+  const comparisonIndexes = allStandings.filter(row => isNonCompetitor(row.name));
+
   const tbody = document.querySelector("#standingsTable tbody");
-  tbody.innerHTML = (data.standings || []).map(row => `<tr>
-    <td class="rank">${row.rank}</td><td class="name">${row.name}</td><td>${n(row.matchPoints)}</td><td class="negative">${n(row.penaltyPoints)}</td><td>${n(row.finalPoints)}</td><td class="total">${n(row.total)}</td><td>${row.gapFromLeader === 0 ? "–" : n(row.gapFromLeader)}</td><td>${row.gold || ""}</td><td>${row.silver || ""}</td>
+  tbody.innerHTML = competitors.map(row => `<tr>
+    <td class="rank">${row.displayRank}</td><td class="name">${row.name}</td><td>${n(row.matchPoints)}</td><td class="negative">${n(row.penaltyPoints)}</td><td>${n(row.finalPoints)}</td><td class="total">${n(row.total)}</td><td>${row.gapFromLeader === 0 ? "–" : n(row.gapFromLeader)}</td><td>${row.gold || ""}</td><td>${row.silver || ""}</td>
   </tr>`).join("");
+
+  const indexBody = document.querySelector("#indexTable tbody");
+  indexBody.innerHTML = comparisonIndexes.map(row => `<tr>
+    <td class="name">${row.name}</td><td>${n(row.matchPoints)}</td><td class="negative">${n(row.penaltyPoints)}</td><td class="total">${n(row.total)}</td><td>${row.gapFromLeader === 0 ? "–" : n(row.gapFromLeader)}</td>
+  </tr>`).join("") || `<tr><td colspan="5" class="empty">Vertailuindeksejä ei löydy.</td></tr>`;
 
   document.getElementById("recentMatches").innerHTML = (data.recentMatches || []).map(m => matchCard(m, false)).join("") || `<p class="empty">Ei pelattuja otteluita.</p>`;
   document.getElementById("upcomingMatches").innerHTML = (data.upcomingMatches || []).map(m => matchCard(m, true)).join("") || `<p class="empty">Ei tulevia otteluita.</p>`;
