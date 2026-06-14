@@ -84,12 +84,12 @@ async function main() {
 
   const tbody = document.querySelector("#standingsTable tbody");
   tbody.innerHTML = competitors.map(row => `<tr>
-    <td class="rank">${row.displayRank}</td><td class="name">${row.name}</td><td>${n(row.matchPoints)}</td><td class="negative">${n(row.penaltyPoints)}</td><td>${n(row.finalPoints)}</td><td class="total">${n(row.total)}</td><td>${row.gapFromLeader === 0 ? "–" : n(row.gapFromLeader)}</td><td>${row.gold || ""}</td><td>${row.silver || ""}</td>
+    <td class="rank">${row.displayRank}</td><td class="name">${row.name}</td><td>${n(row.matchPoints)}</td><td class="negative">${n(row.penaltyPoints)}</td><td>${n(row.finalPoints)}</td><td class="total">${n(row.total)}</td><td>${Number(row.total) === Number(leader?.total) ? "–" : n(Number(leader?.total || 0) - Number(row.total || 0))}</td><td>${row.gold || ""}</td><td>${row.silver || ""}</td>
   </tr>`).join("");
 
   const indexBody = document.querySelector("#indexTable tbody");
   indexBody.innerHTML = comparisonIndexes.map(row => `<tr>
-    <td class="name">${row.name}</td><td class="total">${n(row.total)}</td><td>${row.gapFromLeader === 0 ? "–" : n(row.gapFromLeader)}</td>
+    <td class="name">${row.name}</td><td class="total">${n(row.total)}</td><td>${Number(row.total) === Number(leader?.total) ? "–" : n(Number(leader?.total || 0) - Number(row.total || 0))}</td>
   </tr>`).join("") || `<tr><td colspan="3" class="empty">Vertailuindeksejä ei löydy.</td></tr>`;
 
   document.getElementById("recentMatches").innerHTML = (data.recentMatches || []).map(m => matchCard(m, false)).join("") || `<p class="empty">Ei pelattuja otteluita.</p>`;
