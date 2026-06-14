@@ -1,0 +1,29 @@
+name: Update World Cup data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Update data.json
+        run: node scripts/update-data.mjs
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+      - name: Commit changed data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update World Cup standings data"
+          file_pattern: data.json
