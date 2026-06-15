@@ -1,7 +1,7 @@
 {
   "title": "MM 2026 - Vedonlyöntikilpailu",
-  "generatedAt": "2026-06-14T22:56:15.346Z",
-  "completedMatches": 10,
+  "generatedAt": "2026-06-15T03:03:34.971Z",
+  "completedMatches": 11,
   "totalMatches": 72,
   "players": [
     "ChatGPT",
@@ -20,6 +20,17 @@
     {
       "rank": 1,
       "gapFromLeader": 0,
+      "name": "JP",
+      "matchPoints": 17.78,
+      "penaltyPoints": 0,
+      "finalPoints": 0,
+      "total": 17.78,
+      "gold": "Kanada",
+      "silver": "Senegal"
+    },
+    {
+      "rank": 2,
+      "gapFromLeader": 1.05,
       "name": "Ristirivi",
       "matchPoints": 16.73,
       "penaltyPoints": 0,
@@ -29,8 +40,19 @@
       "silver": ""
     },
     {
-      "rank": 2,
-      "gapFromLeader": 1.39,
+      "rank": 3,
+      "gapFromLeader": 2.18,
+      "name": "Ykkösrivi",
+      "matchPoints": 15.6,
+      "penaltyPoints": 0,
+      "finalPoints": 0,
+      "total": 15.6,
+      "gold": "",
+      "silver": ""
+    },
+    {
+      "rank": 4,
+      "gapFromLeader": 2.44,
       "name": "Aksu",
       "matchPoints": 15.34,
       "penaltyPoints": 0,
@@ -40,8 +62,8 @@
       "silver": "Brasilia"
     },
     {
-      "rank": 3,
-      "gapFromLeader": 1.56,
+      "rank": 5,
+      "gapFromLeader": 2.61,
       "name": "Masa",
       "matchPoints": 15.17,
       "penaltyPoints": 0,
@@ -51,8 +73,8 @@
       "silver": "Ranska"
     },
     {
-      "rank": 4,
-      "gapFromLeader": 2.36,
+      "rank": 6,
+      "gapFromLeader": 3.41,
       "name": "Tomi",
       "matchPoints": 14.37,
       "penaltyPoints": 0,
@@ -62,19 +84,8 @@
       "silver": "Brasilia"
     },
     {
-      "rank": 5,
-      "gapFromLeader": 2.55,
-      "name": "JP",
-      "matchPoints": 14.18,
-      "penaltyPoints": 0,
-      "finalPoints": 0,
-      "total": 14.18,
-      "gold": "Kanada",
-      "silver": "Senegal"
-    },
-    {
-      "rank": 6,
-      "gapFromLeader": 4.46,
+      "rank": 7,
+      "gapFromLeader": 5.51,
       "name": "ChatGPT",
       "matchPoints": 12.27,
       "penaltyPoints": 0,
@@ -84,19 +95,8 @@
       "silver": "Ranska"
     },
     {
-      "rank": 7,
-      "gapFromLeader": 4.73,
-      "name": "Ykkösrivi",
-      "matchPoints": 12,
-      "penaltyPoints": 0,
-      "finalPoints": 0,
-      "total": 12,
-      "gold": "",
-      "silver": ""
-    },
-    {
       "rank": 8,
-      "gapFromLeader": 7.16,
+      "gapFromLeader": 8.21,
       "name": "Tupe",
       "matchPoints": 9.57,
       "penaltyPoints": 0,
@@ -107,7 +107,18 @@
     },
     {
       "rank": 9,
-      "gapFromLeader": 10.61,
+      "gapFromLeader": 10.25,
+      "name": "Valtsu",
+      "matchPoints": 7.53,
+      "penaltyPoints": 0,
+      "finalPoints": 0,
+      "total": 7.53,
+      "gold": "Portugali",
+      "silver": "Espanja"
+    },
+    {
+      "rank": 10,
+      "gapFromLeader": 11.66,
       "name": "Ian",
       "matchPoints": 6.12,
       "penaltyPoints": 0,
@@ -117,19 +128,8 @@
       "silver": "Brasilia"
     },
     {
-      "rank": 10,
-      "gapFromLeader": 12.8,
-      "name": "Valtsu",
-      "matchPoints": 3.93,
-      "penaltyPoints": 0,
-      "finalPoints": 0,
-      "total": 3.93,
-      "gold": "Portugali",
-      "silver": "Espanja"
-    },
-    {
       "rank": 11,
-      "gapFromLeader": 15.29,
+      "gapFromLeader": 16.34,
       "name": "Kakkosrivi",
       "matchPoints": 1.44,
       "penaltyPoints": 0,
@@ -140,6 +140,40 @@
     }
   ],
   "recentMatches": [
+    {
+      "id": 11,
+      "group": "E",
+      "date": "2026-06-15T02:00:00",
+      "match": "Norsunluurannikko - Ecuador",
+      "home": "Norsunluurannikko",
+      "away": "Ecuador",
+      "odds": {
+        "1": 3.6,
+        "2": 2.35,
+        "X": 2.95
+      },
+      "maxOdds": 3.6,
+      "minOdds": 2.35,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "X, 2",
+        "Valtsu": "1, 2",
+        "Tupe": "2",
+        "Ian": "X",
+        "Masa": "X, 2",
+        "Tomi": "X",
+        "Aksu": "X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "1",
+      "apiStatus": "FINISHED",
+      "score": "1-0",
+      "homeFlag": "https://crests.football-data.org/787.svg",
+      "awayFlag": "https://crests.football-data.org/791.svg"
+    },
     {
       "id": 10,
       "group": "F",
@@ -377,77 +411,9 @@
       "score": "4-1",
       "homeFlag": "https://crests.football-data.org/usa.svg",
       "awayFlag": "https://crests.football-data.org/761.svg"
-    },
-    {
-      "id": 3,
-      "group": "B",
-      "date": "2026-06-12T22:00:00",
-      "match": "Kanada - Bosnia-Hertsegovina",
-      "home": "Kanada",
-      "away": "Bosnia-Hertsegovina",
-      "odds": {
-        "1": 1.82,
-        "2": 4.58,
-        "X": 3.63
-      },
-      "maxOdds": 4.58,
-      "minOdds": 1.82,
-      "initialResult": "X",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1, 2",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "X",
-        "JP": "2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "X",
-      "apiStatus": "FINISHED",
-      "score": "1-1",
-      "homeFlag": "https://crests.football-data.org/canada.svg",
-      "awayFlag": "https://crests.football-data.org/bosnia.svg"
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 11,
-      "group": "E",
-      "date": "2026-06-15T02:00:00",
-      "match": "Norsunluurannikko - Ecuador",
-      "home": "Norsunluurannikko",
-      "away": "Ecuador",
-      "odds": {
-        "1": 3.6,
-        "2": 2.35,
-        "X": 2.95
-      },
-      "maxOdds": 3.6,
-      "minOdds": 2.35,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "X, 2",
-        "Valtsu": "1, 2",
-        "Tupe": "2",
-        "Ian": "X",
-        "Masa": "X, 2",
-        "Tomi": "X",
-        "Aksu": "X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "",
-      "apiStatus": "TIMED",
-      "score": "",
-      "homeFlag": "https://crests.football-data.org/787.svg",
-      "awayFlag": "https://crests.football-data.org/791.svg"
-    },
     {
       "id": 12,
       "group": "F",
@@ -477,8 +443,8 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "TIMED",
-      "score": "",
+      "apiStatus": "PAUSED",
+      "score": "2-1",
       "homeFlag": "https://crests.football-data.org/792.svg",
       "awayFlag": "https://crests.football-data.org/tunisia.svg"
     },
@@ -685,6 +651,40 @@
       "score": "",
       "homeFlag": "https://crests.football-data.org/iraq.svg",
       "awayFlag": "https://crests.football-data.org/813.svg"
+    },
+    {
+      "id": 19,
+      "group": "J",
+      "date": "2026-06-17T04:00:00",
+      "match": "Argentiina - Algeria",
+      "home": "Argentiina",
+      "away": "Algeria",
+      "odds": {
+        "1": 1.43,
+        "2": 8.77,
+        "X": 4.4
+      },
+      "maxOdds": 8.77,
+      "minOdds": 1.43,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "TIMED",
+      "score": "",
+      "homeFlag": "https://crests.football-data.org/762.png",
+      "awayFlag": "https://crests.football-data.org/algeria.svg"
     }
   ],
   "matches": [
@@ -1012,9 +1012,9 @@
         "2": 2.35,
         "X": 2.95
       },
-      "result": "",
-      "score": "",
-      "apiStatus": "TIMED",
+      "result": "1",
+      "score": "1-0",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "X, 2",
         "Valtsu": "1, 2",
@@ -1044,8 +1044,8 @@
         "X": 3.42
       },
       "result": "",
-      "score": "",
-      "apiStatus": "TIMED",
+      "score": "2-1",
+      "apiStatus": "PAUSED",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
