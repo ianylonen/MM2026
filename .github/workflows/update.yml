@@ -3,7 +3,7 @@ name: Update World Cup data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/3 * * * *"
+    - cron: "*/7 * * * *"
 
 permissions:
   contents: write
