@@ -95,7 +95,7 @@ function calculateFinalPoints(player) {
 const apiResults = await fetchApiResults();
 
 const matches = config.matches.map(match => {
-  const api = apiResults.get(String(match.id) || apiResults.get(match.match);
+  const api = apiResults.get(String(match.id)) || apiResults.get(match.match);
   const result = api?.result || match.initialResult || "";
   const { home, away } = splitPair(match.match);
   return {
