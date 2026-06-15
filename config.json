@@ -1,5 +1,5 @@
 {
-  "title": "MM 2026 - Vedonlyöntikilpailu",
+  "title": "MM 2026 - EUMAM-veikkaus",
   "competitionCode": "WC",
   "penaltyThreshold": 3.33,
   "penaltyPoints": -3.33,
@@ -100,6 +100,7 @@
     "Iran": "Iran",
     "New Zealand": "Uusi-Seelanti",
     "Spain": "Espanja",
+    "Cape Verde": "Kap Verde",
     "Cape Verde Islands": "Kap Verde",
     "Saudi Arabia": "Saudi-Arabia",
     "Uruguay": "Uruguay",
