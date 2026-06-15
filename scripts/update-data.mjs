@@ -51,7 +51,7 @@ async function fetchApiResults() {
     const key = `${home} - ${away}`;
     const fullTime = match.score?.fullTime || {};
     const apiResult = match.status === "FINISHED" ? resultFromScore(fullTime.home, fullTime.away) : "";
-    map.set(key, {
+    const apiMatchData = {
       result: apiResult,
       status: match.status || "",
       homeGoals: fullTime.home,
@@ -59,7 +59,9 @@ async function fetchApiResults() {
       utcDate: match.utcDate || "",
       homeFlag: flagFor(home, match.homeTeam?.crest || match.homeTeam?.area?.flag),
       awayFlag: flagFor(away, match.awayTeam?.crest || match.awayTeam?.area?.flag)
-    });
+    };
+    map.set(key, apiMatchData);
+    map.set(String(match.id), apiMatchData);
   }
   return map;
 }
@@ -93,7 +95,7 @@ function calculateFinalPoints(player) {
 const apiResults = await fetchApiResults();
 
 const matches = config.matches.map(match => {
-  const api = apiResults.get(match.match);
+  const api = apiResults.get(String(match.id) || apiResults.get(match.match);
   const result = api?.result || match.initialResult || "";
   const { home, away } = splitPair(match.match);
   return {
