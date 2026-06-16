@@ -80,3 +80,113 @@
 .pick-list li {
   margin: 6px 0;
 }
+@media (max-width: 760px) {
+  body {
+    padding: 14px;
+  }
+
+  .hero {
+    display: block;
+  }
+
+  .update-card {
+    margin-top: 16px;
+  }
+
+  .kpis {
+    grid-template-columns: 1fr;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .table-wrap {
+    overflow-x: visible;
+  }
+
+  #standingsTable thead {
+    display: none;
+  }
+
+  #standingsTable,
+  #standingsTable tbody,
+  #standingsTable tr,
+  #standingsTable td {
+    display: block;
+    width: 100%;
+  }
+
+  #standingsTable tr {
+    margin-bottom: 14px;
+    padding: 14px;
+    border-radius: 16px;
+    background: rgba(255,255,255,0.06);
+  }
+
+  #standingsTable td {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 7px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+  }
+
+  #standingsTable td:last-child {
+    border-bottom: 0;
+  }
+
+  #standingsTable td:nth-child(1)::before { content: "Sija"; }
+  #standingsTable td:nth-child(2)::before { content: "Nimi"; }
+  #standingsTable td:nth-child(3)::before { content: "Ottelupisteet"; }
+  #standingsTable td:nth-child(4)::before { content: "Miinukset"; }
+  #standingsTable td:nth-child(5)::before { content: "Finaali"; }
+  #standingsTable td:nth-child(6)::before { content: "Yhteensä"; }
+  #standingsTable td:nth-child(7)::before { content: "Ero kärkeen"; }
+  #standingsTable td:nth-child(8)::before { content: "Kulta"; }
+  #standingsTable td:nth-child(9)::before { content: "Hopea"; }
+
+  #standingsTable td::before {
+    font-weight: 600;
+    opacity: 0.7;
+  }
+
+  #indexTable {
+    min-width: 0;
+  }
+
+  .match-main {
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .teams {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+
+  .score {
+    white-space: nowrap;
+  }
+
+  .prediction-group-row {
+    display: block;
+  }
+
+  .prediction-names {
+    display: block;
+    margin-top: 4px;
+  }
+
+  .modal-card {
+    width: auto;
+    margin: 18px;
+    max-height: 88vh;
+    padding: 18px;
+  }
+
+  .player-card-grid {
+    grid-template-columns: 1fr;
+  }
+}
