@@ -117,12 +117,12 @@ function openPlayerCard(playerName, data) {
     <div class="pick-list">
       <h3>Oikein</h3>
       <ul>
-        ${correct.length ? correct.map(x => `<li>✓ ${x}</li>`).join("") : "<li>–</li>"}
+        ${correct.length ? correct.map(x => `<li>${x}</li>`).join("") : "<li>–</li>"}
       </ul>
 
       <h3>Väärin</h3>
       <ul>
-        ${wrong.length ? wrong.map(x => `<li>✗ ${x}</li>`).join("") : "<li>–</li>"}
+        ${wrong.length ? wrong.map(x => `<li>${x}</li>`).join("") : "<li>–</li>"}
       </ul>
     </div>
   `;
