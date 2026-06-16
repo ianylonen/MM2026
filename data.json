@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-16T21:00:57.710Z",
+  "generatedAt": "2026-06-16T21:05:34.375Z",
   "completedMatches": 16,
   "totalMatches": 72,
   "players": [
@@ -444,7 +444,7 @@
       },
       "result": "",
       "apiStatus": "IN_PLAY",
-      "score": "2-0",
+      "score": "2-1",
       "homeFlag": "https://crests.football-data.org/773.svg",
       "awayFlag": "https://crests.football-data.org/senegal.svg"
     },
@@ -1199,7 +1199,7 @@
         "X": 4.53
       },
       "result": "",
-      "score": "2-0",
+      "score": "2-1",
       "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "1",
