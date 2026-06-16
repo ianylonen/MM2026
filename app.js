@@ -69,6 +69,70 @@ function matchCard(match, showPredictions=false) {
   </article>`;
 }
 
+function openPlayerCard(playerName, data) {
+  const player = (data.standings || []).find(p => p.name === playerName);
+  if (!player) return;
+
+  const completed = (data.matches || []).filter(m => m.result);
+  const correct = [];
+  const wrong = [];
+
+  for (const match of completed) {
+    const prediction = match.predictions?.[playerName];
+    if (!prediction) continue;
+
+    const item = `${match.match}: ${prediction} → ${match.result}`;
+
+    if (containsResult(prediction, match.result)) {
+      correct.push(item);
+    } else {
+      wrong.push(item);
+    }
+  }
+
+  const accuracy =
+    completed.length > 0
+      ? `${correct.length} / ${completed.length} (${fmt.format((correct.length / completed.length) * 100)} %) `
+      : "–";
+
+  document.getElementById("playerCardContent").innerHTML = `
+    <h2>${player.name}</h2>
+
+    <div class="player-card-grid">
+      <div class="player-card-stat"><span>Ottelupisteet</span><strong>${n(player.matchPoints)}</strong></div>
+      <div class="player-card-stat"><span>Miinuspisteet</span><strong>${n(player.penaltyPoints)}</strong></div>
+      <div class="player-card-stat"><span>Yhteensä</span><strong>${n(player.total)}</strong></div>
+      <div class="player-card-stat"><span>Osumatarkkuus</span><strong>${accuracy}</strong></div>
+      <div class="player-card-stat"><span>Kulta</span><strong>${player.gold || "–"}</strong></div>
+      <div class="player-card-stat"><span>Hopea</span><strong>${player.silver || "–"}</strong></div>
+    </div>
+
+    <div class="pick-list">
+      <h3>Oikein</h3>
+      <ul>
+        ${correct.length ? correct.map(x => `<li>✓ ${x}</li>`).join("") : "<li>–</li>"}
+      </ul>
+
+      <h3>Väärin</h3>
+      <ul>
+        ${wrong.length ? wrong.map(x => `<li>✗ ${x}</li>`).join("") : "<li>–</li>"}
+      </ul>
+    </div>
+  `;
+
+  document.getElementById("playerModal").classList.remove("hidden");
+}
+
+function closePlayerCard() {
+  document.getElementById("playerModal").classList.add("hidden");
+}
+
+document.addEventListener("click", event => {
+  if (event.target?.id === "modalClose" || event.target?.id === "modalBackdrop") {
+    closePlayerCard();
+  }
+});
+
 async function main() {
   const data = await fetch(`data.json?v=${Date.now()}`, { cache: "no-store" }).then(r => r.json());
 
@@ -84,7 +148,7 @@ async function main() {
 
   const tbody = document.querySelector("#standingsTable tbody");
   tbody.innerHTML = competitors.map(row => `<tr>
-    <td class="rank">${row.displayRank}</td><td class="name">${row.name}</td><td>${n(row.matchPoints)}</td><td class="negative">${n(row.penaltyPoints)}</td><td>${n(row.finalPoints)}</td><td class="total">${n(row.total)}</td><td>${Number(row.total) === Number(leader?.total) ? "–" : n(Number(leader?.total || 0) - Number(row.total || 0))}</td><td>${row.gold || ""}</td><td>${row.silver || ""}</td>
+    <td class="rank">${row.displayRank}</td><td class="name player-link" data-player="${row.name}">${row.name}</td><td>${n(row.matchPoints)}</td><td class="negative">${n(row.penaltyPoints)}</td><td>${n(row.finalPoints)}</td><td class="total">${n(row.total)}</td><td>${Number(row.total) === Number(leader?.total) ? "–" : n(Number(leader?.total || 0) - Number(row.total || 0))}</td><td>${row.gold || ""}</td><td>${row.silver || ""}</td>
   </tr>`).join("");
 
   const indexBody = document.querySelector("#indexTable tbody");
@@ -94,5 +158,9 @@ async function main() {
 
   document.getElementById("recentMatches").innerHTML = (data.recentMatches || []).map(m => matchCard(m, false)).join("") || `<p class="empty">Ei pelattuja otteluita.</p>`;
   document.getElementById("upcomingMatches").innerHTML = (data.upcomingMatches || []).map(m => matchCard(m, true)).join("") || `<p class="empty">Ei tulevia otteluita.</p>`;
+  document.getElementById("upcomingMatches").innerHTML = ...
+  document.querySelectorAll(".player-link").forEach(el => {
+  el.addEventListener("click", () => openPlayerCard(el.dataset.player, data));
+});
 }
 main().catch(err => { document.body.insertAdjacentHTML("beforeend", `<pre class="error">${err.message}</pre>`); });
