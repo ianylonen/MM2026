@@ -130,10 +130,17 @@
 
 #standingsTable td {
   display: grid;
-  grid-template-columns: 92px 1fr;
-  gap: 6px;
-  padding: 5px 0;
+  grid-template-columns: auto 1fr;
+  gap: 12px;
+  padding: 6px 0;
   border-bottom: 1px solid rgba(255,255,255,0.08);
+  text-align: right;
+}
+  
+#standingsTable td::before {
+  text-align: left;
+  font-weight: 600;
+  opacity: 0.7;
 }
 
   #standingsTable td:last-child {
@@ -156,7 +163,6 @@
   }
   
   #standingsTable td::before {
-  min-width: 0;
   white-space: nowrap;
   }
 
