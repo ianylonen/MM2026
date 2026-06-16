@@ -10,6 +10,13 @@ function predClass(pred, result) {
   if (!result) return "";
   return clean.includes(result) ? " hit" : " miss";
 }
+function cleanPrediction(value) {
+  return String(value ?? "").replace(/\s/g, "");
+}
+
+function containsResult(prediction, result) {
+  return Boolean(result) && cleanPrediction(prediction).includes(result);
+}
 const NON_COMPETITOR_NAMES = new Set(["Ykkösrivi", "Ristirivi", "Kakkosrivi"]);
 
 function isNonCompetitor(name) {
@@ -158,7 +165,6 @@ async function main() {
 
   document.getElementById("recentMatches").innerHTML = (data.recentMatches || []).map(m => matchCard(m, false)).join("") || `<p class="empty">Ei pelattuja otteluita.</p>`;
   document.getElementById("upcomingMatches").innerHTML = (data.upcomingMatches || []).map(m => matchCard(m, true)).join("") || `<p class="empty">Ei tulevia otteluita.</p>`;
-  document.getElementById("upcomingMatches").innerHTML = ...
   document.querySelectorAll(".player-link").forEach(el => {
   el.addEventListener("click", () => openPlayerCard(el.dataset.player, data));
 });
