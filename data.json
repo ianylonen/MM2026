@@ -1,7 +1,7 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-17T00:05:33.622Z",
-  "completedMatches": 17,
+  "generatedAt": "2026-06-17T00:10:35.101Z",
+  "completedMatches": 18,
   "totalMatches": 72,
   "players": [
     "ChatGPT",
@@ -41,23 +41,23 @@
     },
     {
       "rank": 3,
-      "gapFromLeader": 16.3,
+      "gapFromLeader": 15.06,
       "name": "Aksu",
-      "matchPoints": 22.26,
+      "matchPoints": 23.5,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 22.26,
+      "total": 23.5,
       "gold": "Ranska",
       "silver": "Brasilia"
     },
     {
       "rank": 4,
-      "gapFromLeader": 18.44,
+      "gapFromLeader": 17.2,
       "name": "Masa",
-      "matchPoints": 20.12,
+      "matchPoints": 21.36,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 20.12,
+      "total": 21.36,
       "gold": "Espanja",
       "silver": "Ranska"
     },
@@ -74,72 +74,106 @@
     },
     {
       "rank": 6,
-      "gapFromLeader": 21.47,
+      "gapFromLeader": 20.23,
       "name": "Tupe",
-      "matchPoints": 17.09,
+      "matchPoints": 18.33,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 17.09,
+      "total": 18.33,
       "gold": "Espanja",
       "silver": "Saksa"
     },
     {
       "rank": 7,
-      "gapFromLeader": 22.74,
+      "gapFromLeader": 21.5,
       "name": "Tomi",
-      "matchPoints": 15.82,
+      "matchPoints": 17.06,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 15.82,
+      "total": 17.06,
       "gold": "Espanja",
       "silver": "Brasilia"
     },
     {
       "rank": 8,
-      "gapFromLeader": 22.87,
+      "gapFromLeader": 21.63,
       "name": "ChatGPT",
-      "matchPoints": 15.69,
+      "matchPoints": 16.93,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 15.69,
+      "total": 16.93,
       "gold": "Espanja",
       "silver": "Ranska"
     },
     {
       "rank": 9,
-      "gapFromLeader": 24.11,
+      "gapFromLeader": 22.87,
       "name": "Valtsu",
-      "matchPoints": 14.45,
+      "matchPoints": 15.69,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 14.45,
+      "total": 15.69,
       "gold": "Portugali",
       "silver": "Espanja"
     },
     {
       "rank": 10,
-      "gapFromLeader": 25.52,
+      "gapFromLeader": 24.28,
       "name": "Ian",
-      "matchPoints": 13.04,
+      "matchPoints": 14.28,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 13.04,
+      "total": 14.28,
       "gold": "Ranska",
       "silver": "Brasilia"
     },
     {
       "rank": 11,
-      "gapFromLeader": 37.12,
+      "gapFromLeader": 35.88,
       "name": "Kakkosrivi",
-      "matchPoints": 1.44,
+      "matchPoints": 2.68,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 1.44,
+      "total": 2.68,
       "gold": "",
       "silver": ""
     }
   ],
   "recentMatches": [
+    {
+      "id": 18,
+      "group": "I",
+      "date": "2026-06-17T01:00:00",
+      "match": "Irak - Norja",
+      "home": "Irak",
+      "away": "Norja",
+      "odds": {
+        "1": 10,
+        "2": 1.24,
+        "X": 6.03
+      },
+      "maxOdds": 10,
+      "minOdds": 1.24,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "X, 2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "2",
+      "apiStatus": "FINISHED",
+      "score": "1-4",
+      "homeFlag": "https://crests.football-data.org/iraq.svg",
+      "awayFlag": "https://crests.football-data.org/813.svg"
+    },
     {
       "id": 17,
       "group": "I",
@@ -377,77 +411,9 @@
       "score": "1-0",
       "homeFlag": "https://crests.football-data.org/787.svg",
       "awayFlag": "https://crests.football-data.org/791.svg"
-    },
-    {
-      "id": 10,
-      "group": "F",
-      "date": "2026-06-14T23:00:00",
-      "match": "Hollanti - Japani",
-      "home": "Hollanti",
-      "away": "Japani",
-      "odds": {
-        "1": 2,
-        "2": 3.7,
-        "X": 3.63
-      },
-      "maxOdds": 3.7,
-      "minOdds": 2,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1, X",
-        "Valtsu": "1, 2",
-        "Tupe": "1, X",
-        "Ian": "X",
-        "Masa": "1, X",
-        "Tomi": "X",
-        "Aksu": "1, X",
-        "JP": "X",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "X",
-      "apiStatus": "FINISHED",
-      "score": "2-2",
-      "homeFlag": "https://crests.football-data.org/8601.svg",
-      "awayFlag": "https://crests.football-data.org/766.svg"
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 18,
-      "group": "I",
-      "date": "2026-06-17T01:00:00",
-      "match": "Irak - Norja",
-      "home": "Irak",
-      "away": "Norja",
-      "odds": {
-        "1": 10,
-        "2": 1.24,
-        "X": 6.03
-      },
-      "maxOdds": 10,
-      "minOdds": 1.24,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "X, 2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "",
-      "apiStatus": "IN_PLAY",
-      "score": "1-3",
-      "homeFlag": "https://crests.football-data.org/iraq.svg",
-      "awayFlag": "https://crests.football-data.org/813.svg"
-    },
     {
       "id": 19,
       "group": "J",
@@ -685,6 +651,40 @@
       "score": "",
       "homeFlag": "https://crests.football-data.org/798.svg",
       "awayFlag": "https://crests.football-data.org/9396.svg"
+    },
+    {
+      "id": 26,
+      "group": "B",
+      "date": "2026-06-18T22:00:00",
+      "match": "Sveitsi - Bosnia-Hertsegovina",
+      "home": "Sveitsi",
+      "away": "Bosnia-Hertsegovina",
+      "odds": {
+        "1": 1.59,
+        "2": 6.07,
+        "X": 4.03
+      },
+      "maxOdds": 6.07,
+      "minOdds": 1.59,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "TIMED",
+      "score": "",
+      "homeFlag": "https://crests.football-data.org/788.svg",
+      "awayFlag": "https://crests.football-data.org/bosnia.svg"
     }
   ],
   "matches": [
@@ -1229,9 +1229,9 @@
         "2": 1.24,
         "X": 6.03
       },
-      "result": "",
-      "score": "1-3",
-      "apiStatus": "IN_PLAY",
+      "result": "2",
+      "score": "1-4",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
