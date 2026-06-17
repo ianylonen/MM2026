@@ -1,7 +1,7 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-17T06:10:43.693Z",
-  "completedMatches": 19,
+  "generatedAt": "2026-06-17T06:15:35.803Z",
+  "completedMatches": 20,
   "totalMatches": 72,
   "players": [
     "ChatGPT",
@@ -30,23 +30,23 @@
     },
     {
       "rank": 2,
-      "gapFromLeader": 10.68,
+      "gapFromLeader": 9.34,
       "name": "JP",
-      "matchPoints": 31.21,
+      "matchPoints": 32.55,
       "penaltyPoints": -3.33,
       "finalPoints": 0,
-      "total": 27.88,
+      "total": 29.22,
       "gold": "Kanada",
       "silver": "Senegal"
     },
     {
       "rank": 3,
-      "gapFromLeader": 13.63,
+      "gapFromLeader": 12.29,
       "name": "Aksu",
-      "matchPoints": 24.93,
+      "matchPoints": 26.27,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 24.93,
+      "total": 26.27,
       "gold": "Ranska",
       "silver": "Brasilia"
     },
@@ -63,56 +63,56 @@
     },
     {
       "rank": 5,
-      "gapFromLeader": 18.11,
+      "gapFromLeader": 16.77,
       "name": "Ykkösrivi",
-      "matchPoints": 20.45,
+      "matchPoints": 21.79,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 20.45,
+      "total": 21.79,
       "gold": "",
       "silver": ""
     },
     {
       "rank": 6,
-      "gapFromLeader": 18.8,
+      "gapFromLeader": 17.46,
       "name": "Tupe",
-      "matchPoints": 19.76,
+      "matchPoints": 21.1,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 19.76,
+      "total": 21.1,
       "gold": "Espanja",
       "silver": "Saksa"
     },
     {
       "rank": 7,
-      "gapFromLeader": 20.07,
+      "gapFromLeader": 18.73,
       "name": "Tomi",
-      "matchPoints": 18.49,
+      "matchPoints": 19.83,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 18.49,
+      "total": 19.83,
       "gold": "Espanja",
       "silver": "Brasilia"
     },
     {
       "rank": 8,
-      "gapFromLeader": 20.2,
+      "gapFromLeader": 18.86,
       "name": "ChatGPT",
-      "matchPoints": 18.36,
+      "matchPoints": 19.7,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 18.36,
+      "total": 19.7,
       "gold": "Espanja",
       "silver": "Ranska"
     },
     {
       "rank": 9,
-      "gapFromLeader": 21.44,
+      "gapFromLeader": 20.1,
       "name": "Valtsu",
-      "matchPoints": 17.12,
+      "matchPoints": 18.46,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 17.12,
+      "total": 18.46,
       "gold": "Portugali",
       "silver": "Espanja"
     },
@@ -140,6 +140,40 @@
     }
   ],
   "recentMatches": [
+    {
+      "id": 20,
+      "group": "J",
+      "date": "2026-06-17T07:00:00",
+      "match": "Itävalta - Jordania",
+      "home": "Itävalta",
+      "away": "Jordania",
+      "odds": {
+        "1": 1.34,
+        "2": 9.53,
+        "X": 5.2
+      },
+      "maxOdds": 9.53,
+      "minOdds": 1.34,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "X",
+        "Masa": "X",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "1",
+      "apiStatus": "FINISHED",
+      "score": "3-1",
+      "homeFlag": "https://crests.football-data.org/816.svg",
+      "awayFlag": "https://crests.football-data.org/8049.png"
+    },
     {
       "id": 19,
       "group": "J",
@@ -377,77 +411,9 @@
       "score": "0-0",
       "homeFlag": "https://crests.football-data.org/760.svg",
       "awayFlag": "https://crests.football-data.org/cape_verde.svg"
-    },
-    {
-      "id": 12,
-      "group": "F",
-      "date": "2026-06-15T05:00:00",
-      "match": "Ruotsi - Tunisia",
-      "home": "Ruotsi",
-      "away": "Tunisia",
-      "odds": {
-        "1": 1.97,
-        "2": 4.17,
-        "X": 3.42
-      },
-      "maxOdds": 4.17,
-      "minOdds": 1.97,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1, X",
-        "Masa": "X",
-        "Tomi": "X, 2",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "1",
-      "apiStatus": "FINISHED",
-      "score": "5-1",
-      "homeFlag": "https://crests.football-data.org/792.svg",
-      "awayFlag": "https://crests.football-data.org/tunisia.svg"
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 20,
-      "group": "J",
-      "date": "2026-06-17T07:00:00",
-      "match": "Itävalta - Jordania",
-      "home": "Itävalta",
-      "away": "Jordania",
-      "odds": {
-        "1": 1.34,
-        "2": 9.53,
-        "X": 5.2
-      },
-      "maxOdds": 9.53,
-      "minOdds": 1.34,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "X",
-        "Masa": "X",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "",
-      "apiStatus": "IN_PLAY",
-      "score": "2-1",
-      "homeFlag": "https://crests.football-data.org/816.svg",
-      "awayFlag": "https://crests.football-data.org/8049.png"
-    },
     {
       "id": 21,
       "group": "K",
@@ -685,6 +651,40 @@
       "score": "",
       "homeFlag": "https://crests.football-data.org/canada.svg",
       "awayFlag": "https://crests.football-data.org/8030.svg"
+    },
+    {
+      "id": 28,
+      "group": "A",
+      "date": "2026-06-19T04:00:00",
+      "match": "Meksiko - Etelä-Korea",
+      "home": "Meksiko",
+      "away": "Etelä-Korea",
+      "odds": {
+        "1": 1.8,
+        "2": 4.8,
+        "X": 3.6
+      },
+      "maxOdds": 4.8,
+      "minOdds": 1.8,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1, 2",
+        "Aksu": "X",
+        "JP": "1, 2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "TIMED",
+      "score": "",
+      "homeFlag": "https://crests.football-data.org/769.svg",
+      "awayFlag": "https://crests.football-data.org/772.png"
     }
   ],
   "matches": [
@@ -1291,9 +1291,9 @@
         "2": 9.53,
         "X": 5.2
       },
-      "result": "",
-      "score": "2-1",
-      "apiStatus": "IN_PLAY",
+      "result": "1",
+      "score": "3-1",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
