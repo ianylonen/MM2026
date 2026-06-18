@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-18T22:20:36.220Z",
+  "generatedAt": "2026-06-18T22:30:42.616Z",
   "completedMatches": 26,
   "totalMatches": 72,
   "players": [
@@ -444,7 +444,7 @@
       },
       "result": "",
       "apiStatus": "IN_PLAY",
-      "score": "0-0",
+      "score": "1-0",
       "homeFlag": "https://crests.football-data.org/canada.svg",
       "awayFlag": "https://crests.football-data.org/8030.svg"
     },
@@ -1509,7 +1509,7 @@
         "X": 4.8
       },
       "result": "",
-      "score": "0-0",
+      "score": "1-0",
       "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "1",
