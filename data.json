@@ -1,7 +1,7 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-18T06:00:47.330Z",
-  "completedMatches": 24,
+  "generatedAt": "2026-06-18T06:10:35.133Z",
+  "completedMatches": 23,
   "totalMatches": 72,
   "players": [
     "ChatGPT",
@@ -74,34 +74,34 @@
     },
     {
       "rank": 6,
-      "gapFromLeader": 18.14,
+      "gapFromLeader": 20.16,
       "name": "Tomi",
-      "matchPoints": 25.92,
+      "matchPoints": 23.9,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 25.92,
+      "total": 23.9,
       "gold": "Espanja",
       "silver": "Brasilia"
     },
     {
       "rank": 7,
-      "gapFromLeader": 18.48,
+      "gapFromLeader": 20.5,
       "name": "Ykkösrivi",
-      "matchPoints": 25.58,
+      "matchPoints": 23.56,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 25.58,
+      "total": 23.56,
       "gold": "",
       "silver": ""
     },
     {
       "rank": 8,
-      "gapFromLeader": 20.57,
+      "gapFromLeader": 22.59,
       "name": "ChatGPT",
-      "matchPoints": 23.49,
+      "matchPoints": 21.47,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 23.49,
+      "total": 21.47,
       "gold": "Espanja",
       "silver": "Ranska"
     },
@@ -118,12 +118,12 @@
     },
     {
       "rank": 10,
-      "gapFromLeader": 24.56,
+      "gapFromLeader": 26.58,
       "name": "Ian",
-      "matchPoints": 19.5,
+      "matchPoints": 17.48,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 19.5,
+      "total": 17.48,
       "gold": "Ranska",
       "silver": "Brasilia"
     },
@@ -173,40 +173,6 @@
       "score": "1-3",
       "homeFlag": "https://crests.football-data.org/8070.png",
       "awayFlag": "https://crests.football-data.org/818.svg"
-    },
-    {
-      "id": 23,
-      "group": "L",
-      "date": "2026-06-18T02:00:00",
-      "match": "Ghana - Panama",
-      "home": "Ghana",
-      "away": "Panama",
-      "odds": {
-        "1": 2.02,
-        "2": 3.78,
-        "X": 3.52
-      },
-      "maxOdds": 3.78,
-      "minOdds": 2.02,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1, X",
-        "Valtsu": "X",
-        "Tupe": "X",
-        "Ian": "1",
-        "Masa": "2",
-        "Tomi": "1",
-        "Aksu": "X",
-        "JP": "X",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "1",
-      "apiStatus": "FINISHED",
-      "score": "1-0",
-      "homeFlag": "https://crests.football-data.org/ghana.svg",
-      "awayFlag": "https://crests.football-data.org/panama.svg"
     },
     {
       "id": 22,
@@ -411,9 +377,77 @@
       "score": "3-1",
       "homeFlag": "https://crests.football-data.org/773.svg",
       "awayFlag": "https://crests.football-data.org/senegal.svg"
+    },
+    {
+      "id": 16,
+      "group": "G",
+      "date": "2026-06-16T04:00:00",
+      "match": "Iran - Uusi-Seelanti",
+      "home": "Iran",
+      "away": "Uusi-Seelanti",
+      "odds": {
+        "1": 1.9,
+        "2": 4.3,
+        "X": 3.5
+      },
+      "maxOdds": 4.3,
+      "minOdds": 1.9,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "X",
+        "Tupe": "1",
+        "Ian": "X",
+        "Masa": "X",
+        "Tomi": "1, 2",
+        "Aksu": "X",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "X",
+      "apiStatus": "FINISHED",
+      "score": "2-2",
+      "homeFlag": "https://crests.football-data.org/iran.svg",
+      "awayFlag": "https://crests.football-data.org/783.svg"
     }
   ],
   "upcomingMatches": [
+    {
+      "id": 23,
+      "group": "L",
+      "date": "2026-06-18T02:00:00",
+      "match": "Ghana - Panama",
+      "home": "Ghana",
+      "away": "Panama",
+      "odds": {
+        "1": 2.02,
+        "2": 3.78,
+        "X": 3.52
+      },
+      "maxOdds": 3.78,
+      "minOdds": 2.02,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1, X",
+        "Valtsu": "X",
+        "Tupe": "X",
+        "Ian": "1",
+        "Masa": "2",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "X",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "IN_PLAY",
+      "score": "1-0",
+      "homeFlag": "https://crests.football-data.org/ghana.svg",
+      "awayFlag": "https://crests.football-data.org/panama.svg"
+    },
     {
       "id": 25,
       "group": "A",
@@ -651,40 +685,6 @@
       "score": "",
       "homeFlag": "https://crests.football-data.org/764.svg",
       "awayFlag": "https://crests.football-data.org/haiti.svg"
-    },
-    {
-      "id": 32,
-      "group": "D",
-      "date": "2026-06-20T06:00:00",
-      "match": "Turkki - Paraguay",
-      "home": "Turkki",
-      "away": "Paraguay",
-      "odds": {
-        "1": 2.3,
-        "2": 3.4,
-        "X": 3.17
-      },
-      "maxOdds": 3.4,
-      "minOdds": 2.3,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "X",
-        "Tupe": "X, 2",
-        "Ian": "1, X",
-        "Masa": "1, X",
-        "Tomi": "X",
-        "Aksu": "X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "",
-      "apiStatus": "TIMED",
-      "score": "",
-      "homeFlag": "https://crests.football-data.org/803.svg",
-      "awayFlag": "https://crests.football-data.org/761.svg"
     }
   ],
   "matches": [
@@ -1384,9 +1384,9 @@
         "2": 3.78,
         "X": 3.52
       },
-      "result": "1",
+      "result": "",
       "score": "1-0",
-      "apiStatus": "FINISHED",
+      "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "1, X",
         "Valtsu": "X",
