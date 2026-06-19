@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-19T22:00:53.955Z",
+  "generatedAt": "2026-06-19T22:10:36.351Z",
   "completedMatches": 29,
   "totalMatches": 72,
   "players": [
@@ -443,8 +443,8 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "TIMED",
-      "score": "",
+      "apiStatus": "IN_PLAY",
+      "score": "0-1",
       "homeFlag": "https://crests.football-data.org/814.svg",
       "awayFlag": "https://crests.football-data.org/morocco.svg"
     },
@@ -1602,8 +1602,8 @@
         "X": 3.23
       },
       "result": "",
-      "score": "",
-      "apiStatus": "TIMED",
+      "score": "0-1",
+      "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "X, 2",
         "Valtsu": "2",
