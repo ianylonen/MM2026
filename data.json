@@ -1,7 +1,7 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-19T00:00:48.925Z",
-  "completedMatches": 26,
+  "generatedAt": "2026-06-19T00:10:35.092Z",
+  "completedMatches": 27,
   "totalMatches": 72,
   "players": [
     "ChatGPT",
@@ -30,100 +30,100 @@
     },
     {
       "rank": 2,
-      "gapFromLeader": 10.36,
+      "gapFromLeader": 9.01,
       "name": "Aksu",
-      "matchPoints": 37,
+      "matchPoints": 38.35,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 37,
+      "total": 38.35,
       "gold": "Ranska",
       "silver": "Brasilia"
     },
     {
       "rank": 3,
-      "gapFromLeader": 15.61,
+      "gapFromLeader": 14.26,
       "name": "Masa",
-      "matchPoints": 31.75,
+      "matchPoints": 33.1,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 31.75,
+      "total": 33.1,
       "gold": "Espanja",
       "silver": "Ranska"
     },
     {
       "rank": 4,
-      "gapFromLeader": 16.37,
+      "gapFromLeader": 15.02,
       "name": "JP",
-      "matchPoints": 34.32,
+      "matchPoints": 35.67,
       "penaltyPoints": -3.33,
       "finalPoints": 0,
-      "total": 30.99,
+      "total": 32.34,
       "gold": "Kanada",
       "silver": "Senegal"
     },
     {
       "rank": 5,
-      "gapFromLeader": 18.83,
+      "gapFromLeader": 17.48,
       "name": "Tupe",
-      "matchPoints": 28.53,
+      "matchPoints": 29.88,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 28.53,
+      "total": 29.88,
       "gold": "Espanja",
       "silver": "Saksa"
     },
     {
       "rank": 6,
-      "gapFromLeader": 18.98,
+      "gapFromLeader": 17.63,
       "name": "ChatGPT",
-      "matchPoints": 28.38,
+      "matchPoints": 29.73,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 28.38,
+      "total": 29.73,
       "gold": "Espanja",
       "silver": "Ranska"
     },
     {
       "rank": 7,
-      "gapFromLeader": 19.85,
+      "gapFromLeader": 18.5,
       "name": "Tomi",
-      "matchPoints": 27.51,
+      "matchPoints": 28.86,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 27.51,
+      "total": 28.86,
       "gold": "Espanja",
       "silver": "Brasilia"
     },
     {
       "rank": 8,
-      "gapFromLeader": 20.19,
+      "gapFromLeader": 18.84,
       "name": "Ykkösrivi",
-      "matchPoints": 27.17,
+      "matchPoints": 28.52,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 27.17,
+      "total": 28.52,
       "gold": "",
       "silver": ""
     },
     {
       "rank": 9,
-      "gapFromLeader": 22.97,
+      "gapFromLeader": 21.62,
       "name": "Ian",
-      "matchPoints": 24.39,
+      "matchPoints": 25.74,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 24.39,
+      "total": 25.74,
       "gold": "Ranska",
       "silver": "Brasilia"
     },
     {
       "rank": 10,
-      "gapFromLeader": 25.54,
+      "gapFromLeader": 24.19,
       "name": "Valtsu",
-      "matchPoints": 21.82,
+      "matchPoints": 23.17,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 21.82,
+      "total": 23.17,
       "gold": "Portugali",
       "silver": "Espanja"
     },
@@ -140,6 +140,40 @@
     }
   ],
   "recentMatches": [
+    {
+      "id": 27,
+      "group": "B",
+      "date": "2026-06-19T01:00:00",
+      "match": "Kanada - Qatar",
+      "home": "Kanada",
+      "away": "Qatar",
+      "odds": {
+        "1": 1.35,
+        "2": 10,
+        "X": 4.8
+      },
+      "maxOdds": 10,
+      "minOdds": 1.35,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "1",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "1",
+      "apiStatus": "FINISHED",
+      "score": "6-0",
+      "homeFlag": "https://crests.football-data.org/canada.svg",
+      "awayFlag": "https://crests.football-data.org/8030.svg"
+    },
     {
       "id": 26,
       "group": "B",
@@ -377,77 +411,9 @@
       "score": "3-1",
       "homeFlag": "https://crests.football-data.org/816.svg",
       "awayFlag": "https://crests.football-data.org/8049.png"
-    },
-    {
-      "id": 19,
-      "group": "J",
-      "date": "2026-06-17T04:00:00",
-      "match": "Argentiina - Algeria",
-      "home": "Argentiina",
-      "away": "Algeria",
-      "odds": {
-        "1": 1.43,
-        "2": 8.77,
-        "X": 4.4
-      },
-      "maxOdds": 8.77,
-      "minOdds": 1.43,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "1",
-      "apiStatus": "FINISHED",
-      "score": "3-0",
-      "homeFlag": "https://crests.football-data.org/762.png",
-      "awayFlag": "https://crests.football-data.org/algeria.svg"
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 27,
-      "group": "B",
-      "date": "2026-06-19T01:00:00",
-      "match": "Kanada - Qatar",
-      "home": "Kanada",
-      "away": "Qatar",
-      "odds": {
-        "1": 1.35,
-        "2": 10,
-        "X": 4.8
-      },
-      "maxOdds": 10,
-      "minOdds": 1.35,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "",
-      "apiStatus": "IN_PLAY",
-      "score": "6-0",
-      "homeFlag": "https://crests.football-data.org/canada.svg",
-      "awayFlag": "https://crests.football-data.org/8030.svg"
-    },
     {
       "id": 28,
       "group": "A",
@@ -685,6 +651,40 @@
       "score": "",
       "homeFlag": "https://crests.football-data.org/759.svg",
       "awayFlag": "https://crests.football-data.org/787.svg"
+    },
+    {
+      "id": 35,
+      "group": "E",
+      "date": "2026-06-21T03:00:00",
+      "match": "Ecuador - Curacao",
+      "home": "Ecuador",
+      "away": "Curacao",
+      "odds": {
+        "1": 1.28,
+        "2": 10,
+        "X": 5.63
+      },
+      "maxOdds": 10,
+      "minOdds": 1.28,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "TIMED",
+      "score": "",
+      "homeFlag": "https://crests.football-data.org/791.svg",
+      "awayFlag": "https://crests.football-data.org/curacao.svg"
     }
   ],
   "matches": [
@@ -765,7 +765,7 @@
         "X": 3.63
       },
       "result": "X",
-      "score": "1-1",
+      "score": "",
       "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "1",
@@ -1508,9 +1508,9 @@
         "2": 10,
         "X": 4.8
       },
-      "result": "",
+      "result": "1",
       "score": "6-0",
-      "apiStatus": "IN_PLAY",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
