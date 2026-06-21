@@ -1,7 +1,7 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-21T01:50:36.264Z",
-  "completedMatches": 34,
+  "generatedAt": "2026-06-21T02:00:50.392Z",
+  "completedMatches": 35,
   "totalMatches": 72,
   "players": [
     "ChatGPT",
@@ -21,10 +21,10 @@
       "rank": 1,
       "gapFromLeader": 0,
       "name": "Ristirivi",
-      "matchPoints": 47.36,
+      "matchPoints": 52.99,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 47.36,
+      "total": 52.99,
       "gold": "",
       "silver": ""
     },
@@ -32,16 +32,16 @@
       "rank": 2,
       "gapFromLeader": 2.56,
       "name": "Aksu",
-      "matchPoints": 44.8,
+      "matchPoints": 50.43,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 44.8,
+      "total": 50.43,
       "gold": "Ranska",
       "silver": "Brasilia"
     },
     {
       "rank": 3,
-      "gapFromLeader": 6.42,
+      "gapFromLeader": 12.05,
       "name": "Masa",
       "matchPoints": 40.94,
       "penaltyPoints": 0,
@@ -52,7 +52,7 @@
     },
     {
       "rank": 4,
-      "gapFromLeader": 7.18,
+      "gapFromLeader": 12.81,
       "name": "JP",
       "matchPoints": 43.51,
       "penaltyPoints": -3.33,
@@ -63,7 +63,7 @@
     },
     {
       "rank": 5,
-      "gapFromLeader": 7.69,
+      "gapFromLeader": 13.32,
       "name": "ChatGPT",
       "matchPoints": 39.67,
       "penaltyPoints": 0,
@@ -74,7 +74,7 @@
     },
     {
       "rank": 6,
-      "gapFromLeader": 7.93,
+      "gapFromLeader": 13.56,
       "name": "Tupe",
       "matchPoints": 39.43,
       "penaltyPoints": 0,
@@ -85,7 +85,7 @@
     },
     {
       "rank": 7,
-      "gapFromLeader": 10.31,
+      "gapFromLeader": 15.94,
       "name": "Tomi",
       "matchPoints": 37.05,
       "penaltyPoints": 0,
@@ -96,7 +96,7 @@
     },
     {
       "rank": 8,
-      "gapFromLeader": 11,
+      "gapFromLeader": 16.63,
       "name": "Ykkösrivi",
       "matchPoints": 36.36,
       "penaltyPoints": 0,
@@ -107,7 +107,7 @@
     },
     {
       "rank": 9,
-      "gapFromLeader": 13.78,
+      "gapFromLeader": 19.41,
       "name": "Ian",
       "matchPoints": 33.58,
       "penaltyPoints": 0,
@@ -118,7 +118,7 @@
     },
     {
       "rank": 10,
-      "gapFromLeader": 15.94,
+      "gapFromLeader": 21.57,
       "name": "Valtsu",
       "matchPoints": 31.42,
       "penaltyPoints": 0,
@@ -129,7 +129,7 @@
     },
     {
       "rank": 11,
-      "gapFromLeader": 35.11,
+      "gapFromLeader": 40.74,
       "name": "Kakkosrivi",
       "matchPoints": 12.25,
       "penaltyPoints": 0,
@@ -140,6 +140,40 @@
     }
   ],
   "recentMatches": [
+    {
+      "id": 35,
+      "group": "E",
+      "date": "2026-06-21T03:00:00",
+      "match": "Ecuador - Curacao",
+      "home": "Ecuador",
+      "away": "Curacao",
+      "odds": {
+        "1": 1.28,
+        "2": 10,
+        "X": 5.63
+      },
+      "maxOdds": 10,
+      "minOdds": 1.28,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1",
+        "Valtsu": "1",
+        "Tupe": "1",
+        "Ian": "1",
+        "Masa": "1",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "X",
+      "apiStatus": "FINISHED",
+      "score": "0-0",
+      "homeFlag": "https://crests.football-data.org/791.svg",
+      "awayFlag": "https://crests.football-data.org/curacao.svg"
+    },
     {
       "id": 34,
       "group": "E",
@@ -377,77 +411,9 @@
       "score": "1-0",
       "homeFlag": "https://crests.football-data.org/769.svg",
       "awayFlag": "https://crests.football-data.org/772.png"
-    },
-    {
-      "id": 27,
-      "group": "B",
-      "date": "2026-06-19T01:00:00",
-      "match": "Kanada - Qatar",
-      "home": "Kanada",
-      "away": "Qatar",
-      "odds": {
-        "1": 1.35,
-        "2": 10,
-        "X": 4.8
-      },
-      "maxOdds": 10,
-      "minOdds": 1.35,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "1",
-      "apiStatus": "FINISHED",
-      "score": "6-0",
-      "homeFlag": "https://crests.football-data.org/canada.svg",
-      "awayFlag": "https://crests.football-data.org/8030.svg"
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 35,
-      "group": "E",
-      "date": "2026-06-21T03:00:00",
-      "match": "Ecuador - Curacao",
-      "home": "Ecuador",
-      "away": "Curacao",
-      "odds": {
-        "1": 1.28,
-        "2": 10,
-        "X": 5.63
-      },
-      "maxOdds": 10,
-      "minOdds": 1.28,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "X",
-        "JP": "2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "",
-      "apiStatus": "PAUSED",
-      "score": "0-0",
-      "homeFlag": "https://crests.football-data.org/791.svg",
-      "awayFlag": "https://crests.football-data.org/curacao.svg"
-    },
     {
       "id": 36,
       "group": "F",
@@ -685,6 +651,40 @@
       "score": "",
       "homeFlag": "https://crests.football-data.org/773.svg",
       "awayFlag": "https://crests.football-data.org/iraq.svg"
+    },
+    {
+      "id": 43,
+      "group": "I",
+      "date": "2026-06-23T03:00:00",
+      "match": "Norja - Senegal",
+      "home": "Norja",
+      "away": "Senegal",
+      "odds": {
+        "1": 2.15,
+        "2": 3.5,
+        "X": 3.45
+      },
+      "maxOdds": 3.5,
+      "minOdds": 2.15,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "1, X",
+        "Valtsu": "1, 2",
+        "Tupe": "1, X",
+        "Ian": "X",
+        "Masa": "1, X",
+        "Tomi": "1",
+        "Aksu": "X",
+        "JP": "2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "TIMED",
+      "score": "",
+      "homeFlag": "https://crests.football-data.org/813.svg",
+      "awayFlag": "https://crests.football-data.org/senegal.svg"
     }
   ],
   "matches": [
@@ -1756,9 +1756,9 @@
         "2": 10,
         "X": 5.63
       },
-      "result": "",
+      "result": "X",
       "score": "0-0",
-      "apiStatus": "PAUSED",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
