@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-21T16:30:44.952Z",
+  "generatedAt": "2026-06-21T16:40:38.128Z",
   "completedMatches": 36,
   "totalMatches": 72,
   "players": [
@@ -444,7 +444,7 @@
       },
       "result": "",
       "apiStatus": "IN_PLAY",
-      "score": "2-0",
+      "score": "3-0",
       "homeFlag": "https://crests.football-data.org/760.svg",
       "awayFlag": "https://crests.football-data.org/saudi_arabia.svg"
     },
@@ -1819,7 +1819,7 @@
         "X": 8.53
       },
       "result": "",
-      "score": "2-0",
+      "score": "3-0",
       "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "1",
