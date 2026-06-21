@@ -1,7 +1,7 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-21T06:00:49.572Z",
-  "completedMatches": 35,
+  "generatedAt": "2026-06-21T06:10:36.362Z",
+  "completedMatches": 36,
   "totalMatches": 72,
   "players": [
     "ChatGPT",
@@ -30,17 +30,50 @@
     },
     {
       "rank": 2,
-      "gapFromLeader": 2.56,
+      "gapFromLeader": 0.64,
       "name": "Aksu",
-      "matchPoints": 50.43,
+      "matchPoints": 52.35,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 50.43,
+      "total": 52.35,
       "gold": "Ranska",
       "silver": "Brasilia"
     },
     {
       "rank": 3,
+      "gapFromLeader": 10.89,
+      "name": "JP",
+      "matchPoints": 45.43,
+      "penaltyPoints": -3.33,
+      "finalPoints": 0,
+      "total": 42.1,
+      "gold": "Kanada",
+      "silver": "Senegal"
+    },
+    {
+      "rank": 4,
+      "gapFromLeader": 11.4,
+      "name": "ChatGPT",
+      "matchPoints": 41.59,
+      "penaltyPoints": 0,
+      "finalPoints": 0,
+      "total": 41.59,
+      "gold": "Espanja",
+      "silver": "Ranska"
+    },
+    {
+      "rank": 5,
+      "gapFromLeader": 11.64,
+      "name": "Tupe",
+      "matchPoints": 41.35,
+      "penaltyPoints": 0,
+      "finalPoints": 0,
+      "total": 41.35,
+      "gold": "Espanja",
+      "silver": "Saksa"
+    },
+    {
+      "rank": 6,
       "gapFromLeader": 12.05,
       "name": "Masa",
       "matchPoints": 40.94,
@@ -51,46 +84,13 @@
       "silver": "Ranska"
     },
     {
-      "rank": 4,
-      "gapFromLeader": 12.81,
-      "name": "JP",
-      "matchPoints": 43.51,
-      "penaltyPoints": -3.33,
-      "finalPoints": 0,
-      "total": 40.18,
-      "gold": "Kanada",
-      "silver": "Senegal"
-    },
-    {
-      "rank": 5,
-      "gapFromLeader": 13.32,
-      "name": "ChatGPT",
-      "matchPoints": 39.67,
-      "penaltyPoints": 0,
-      "finalPoints": 0,
-      "total": 39.67,
-      "gold": "Espanja",
-      "silver": "Ranska"
-    },
-    {
-      "rank": 6,
-      "gapFromLeader": 13.56,
-      "name": "Tupe",
-      "matchPoints": 39.43,
-      "penaltyPoints": 0,
-      "finalPoints": 0,
-      "total": 39.43,
-      "gold": "Espanja",
-      "silver": "Saksa"
-    },
-    {
       "rank": 7,
-      "gapFromLeader": 15.94,
+      "gapFromLeader": 14.02,
       "name": "Tomi",
-      "matchPoints": 37.05,
+      "matchPoints": 38.97,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 37.05,
+      "total": 38.97,
       "gold": "Espanja",
       "silver": "Brasilia"
     },
@@ -118,28 +118,62 @@
     },
     {
       "rank": 10,
-      "gapFromLeader": 21.57,
+      "gapFromLeader": 19.65,
       "name": "Valtsu",
-      "matchPoints": 31.42,
+      "matchPoints": 33.34,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 31.42,
+      "total": 33.34,
       "gold": "Portugali",
       "silver": "Espanja"
     },
     {
       "rank": 11,
-      "gapFromLeader": 40.74,
+      "gapFromLeader": 38.82,
       "name": "Kakkosrivi",
-      "matchPoints": 12.25,
+      "matchPoints": 14.17,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 12.25,
+      "total": 14.17,
       "gold": "",
       "silver": ""
     }
   ],
   "recentMatches": [
+    {
+      "id": 36,
+      "group": "F",
+      "date": "2026-06-21T07:00:00",
+      "match": "Tunisia - Japani",
+      "home": "Tunisia",
+      "away": "Japani",
+      "odds": {
+        "1": 4.52,
+        "2": 1.92,
+        "X": 3.35
+      },
+      "maxOdds": 4.52,
+      "minOdds": 1.92,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "X, 2",
+        "Ian": "X",
+        "Masa": "X",
+        "Tomi": "X, 2",
+        "Aksu": "X, 2",
+        "JP": "1, 2",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "2",
+      "apiStatus": "FINISHED",
+      "score": "0-4",
+      "homeFlag": "https://crests.football-data.org/tunisia.svg",
+      "awayFlag": "https://crests.football-data.org/766.svg"
+    },
     {
       "id": 35,
       "group": "E",
@@ -377,77 +411,9 @@
       "score": "2-0",
       "homeFlag": "https://crests.football-data.org/usa.svg",
       "awayFlag": "https://crests.football-data.org/779.svg"
-    },
-    {
-      "id": 28,
-      "group": "A",
-      "date": "2026-06-19T04:00:00",
-      "match": "Meksiko - Etelä-Korea",
-      "home": "Meksiko",
-      "away": "Etelä-Korea",
-      "odds": {
-        "1": 1.8,
-        "2": 4.8,
-        "X": 3.6
-      },
-      "maxOdds": 4.8,
-      "minOdds": 1.8,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1, 2",
-        "Aksu": "X",
-        "JP": "1, 2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "1",
-      "apiStatus": "FINISHED",
-      "score": "1-0",
-      "homeFlag": "https://crests.football-data.org/769.svg",
-      "awayFlag": "https://crests.football-data.org/772.png"
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 36,
-      "group": "F",
-      "date": "2026-06-21T07:00:00",
-      "match": "Tunisia - Japani",
-      "home": "Tunisia",
-      "away": "Japani",
-      "odds": {
-        "1": 4.52,
-        "2": 1.92,
-        "X": 3.35
-      },
-      "maxOdds": 4.52,
-      "minOdds": 1.92,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "X, 2",
-        "Ian": "X",
-        "Masa": "X",
-        "Tomi": "X, 2",
-        "Aksu": "X, 2",
-        "JP": "1, 2",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "",
-      "apiStatus": "IN_PLAY",
-      "score": "0-4",
-      "homeFlag": "https://crests.football-data.org/tunisia.svg",
-      "awayFlag": "https://crests.football-data.org/766.svg"
-    },
     {
       "id": 37,
       "group": "H",
@@ -685,6 +651,40 @@
       "score": "",
       "homeFlag": "https://crests.football-data.org/813.svg",
       "awayFlag": "https://crests.football-data.org/senegal.svg"
+    },
+    {
+      "id": 44,
+      "group": "J",
+      "date": "2026-06-23T06:00:00",
+      "match": "Jordania - Algeria",
+      "home": "Jordania",
+      "away": "Algeria",
+      "odds": {
+        "1": 5.47,
+        "2": 1.65,
+        "X": 3.9
+      },
+      "maxOdds": 5.47,
+      "minOdds": 1.65,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "X",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "TIMED",
+      "score": "",
+      "homeFlag": "https://crests.football-data.org/8049.png",
+      "awayFlag": "https://crests.football-data.org/algeria.svg"
     }
   ],
   "matches": [
@@ -1787,9 +1787,9 @@
         "2": 1.92,
         "X": 3.35
       },
-      "result": "",
+      "result": "2",
       "score": "0-4",
-      "apiStatus": "IN_PLAY",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
