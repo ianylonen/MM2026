@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-21T05:10:35.721Z",
+  "generatedAt": "2026-06-21T05:20:34.895Z",
   "completedMatches": 35,
   "totalMatches": 72,
   "players": [
@@ -443,7 +443,7 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "PAUSED",
+      "apiStatus": "IN_PLAY",
       "score": "0-2",
       "homeFlag": "https://crests.football-data.org/tunisia.svg",
       "awayFlag": "https://crests.football-data.org/766.svg"
@@ -1789,7 +1789,7 @@
       },
       "result": "",
       "score": "0-2",
-      "apiStatus": "PAUSED",
+      "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
