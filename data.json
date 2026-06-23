@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-23T15:30:50.657Z",
+  "generatedAt": "2026-06-23T15:40:42.218Z",
   "completedMatches": 44,
   "totalMatches": 72,
   "players": [
@@ -765,7 +765,7 @@
         "X": 3.63
       },
       "result": "X",
-      "score": "",
+      "score": "1-1",
       "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "1",
