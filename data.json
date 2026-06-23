@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-23T21:10:35.239Z",
+  "generatedAt": "2026-06-23T21:20:38.980Z",
   "completedMatches": 45,
   "totalMatches": 72,
   "players": [
@@ -443,7 +443,7 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "PAUSED",
+      "apiStatus": "LIVE",
       "score": "0-0",
       "homeFlag": "https://crests.football-data.org/770.svg",
       "awayFlag": "https://crests.football-data.org/ghana.svg"
@@ -2099,7 +2099,7 @@
       },
       "result": "",
       "score": "0-0",
-      "apiStatus": "PAUSED",
+      "apiStatus": "LIVE",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
