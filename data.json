@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-23T03:00:49.004Z",
+  "generatedAt": "2026-06-23T03:10:38.424Z",
   "completedMatches": 43,
   "totalMatches": 72,
   "players": [
@@ -443,8 +443,8 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "TIMED",
-      "score": "",
+      "apiStatus": "IN_PLAY",
+      "score": "0-0",
       "homeFlag": "https://crests.football-data.org/8049.png",
       "awayFlag": "https://crests.football-data.org/algeria.svg"
     },
@@ -2036,8 +2036,8 @@
         "X": 3.9
       },
       "result": "",
-      "score": "",
-      "apiStatus": "TIMED",
+      "score": "0-0",
+      "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
