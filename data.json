@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-24T22:50:37.944Z",
+  "generatedAt": "2026-06-24T23:00:49.672Z",
   "completedMatches": 50,
   "totalMatches": 72,
   "players": [
@@ -443,8 +443,8 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "LIVE",
-      "score": "1-2",
+      "apiStatus": "PAUSED",
+      "score": "2-2",
       "homeFlag": "https://crests.football-data.org/morocco.svg",
       "awayFlag": "https://crests.football-data.org/haiti.svg"
     },
@@ -477,7 +477,7 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "LIVE",
+      "apiStatus": "PAUSED",
       "score": "0-2",
       "homeFlag": "https://crests.football-data.org/814.svg",
       "awayFlag": "https://crests.football-data.org/764.svg"
@@ -2253,8 +2253,8 @@
         "X": 5.05
       },
       "result": "",
-      "score": "1-2",
-      "apiStatus": "LIVE",
+      "score": "2-2",
+      "apiStatus": "PAUSED",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -2285,7 +2285,7 @@
       },
       "result": "",
       "score": "0-2",
-      "apiStatus": "LIVE",
+      "apiStatus": "PAUSED",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
