@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-24T20:40:37.860Z",
+  "generatedAt": "2026-06-24T20:50:39.139Z",
   "completedMatches": 48,
   "totalMatches": 72,
   "players": [
@@ -478,7 +478,7 @@
       },
       "result": "",
       "apiStatus": "IN_PLAY",
-      "score": "2-1",
+      "score": "3-1",
       "homeFlag": "https://crests.football-data.org/bosnia.svg",
       "awayFlag": "https://crests.football-data.org/8030.svg"
     },
@@ -2222,7 +2222,7 @@
         "X": 3.73
       },
       "result": "",
-      "score": "2-1",
+      "score": "3-1",
       "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "1",
