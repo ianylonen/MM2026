@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-24T00:10:35.071Z",
+  "generatedAt": "2026-06-24T00:20:38.860Z",
   "completedMatches": 46,
   "totalMatches": 72,
   "players": [
@@ -444,7 +444,7 @@
       },
       "result": "",
       "apiStatus": "LIVE",
-      "score": "0-0",
+      "score": "0-1",
       "homeFlag": "https://crests.football-data.org/panama.svg",
       "awayFlag": "https://crests.football-data.org/799.svg"
     },
@@ -765,7 +765,7 @@
         "X": 3.63
       },
       "result": "X",
-      "score": "1-1",
+      "score": "",
       "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "1",
@@ -2129,7 +2129,7 @@
         "X": 3.9
       },
       "result": "",
-      "score": "0-0",
+      "score": "0-1",
       "apiStatus": "LIVE",
       "predictions": {
         "ChatGPT": "2",
