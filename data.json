@@ -1,7 +1,7 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-24T00:50:39.777Z",
-  "completedMatches": 46,
+  "generatedAt": "2026-06-24T01:00:56.203Z",
+  "completedMatches": 47,
   "totalMatches": 72,
   "players": [
     "ChatGPT",
@@ -20,6 +20,17 @@
     {
       "rank": 1,
       "gapFromLeader": 0,
+      "name": "Aksu",
+      "matchPoints": 67.52,
+      "penaltyPoints": 0,
+      "finalPoints": 0,
+      "total": 67.52,
+      "gold": "Ranska",
+      "silver": "Brasilia"
+    },
+    {
+      "rank": 2,
+      "gapFromLeader": 0.5,
       "name": "Ristirivi",
       "matchPoints": 67.02,
       "penaltyPoints": 0,
@@ -29,30 +40,41 @@
       "silver": ""
     },
     {
-      "rank": 2,
-      "gapFromLeader": 1.05,
-      "name": "Aksu",
-      "matchPoints": 65.97,
-      "penaltyPoints": 0,
-      "finalPoints": 0,
-      "total": 65.97,
-      "gold": "Ranska",
-      "silver": "Brasilia"
-    },
-    {
       "rank": 3,
-      "gapFromLeader": 12.28,
+      "gapFromLeader": 11.23,
       "name": "Tomi",
-      "matchPoints": 54.74,
+      "matchPoints": 56.29,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 54.74,
+      "total": 56.29,
       "gold": "Espanja",
       "silver": "Brasilia"
     },
     {
       "rank": 4,
-      "gapFromLeader": 14.68,
+      "gapFromLeader": 13.64,
+      "name": "ChatGPT",
+      "matchPoints": 53.88,
+      "penaltyPoints": 0,
+      "finalPoints": 0,
+      "total": 53.88,
+      "gold": "Espanja",
+      "silver": "Ranska"
+    },
+    {
+      "rank": 5,
+      "gapFromLeader": 13.88,
+      "name": "Tupe",
+      "matchPoints": 53.64,
+      "penaltyPoints": 0,
+      "finalPoints": 0,
+      "total": 53.64,
+      "gold": "Espanja",
+      "silver": "Saksa"
+    },
+    {
+      "rank": 6,
+      "gapFromLeader": 15.18,
       "name": "JP",
       "matchPoints": 55.67,
       "penaltyPoints": -3.33,
@@ -62,41 +84,41 @@
       "silver": "Senegal"
     },
     {
-      "rank": 5,
-      "gapFromLeader": 14.69,
-      "name": "ChatGPT",
-      "matchPoints": 52.33,
-      "penaltyPoints": 0,
-      "finalPoints": 0,
-      "total": 52.33,
-      "gold": "Espanja",
-      "silver": "Ranska"
-    },
-    {
-      "rank": 6,
-      "gapFromLeader": 14.93,
-      "name": "Tupe",
-      "matchPoints": 52.09,
-      "penaltyPoints": 0,
-      "finalPoints": 0,
-      "total": 52.09,
-      "gold": "Espanja",
-      "silver": "Saksa"
-    },
-    {
       "rank": 7,
-      "gapFromLeader": 16.99,
+      "gapFromLeader": 15.94,
       "name": "Masa",
-      "matchPoints": 50.03,
+      "matchPoints": 51.58,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 50.03,
+      "total": 51.58,
       "gold": "Espanja",
       "silver": "Ranska"
     },
     {
       "rank": 8,
-      "gapFromLeader": 23.3,
+      "gapFromLeader": 23.57,
+      "name": "Valtsu",
+      "matchPoints": 43.95,
+      "penaltyPoints": 0,
+      "finalPoints": 0,
+      "total": 43.95,
+      "gold": "Portugali",
+      "silver": "Espanja"
+    },
+    {
+      "rank": 9,
+      "gapFromLeader": 23.8,
+      "name": "Ian",
+      "matchPoints": 43.72,
+      "penaltyPoints": 0,
+      "finalPoints": 0,
+      "total": 43.72,
+      "gold": "Ranska",
+      "silver": "Brasilia"
+    },
+    {
+      "rank": 9,
+      "gapFromLeader": 23.8,
       "name": "Ykkösrivi",
       "matchPoints": 43.72,
       "penaltyPoints": 0,
@@ -106,40 +128,52 @@
       "silver": ""
     },
     {
-      "rank": 9,
-      "gapFromLeader": 24.62,
-      "name": "Valtsu",
-      "matchPoints": 42.4,
-      "penaltyPoints": 0,
-      "finalPoints": 0,
-      "total": 42.4,
-      "gold": "Portugali",
-      "silver": "Espanja"
-    },
-    {
-      "rank": 10,
-      "gapFromLeader": 24.85,
-      "name": "Ian",
-      "matchPoints": 42.17,
-      "penaltyPoints": 0,
-      "finalPoints": 0,
-      "total": 42.17,
-      "gold": "Ranska",
-      "silver": "Brasilia"
-    },
-    {
       "rank": 11,
-      "gapFromLeader": 49.47,
+      "gapFromLeader": 48.42,
       "name": "Kakkosrivi",
-      "matchPoints": 17.55,
+      "matchPoints": 19.1,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 17.55,
+      "total": 19.1,
       "gold": "",
       "silver": ""
     }
   ],
   "recentMatches": [
+    {
+      "id": 47,
+      "group": "L",
+      "date": "2026-06-24T02:00:00",
+      "match": "Panama - Kroatia",
+      "home": "Panama",
+      "away": "Kroatia",
+      "odds": {
+        "1": 7.07,
+        "2": 1.55,
+        "X": 3.9
+      },
+      "maxOdds": 7.07,
+      "minOdds": 1.55,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "X, 2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "2",
+      "apiStatus": "FINISHED",
+      "score": "0-1",
+      "homeFlag": "https://crests.football-data.org/panama.svg",
+      "awayFlag": "https://crests.football-data.org/799.svg"
+    },
     {
       "id": 46,
       "group": "L",
@@ -377,77 +411,9 @@
       "score": "1-3",
       "homeFlag": "https://crests.football-data.org/783.svg",
       "awayFlag": "https://crests.football-data.org/825.svg"
-    },
-    {
-      "id": 39,
-      "group": "H",
-      "date": "2026-06-22T01:00:00",
-      "match": "Uruguay - Kap Verde",
-      "home": "Uruguay",
-      "away": "Kap Verde",
-      "odds": {
-        "1": 1.46,
-        "2": 7.2,
-        "X": 4.5
-      },
-      "maxOdds": 7.2,
-      "minOdds": 1.46,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "1",
-        "Masa": "1",
-        "Tomi": "1",
-        "Aksu": "1",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "X",
-      "apiStatus": "FINISHED",
-      "score": "2-2",
-      "homeFlag": "https://crests.football-data.org/758.svg",
-      "awayFlag": "https://crests.football-data.org/cape_verde.svg"
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 47,
-      "group": "L",
-      "date": "2026-06-24T02:00:00",
-      "match": "Panama - Kroatia",
-      "home": "Panama",
-      "away": "Kroatia",
-      "odds": {
-        "1": 7.07,
-        "2": 1.55,
-        "X": 3.9
-      },
-      "maxOdds": 7.07,
-      "minOdds": 1.55,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "X, 2",
-        "Ian": "2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "",
-      "apiStatus": "LIVE",
-      "score": "0-1",
-      "homeFlag": "https://crests.football-data.org/panama.svg",
-      "awayFlag": "https://crests.football-data.org/799.svg"
-    },
     {
       "id": 48,
       "group": "K",
@@ -685,6 +651,40 @@
       "score": "",
       "homeFlag": "https://crests.football-data.org/798.svg",
       "awayFlag": "https://crests.football-data.org/769.svg"
+    },
+    {
+      "id": 55,
+      "group": "E",
+      "date": "2026-06-25T23:00:00",
+      "match": "Curacao - Norsunluurannikko",
+      "home": "Curacao",
+      "away": "Norsunluurannikko",
+      "odds": {
+        "1": 10,
+        "2": 1.33,
+        "X": 4.97
+      },
+      "maxOdds": 10,
+      "minOdds": 1.33,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "",
+      "apiStatus": "TIMED",
+      "score": "",
+      "homeFlag": "https://crests.football-data.org/curacao.svg",
+      "awayFlag": "https://crests.football-data.org/787.svg"
     }
   ],
   "matches": [
@@ -2128,9 +2128,9 @@
         "2": 1.55,
         "X": 3.9
       },
-      "result": "",
+      "result": "2",
       "score": "0-1",
-      "apiStatus": "LIVE",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
