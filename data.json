@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-25T20:00:47.446Z",
+  "generatedAt": "2026-06-25T20:10:32.693Z",
   "completedMatches": 54,
   "totalMatches": 72,
   "players": [
@@ -443,8 +443,8 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "TIMED",
-      "score": "",
+      "apiStatus": "LIVE",
+      "score": "0-0",
       "homeFlag": "https://crests.football-data.org/curacao.svg",
       "awayFlag": "https://crests.football-data.org/787.svg"
     },
@@ -477,8 +477,8 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "TIMED",
-      "score": "",
+      "apiStatus": "LIVE",
+      "score": "0-1",
       "homeFlag": "https://crests.football-data.org/791.svg",
       "awayFlag": "https://crests.football-data.org/759.svg"
     },
@@ -2377,8 +2377,8 @@
         "X": 4.97
       },
       "result": "",
-      "score": "",
-      "apiStatus": "TIMED",
+      "score": "0-0",
+      "apiStatus": "LIVE",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -2408,8 +2408,8 @@
         "X": 3.82
       },
       "result": "",
-      "score": "",
-      "apiStatus": "TIMED",
+      "score": "0-1",
+      "apiStatus": "LIVE",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
