@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-24T23:50:34.371Z",
+  "generatedAt": "2026-06-25T00:00:58.135Z",
   "completedMatches": 50,
   "totalMatches": 72,
   "players": [
@@ -444,7 +444,7 @@
       },
       "result": "",
       "apiStatus": "IN_PLAY",
-      "score": "3-2",
+      "score": "4-2",
       "homeFlag": "https://crests.football-data.org/morocco.svg",
       "awayFlag": "https://crests.football-data.org/haiti.svg"
     },
@@ -2253,7 +2253,7 @@
         "X": 5.05
       },
       "result": "",
-      "score": "3-2",
+      "score": "4-2",
       "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "1",
