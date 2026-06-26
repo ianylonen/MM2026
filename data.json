@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-26T00:20:33.508Z",
+  "generatedAt": "2026-06-26T00:30:44.842Z",
   "completedMatches": 56,
   "totalMatches": 72,
   "players": [
@@ -444,7 +444,7 @@
       },
       "result": "",
       "apiStatus": "IN_PLAY",
-      "score": "1-2",
+      "score": "1-3",
       "homeFlag": "https://crests.football-data.org/tunisia.svg",
       "awayFlag": "https://crests.football-data.org/8601.svg"
     },
@@ -478,7 +478,7 @@
       },
       "result": "",
       "apiStatus": "IN_PLAY",
-      "score": "0-0",
+      "score": "1-1",
       "homeFlag": "https://crests.football-data.org/766.svg",
       "awayFlag": "https://crests.football-data.org/792.svg"
     },
@@ -2439,7 +2439,7 @@
         "X": 4.07
       },
       "result": "",
-      "score": "1-2",
+      "score": "1-3",
       "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "2",
@@ -2470,7 +2470,7 @@
         "X": 3.45
       },
       "result": "",
-      "score": "0-0",
+      "score": "1-1",
       "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "1",
