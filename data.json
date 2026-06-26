@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-26T20:10:38.049Z",
+  "generatedAt": "2026-06-26T20:20:34.268Z",
   "completedMatches": 60,
   "totalMatches": 72,
   "players": [
@@ -443,7 +443,7 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "PAUSED",
+      "apiStatus": "IN_PLAY",
       "score": "1-3",
       "homeFlag": "https://crests.football-data.org/813.svg",
       "awayFlag": "https://crests.football-data.org/773.svg"
@@ -477,7 +477,7 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "PAUSED",
+      "apiStatus": "LIVE",
       "score": "1-0",
       "homeFlag": "https://crests.football-data.org/senegal.svg",
       "awayFlag": "https://crests.football-data.org/iraq.svg"
@@ -2564,7 +2564,7 @@
       },
       "result": "",
       "score": "1-3",
-      "apiStatus": "PAUSED",
+      "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -2595,7 +2595,7 @@
       },
       "result": "",
       "score": "1-0",
-      "apiStatus": "PAUSED",
+      "apiStatus": "LIVE",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
