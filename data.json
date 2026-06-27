@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-27T21:50:35.467Z",
+  "generatedAt": "2026-06-27T22:00:54.388Z",
   "completedMatches": 66,
   "totalMatches": 72,
   "players": [
@@ -443,7 +443,7 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "LIVE",
+      "apiStatus": "PAUSED",
       "score": "1-0",
       "homeFlag": "https://crests.football-data.org/799.svg",
       "awayFlag": "https://crests.football-data.org/ghana.svg"
@@ -477,7 +477,7 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "IN_PLAY",
+      "apiStatus": "PAUSED",
       "score": "0-0",
       "homeFlag": "https://crests.football-data.org/panama.svg",
       "awayFlag": "https://crests.football-data.org/770.svg"
@@ -2682,7 +2682,7 @@
       },
       "result": "",
       "score": "1-0",
-      "apiStatus": "LIVE",
+      "apiStatus": "PAUSED",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -2713,7 +2713,7 @@
       },
       "result": "",
       "score": "0-0",
-      "apiStatus": "IN_PLAY",
+      "apiStatus": "PAUSED",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
