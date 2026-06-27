@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-27T05:10:37.540Z",
+  "generatedAt": "2026-06-27T05:20:37.905Z",
   "completedMatches": 66,
   "totalMatches": 72,
   "players": [
@@ -30,6 +30,17 @@
     },
     {
       "rank": 2,
+      "gapFromLeader": 10.57,
+      "name": "Tomi",
+      "matchPoints": 82.95,
+      "penaltyPoints": 0,
+      "finalPoints": 0,
+      "total": 82.95,
+      "gold": "Espanja",
+      "silver": "Brasilia"
+    },
+    {
+      "rank": 3,
       "gapFromLeader": 11.18,
       "name": "Tupe",
       "matchPoints": 82.34,
@@ -40,48 +51,37 @@
       "silver": "Saksa"
     },
     {
-      "rank": 3,
-      "gapFromLeader": 12.84,
-      "name": "JP",
-      "matchPoints": 84.01,
-      "penaltyPoints": -3.33,
-      "finalPoints": 0,
-      "total": 80.68,
-      "gold": "Kanada",
-      "silver": "Senegal"
-    },
-    {
       "rank": 4,
-      "gapFromLeader": 13.6,
-      "name": "Tomi",
-      "matchPoints": 79.92,
-      "penaltyPoints": 0,
-      "finalPoints": 0,
-      "total": 79.92,
-      "gold": "Espanja",
-      "silver": "Brasilia"
-    },
-    {
-      "rank": 5,
-      "gapFromLeader": 14.95,
+      "gapFromLeader": 11.92,
       "name": "Masa",
-      "matchPoints": 78.57,
+      "matchPoints": 81.6,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 78.57,
+      "total": 81.6,
       "gold": "Espanja",
       "silver": "Ranska"
     },
     {
-      "rank": 6,
-      "gapFromLeader": 16.39,
+      "rank": 5,
+      "gapFromLeader": 13.36,
       "name": "Ristirivi",
-      "matchPoints": 77.13,
+      "matchPoints": 80.16,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 77.13,
+      "total": 80.16,
       "gold": "",
       "silver": ""
+    },
+    {
+      "rank": 6,
+      "gapFromLeader": 16.31,
+      "name": "JP",
+      "matchPoints": 80.54,
+      "penaltyPoints": -3.33,
+      "finalPoints": 0,
+      "total": 77.21,
+      "gold": "Kanada",
+      "silver": "Senegal"
     },
     {
       "rank": 7,
@@ -129,12 +129,12 @@
     },
     {
       "rank": 11,
-      "gapFromLeader": 59.99,
+      "gapFromLeader": 63.46,
       "name": "Kakkosrivi",
-      "matchPoints": 33.53,
+      "matchPoints": 30.06,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 33.53,
+      "total": 30.06,
       "gold": "",
       "silver": ""
     }
@@ -168,9 +168,9 @@
         "Ristirivi": "X",
         "Kakkosrivi": "2"
       },
-      "result": "2",
+      "result": "X",
       "apiStatus": "FINISHED",
-      "score": "1-2",
+      "score": "1-1",
       "homeFlag": "https://crests.football-data.org/825.svg",
       "awayFlag": "https://crests.football-data.org/iran.svg"
     },
@@ -2618,8 +2618,8 @@
         "2": 3.47,
         "X": 3.03
       },
-      "result": "2",
-      "score": "1-2",
+      "result": "X",
+      "score": "1-1",
       "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "1",
