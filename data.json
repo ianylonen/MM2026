@@ -1,7 +1,7 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-27T23:20:38.153Z",
-  "completedMatches": 66,
+  "generatedAt": "2026-06-27T23:30:41.186Z",
+  "completedMatches": 68,
   "totalMatches": 72,
   "players": [
     "ChatGPT",
@@ -21,120 +21,120 @@
       "rank": 1,
       "gapFromLeader": 0,
       "name": "Aksu",
-      "matchPoints": 94.79,
+      "matchPoints": 96.52,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 94.79,
+      "total": 96.52,
       "gold": "Ranska",
       "silver": "Brasilia"
     },
     {
       "rank": 2,
-      "gapFromLeader": 10.93,
-      "name": "Tupe",
-      "matchPoints": 83.86,
+      "gapFromLeader": 10.57,
+      "name": "Tomi",
+      "matchPoints": 85.95,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 83.86,
+      "total": 85.95,
+      "gold": "Espanja",
+      "silver": "Brasilia"
+    },
+    {
+      "rank": 3,
+      "gapFromLeader": 11.18,
+      "name": "Tupe",
+      "matchPoints": 85.34,
+      "penaltyPoints": 0,
+      "finalPoints": 0,
+      "total": 85.34,
       "gold": "Espanja",
       "silver": "Saksa"
     },
     {
-      "rank": 3,
-      "gapFromLeader": 13.84,
-      "name": "JP",
-      "matchPoints": 84.28,
-      "penaltyPoints": -3.33,
-      "finalPoints": 0,
-      "total": 80.95,
-      "gold": "Kanada",
-      "silver": "Senegal"
-    },
-    {
       "rank": 4,
-      "gapFromLeader": 14.95,
+      "gapFromLeader": 11.92,
       "name": "Masa",
-      "matchPoints": 79.84,
+      "matchPoints": 84.6,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 79.84,
+      "total": 84.6,
       "gold": "Espanja",
       "silver": "Ranska"
     },
     {
       "rank": 5,
-      "gapFromLeader": 15.08,
-      "name": "Tomi",
-      "matchPoints": 79.71,
-      "penaltyPoints": 0,
-      "finalPoints": 0,
-      "total": 79.71,
-      "gold": "Espanja",
-      "silver": "Brasilia"
-    },
-    {
-      "rank": 6,
-      "gapFromLeader": 17.66,
+      "gapFromLeader": 16.36,
       "name": "Ristirivi",
-      "matchPoints": 77.13,
+      "matchPoints": 80.16,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 77.13,
+      "total": 80.16,
       "gold": "",
       "silver": ""
     },
     {
+      "rank": 6,
+      "gapFromLeader": 17.56,
+      "name": "JP",
+      "matchPoints": 82.29,
+      "penaltyPoints": -3.33,
+      "finalPoints": 0,
+      "total": 78.96,
+      "gold": "Kanada",
+      "silver": "Senegal"
+    },
+    {
       "rank": 7,
-      "gapFromLeader": 22.38,
+      "gapFromLeader": 20.9,
       "name": "Valtsu",
-      "matchPoints": 72.41,
+      "matchPoints": 75.62,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 72.41,
+      "total": 75.62,
       "gold": "Portugali",
       "silver": "Espanja"
     },
     {
       "rank": 8,
-      "gapFromLeader": 23.72,
+      "gapFromLeader": 22.24,
       "name": "ChatGPT",
-      "matchPoints": 71.07,
+      "matchPoints": 74.28,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 71.07,
+      "total": 74.28,
       "gold": "Espanja",
       "silver": "Ranska"
     },
     {
       "rank": 9,
-      "gapFromLeader": 24.2,
+      "gapFromLeader": 22.72,
       "name": "Ian",
-      "matchPoints": 70.59,
+      "matchPoints": 73.8,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 70.59,
+      "total": 73.8,
       "gold": "Ranska",
       "silver": "Brasilia"
     },
     {
       "rank": 10,
-      "gapFromLeader": 30.94,
+      "gapFromLeader": 31.19,
       "name": "Ykkösrivi",
-      "matchPoints": 63.85,
+      "matchPoints": 65.33,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 63.85,
+      "total": 65.33,
       "gold": "",
       "silver": ""
     },
     {
       "rank": 11,
-      "gapFromLeader": 61.74,
+      "gapFromLeader": 65.21,
       "name": "Kakkosrivi",
-      "matchPoints": 33.05,
+      "matchPoints": 31.31,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 33.05,
+      "total": 31.31,
       "gold": "",
       "silver": ""
     }
@@ -236,9 +236,9 @@
         "Ristirivi": "X",
         "Kakkosrivi": "2"
       },
-      "result": "2",
+      "result": "X",
       "apiStatus": "FINISHED",
-      "score": "1-2",
+      "score": "1-1",
       "homeFlag": "https://crests.football-data.org/825.svg",
       "awayFlag": "https://crests.football-data.org/iran.svg"
     },
@@ -345,76 +345,6 @@
       "awayFlag": "https://crests.football-data.org/760.svg"
     },
     {
-      "id": 59,
-      "group": "D",
-      "date": "2026-06-26T05:00:00",
-      "match": "Turkki - Yhdysvallat",
-      "home": "Turkki",
-      "away": "Yhdysvallat",
-      "odds": {
-        "1": 2.75,
-        "2": 2.55,
-        "X": 3.43
-      },
-      "maxOdds": 3.43,
-      "minOdds": 2.55,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "X, 2",
-        "Valtsu": "1, X",
-        "Tupe": "1, X",
-        "Ian": "X, 2",
-        "Masa": "1, 2",
-        "Tomi": "X",
-        "Aksu": "X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "1",
-      "apiStatus": "FINISHED",
-      "score": "3-2",
-      "homeFlag": "https://crests.football-data.org/803.svg",
-      "awayFlag": "https://crests.football-data.org/usa.svg"
-    },
-    {
-      "id": 60,
-      "group": "D",
-      "date": "2026-06-26T05:00:00",
-      "match": "Paraguay - Australia",
-      "home": "Paraguay",
-      "away": "Australia",
-      "odds": {
-        "1": 2.21,
-        "2": 3.5,
-        "X": 3.23
-      },
-      "maxOdds": 3.5,
-      "minOdds": 2.21,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "X",
-        "Masa": "1, X",
-        "Tomi": "X",
-        "Aksu": "X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "X",
-      "apiStatus": "FINISHED",
-      "score": "0-0",
-      "homeFlag": "https://crests.football-data.org/761.svg",
-      "awayFlag": "https://crests.football-data.org/779.svg"
-    }
-  ],
-  "upcomingMatches": [
-    {
       "id": 61,
       "group": "I",
       "date": "2026-06-26T22:00:00",
@@ -442,9 +372,9 @@
         "Ristirivi": "X",
         "Kakkosrivi": "2"
       },
-      "result": "",
-      "apiStatus": "TIMED",
-      "score": "",
+      "result": "2",
+      "apiStatus": "FINISHED",
+      "score": "1-4",
       "homeFlag": "https://crests.football-data.org/813.svg",
       "awayFlag": "https://crests.football-data.org/773.svg"
     },
@@ -476,12 +406,14 @@
         "Ristirivi": "X",
         "Kakkosrivi": "2"
       },
-      "result": "",
-      "apiStatus": "TIMED",
-      "score": "",
+      "result": "1",
+      "apiStatus": "FINISHED",
+      "score": "5-0",
       "homeFlag": "https://crests.football-data.org/senegal.svg",
       "awayFlag": "https://crests.football-data.org/iraq.svg"
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 69,
       "group": "K",
@@ -2494,9 +2426,9 @@
         "2": 1.73,
         "X": 3.73
       },
-      "result": "",
-      "score": "",
-      "apiStatus": "TIMED",
+      "result": "2",
+      "score": "1-4",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
@@ -2525,9 +2457,9 @@
         "2": 7.27,
         "X": 4.27
       },
-      "result": "",
-      "score": "",
-      "apiStatus": "TIMED",
+      "result": "1",
+      "score": "5-0",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "1",
@@ -2618,8 +2550,8 @@
         "2": 3.47,
         "X": 3.03
       },
-      "result": "2",
-      "score": "1-2",
+      "result": "X",
+      "score": "1-1",
       "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "1",
