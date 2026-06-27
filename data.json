@@ -1,7 +1,7 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-27T22:50:34.315Z",
-  "completedMatches": 66,
+  "generatedAt": "2026-06-27T23:00:51.004Z",
+  "completedMatches": 67,
   "totalMatches": 72,
   "players": [
     "ChatGPT",
@@ -21,10 +21,10 @@
       "rank": 1,
       "gapFromLeader": 0,
       "name": "Aksu",
-      "matchPoints": 93.52,
+      "matchPoints": 94.77,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 93.52,
+      "total": 94.77,
       "gold": "Ranska",
       "silver": "Brasilia"
     },
@@ -32,10 +32,10 @@
       "rank": 2,
       "gapFromLeader": 10.57,
       "name": "Tomi",
-      "matchPoints": 82.95,
+      "matchPoints": 84.2,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 82.95,
+      "total": 84.2,
       "gold": "Espanja",
       "silver": "Brasilia"
     },
@@ -43,10 +43,10 @@
       "rank": 3,
       "gapFromLeader": 11.18,
       "name": "Tupe",
-      "matchPoints": 82.34,
+      "matchPoints": 83.59,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 82.34,
+      "total": 83.59,
       "gold": "Espanja",
       "silver": "Saksa"
     },
@@ -54,16 +54,16 @@
       "rank": 4,
       "gapFromLeader": 11.92,
       "name": "Masa",
-      "matchPoints": 81.6,
+      "matchPoints": 82.85,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 81.6,
+      "total": 82.85,
       "gold": "Espanja",
       "silver": "Ranska"
     },
     {
       "rank": 5,
-      "gapFromLeader": 13.36,
+      "gapFromLeader": 14.61,
       "name": "Ristirivi",
       "matchPoints": 80.16,
       "penaltyPoints": 0,
@@ -74,7 +74,7 @@
     },
     {
       "rank": 6,
-      "gapFromLeader": 16.31,
+      "gapFromLeader": 17.56,
       "name": "JP",
       "matchPoints": 80.54,
       "penaltyPoints": -3.33,
@@ -87,10 +87,10 @@
       "rank": 7,
       "gapFromLeader": 20.9,
       "name": "Valtsu",
-      "matchPoints": 72.62,
+      "matchPoints": 73.87,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 72.62,
+      "total": 73.87,
       "gold": "Portugali",
       "silver": "Espanja"
     },
@@ -98,10 +98,10 @@
       "rank": 8,
       "gapFromLeader": 22.24,
       "name": "ChatGPT",
-      "matchPoints": 71.28,
+      "matchPoints": 72.53,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 71.28,
+      "total": 72.53,
       "gold": "Espanja",
       "silver": "Ranska"
     },
@@ -109,16 +109,16 @@
       "rank": 9,
       "gapFromLeader": 22.72,
       "name": "Ian",
-      "matchPoints": 70.8,
+      "matchPoints": 72.05,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 70.8,
+      "total": 72.05,
       "gold": "Ranska",
       "silver": "Brasilia"
     },
     {
       "rank": 10,
-      "gapFromLeader": 29.94,
+      "gapFromLeader": 31.19,
       "name": "Ykkösrivi",
       "matchPoints": 63.58,
       "penaltyPoints": 0,
@@ -131,15 +131,49 @@
       "rank": 11,
       "gapFromLeader": 63.46,
       "name": "Kakkosrivi",
-      "matchPoints": 30.06,
+      "matchPoints": 31.31,
       "penaltyPoints": 0,
       "finalPoints": 0,
-      "total": 30.06,
+      "total": 31.31,
       "gold": "",
       "silver": ""
     }
   ],
   "recentMatches": [
+    {
+      "id": 68,
+      "group": "L",
+      "date": "2026-06-28T02:30:00",
+      "match": "Panama - Englanti",
+      "home": "Panama",
+      "away": "Englanti",
+      "odds": {
+        "1": 10,
+        "2": 1.25,
+        "X": 6.13
+      },
+      "maxOdds": 10,
+      "minOdds": 1.25,
+      "initialResult": "",
+      "predictions": {
+        "ChatGPT": "2",
+        "Valtsu": "2",
+        "Tupe": "2",
+        "Ian": "2",
+        "Masa": "2",
+        "Tomi": "2",
+        "Aksu": "2",
+        "JP": "1",
+        "Ykkösrivi": "1",
+        "Ristirivi": "X",
+        "Kakkosrivi": "2"
+      },
+      "result": "2",
+      "apiStatus": "FINISHED",
+      "score": "0-2",
+      "homeFlag": "https://crests.football-data.org/panama.svg",
+      "awayFlag": "https://crests.football-data.org/770.svg"
+    },
     {
       "id": 65,
       "group": "G",
@@ -377,40 +411,6 @@
       "score": "3-2",
       "homeFlag": "https://crests.football-data.org/803.svg",
       "awayFlag": "https://crests.football-data.org/usa.svg"
-    },
-    {
-      "id": 60,
-      "group": "D",
-      "date": "2026-06-26T05:00:00",
-      "match": "Paraguay - Australia",
-      "home": "Paraguay",
-      "away": "Australia",
-      "odds": {
-        "1": 2.21,
-        "2": 3.5,
-        "X": 3.23
-      },
-      "maxOdds": 3.5,
-      "minOdds": 2.21,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "1",
-        "Valtsu": "1",
-        "Tupe": "1",
-        "Ian": "X",
-        "Masa": "1, X",
-        "Tomi": "X",
-        "Aksu": "X",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "X",
-      "apiStatus": "FINISHED",
-      "score": "0-0",
-      "homeFlag": "https://crests.football-data.org/761.svg",
-      "awayFlag": "https://crests.football-data.org/779.svg"
     }
   ],
   "upcomingMatches": [
@@ -447,40 +447,6 @@
       "score": "2-1",
       "homeFlag": "https://crests.football-data.org/799.svg",
       "awayFlag": "https://crests.football-data.org/ghana.svg"
-    },
-    {
-      "id": 68,
-      "group": "L",
-      "date": "2026-06-28T02:30:00",
-      "match": "Panama - Englanti",
-      "home": "Panama",
-      "away": "Englanti",
-      "odds": {
-        "1": 10,
-        "2": 1.25,
-        "X": 6.13
-      },
-      "maxOdds": 10,
-      "minOdds": 1.25,
-      "initialResult": "",
-      "predictions": {
-        "ChatGPT": "2",
-        "Valtsu": "2",
-        "Tupe": "2",
-        "Ian": "2",
-        "Masa": "2",
-        "Tomi": "2",
-        "Aksu": "2",
-        "JP": "1",
-        "Ykkösrivi": "1",
-        "Ristirivi": "X",
-        "Kakkosrivi": "2"
-      },
-      "result": "",
-      "apiStatus": "IN_PLAY",
-      "score": "0-2",
-      "homeFlag": "https://crests.football-data.org/panama.svg",
-      "awayFlag": "https://crests.football-data.org/770.svg"
     },
     {
       "id": 69,
@@ -2711,9 +2677,9 @@
         "2": 1.25,
         "X": 6.13
       },
-      "result": "",
+      "result": "2",
       "score": "0-2",
-      "apiStatus": "IN_PLAY",
+      "apiStatus": "FINISHED",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "2",
