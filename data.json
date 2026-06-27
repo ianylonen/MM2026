@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-27T23:30:41.186Z",
+  "generatedAt": "2026-06-27T23:40:33.135Z",
   "completedMatches": 68,
   "totalMatches": 72,
   "players": [
@@ -443,8 +443,8 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "TIMED",
-      "score": "",
+      "apiStatus": "LIVE",
+      "score": "0-0",
       "homeFlag": "https://crests.football-data.org/818.svg",
       "awayFlag": "https://crests.football-data.org/765.svg"
     },
@@ -477,8 +477,8 @@
         "Kakkosrivi": "2"
       },
       "result": "",
-      "apiStatus": "TIMED",
-      "score": "",
+      "apiStatus": "LIVE",
+      "score": "0-0",
       "homeFlag": "https://crests.football-data.org/congo_dr.svg",
       "awayFlag": "https://crests.football-data.org/8070.png"
     },
@@ -2675,8 +2675,8 @@
         "X": 3.28
       },
       "result": "",
-      "score": "",
-      "apiStatus": "TIMED",
+      "score": "0-0",
+      "apiStatus": "LIVE",
       "predictions": {
         "ChatGPT": "2",
         "Valtsu": "X, 2",
@@ -2706,8 +2706,8 @@
         "X": 3.33
       },
       "result": "",
-      "score": "",
-      "apiStatus": "TIMED",
+      "score": "0-0",
+      "apiStatus": "LIVE",
       "predictions": {
         "ChatGPT": "1",
         "Valtsu": "X",
