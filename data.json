@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-28T02:20:37.822Z",
+  "generatedAt": "2026-06-28T02:30:39.837Z",
   "completedMatches": 70,
   "totalMatches": 72,
   "players": [
@@ -478,7 +478,7 @@
       },
       "result": "",
       "apiStatus": "IN_PLAY",
-      "score": "0-0",
+      "score": "0-1",
       "homeFlag": "https://crests.football-data.org/8049.png",
       "awayFlag": "https://crests.football-data.org/762.png"
     }
@@ -2700,7 +2700,7 @@
         "X": 6.97
       },
       "result": "",
-      "score": "0-0",
+      "score": "0-1",
       "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "2",
