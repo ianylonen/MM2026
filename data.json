@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-28T03:20:37.551Z",
+  "generatedAt": "2026-06-28T03:30:42.562Z",
   "completedMatches": 70,
   "totalMatches": 72,
   "players": [
@@ -444,7 +444,7 @@
       },
       "result": "",
       "apiStatus": "IN_PLAY",
-      "score": "1-1",
+      "score": "2-2",
       "homeFlag": "https://crests.football-data.org/algeria.svg",
       "awayFlag": "https://crests.football-data.org/816.svg"
     },
@@ -478,7 +478,7 @@
       },
       "result": "",
       "apiStatus": "IN_PLAY",
-      "score": "0-2",
+      "score": "1-2",
       "homeFlag": "https://crests.football-data.org/8049.png",
       "awayFlag": "https://crests.football-data.org/762.png"
     }
@@ -2669,7 +2669,7 @@
         "X": 3.28
       },
       "result": "",
-      "score": "1-1",
+      "score": "2-2",
       "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "2",
@@ -2700,7 +2700,7 @@
         "X": 6.97
       },
       "result": "",
-      "score": "0-2",
+      "score": "1-2",
       "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "2",
