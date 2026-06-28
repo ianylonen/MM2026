@@ -1,6 +1,6 @@
 {
   "title": "MM 2026 - EUMAM-veikkaus",
-  "generatedAt": "2026-06-28T01:00:49.546Z",
+  "generatedAt": "2026-06-28T01:10:36.496Z",
   "completedMatches": 68,
   "totalMatches": 72,
   "players": [
@@ -478,7 +478,7 @@
       },
       "result": "",
       "apiStatus": "IN_PLAY",
-      "score": "0-1",
+      "score": "1-1",
       "homeFlag": "https://crests.football-data.org/congo_dr.svg",
       "awayFlag": "https://crests.football-data.org/8070.png"
     },
@@ -2706,7 +2706,7 @@
         "X": 3.33
       },
       "result": "",
-      "score": "0-1",
+      "score": "1-1",
       "apiStatus": "IN_PLAY",
       "predictions": {
         "ChatGPT": "1",
